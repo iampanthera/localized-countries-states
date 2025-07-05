@@ -1,6 +1,11 @@
 import fs from "fs";
 import path from "path";
 import { defaultLocale } from "../config";
+import {
+  getLocalizedName,
+  normalizeLocale,
+  isLocaleSupported,
+} from "./localizer";
 
 // Define the type for countries data
 interface CountryData {
@@ -14,24 +19,54 @@ const countriesData: CountryData = JSON.parse(
 );
 
 export function getAllCountries(locale?: string) {
-  const useLocale = locale || defaultLocale;
-  let localizer: Intl.DisplayNames | undefined;
-  try {
-    localizer = new Intl.DisplayNames([useLocale], { type: "region" });
-  } catch {}
-  return Object.entries(countriesData).map(([code, { name }]) => ({
-    code,
-    name: localizer ? localizer.of(code) || name : name,
-  }));
+  const useLocale = locale ? normalizeLocale(locale) : defaultLocale;
+
+  return Object.entries(countriesData).map(([code, { name }]) => {
+    const localizedName = getLocalizedName(code, useLocale, "region");
+    return {
+      code,
+      name: localizedName || name, // Fallback to English name if localization fails
+    };
+  });
 }
 
 export function getCountryName(code: string, locale?: string): string {
-  const useLocale = locale || defaultLocale;
-  let localizer: Intl.DisplayNames | undefined;
-  try {
-    localizer = new Intl.DisplayNames([useLocale], { type: "region" });
-  } catch {}
+  const useLocale = locale ? normalizeLocale(locale) : defaultLocale;
   const country = countriesData[code];
+
   if (!country) return "";
-  return localizer ? localizer.of(code) || country.name : country.name;
+
+  const localizedName = getLocalizedName(code, useLocale, "region");
+  return localizedName || country.name; // Fallback to English name
+}
+
+/**
+ * Get countries filtered by region or language
+ */
+export function getCountriesByRegion(region: string, locale?: string) {
+  const countries = getAllCountries(locale);
+  // This is a simplified filter - in a real implementation you'd have region mappings
+  return countries.filter((country) => {
+    // Add region-based filtering logic here
+    return true; // For now, return all countries
+  });
+}
+
+/**
+ * Get countries that speak a specific language
+ */
+export function getCountriesByLanguage(language: string, locale?: string) {
+  const countries = getAllCountries(locale);
+  // This is a simplified filter - in a real implementation you'd have language mappings
+  return countries.filter((country) => {
+    // Add language-based filtering logic here
+    return true; // For now, return all countries
+  });
+}
+
+/**
+ * Check if a locale is supported
+ */
+export function isCountryLocaleSupported(locale: string): boolean {
+  return isLocaleSupported(locale);
 }

@@ -3,6 +3,13 @@ import {
   getAllCountries,
   getStatesOfCountry,
   getCountryName,
+  getStateName,
+  getAvailableStateLocales,
+  hasLocalizedStates,
+  normalizeLocale,
+  parseLocale,
+  isLocaleSupported,
+  COMMON_LOCALES,
 } from "../src";
 
 describe("country-localizer", () => {
@@ -106,5 +113,62 @@ describe("country-localizer", () => {
   it("returns empty array for countries without state data", () => {
     const states = getStatesOfCountry("XX");
     expect(states).toEqual([]);
+  });
+
+  // New localization tests
+  describe("Enhanced Localization", () => {
+    it("normalizeLocale handles various formats", () => {
+      expect(normalizeLocale("en-us")).toBe("en-US");
+      expect(normalizeLocale("FR-fr")).toBe("fr-FR");
+      expect(normalizeLocale("es-MX")).toBe("es-MX");
+      expect(normalizeLocale("invalid")).toBe("en-US");
+    });
+
+    it("parseLocale correctly parses BCP 47 locales", () => {
+      const result1 = parseLocale("en-US");
+      expect(result1).toEqual({ language: "en", region: "US" });
+
+      const result2 = parseLocale("fr-FR");
+      expect(result2).toEqual({ language: "fr", region: "FR" });
+
+      const result3 = parseLocale("zh-Hans-CN");
+      expect(result3).toEqual({ language: "zh", script: "Hans", region: "CN" });
+
+      expect(parseLocale("invalid")).toBeNull();
+    });
+
+    it("isLocaleSupported checks locale availability", () => {
+      expect(isLocaleSupported("en-US")).toBe(true);
+      expect(isLocaleSupported("fr-FR")).toBe(true);
+      expect(isLocaleSupported("invalid-locale")).toBe(false);
+    });
+
+    it("COMMON_LOCALES contains expected locales", () => {
+      expect(COMMON_LOCALES).toContain("en-US");
+      expect(COMMON_LOCALES).toContain("fr-FR");
+      expect(COMMON_LOCALES).toContain("es-ES");
+      expect(COMMON_LOCALES).toContain("de-DE");
+      expect(COMMON_LOCALES).toContain("zh-CN");
+      expect(COMMON_LOCALES).toContain("ja-JP");
+    });
+
+    it("getStateName returns localized state names when available", () => {
+      // Test with US states - should return English names by default
+      expect(getStateName("US", "CA")).toBe("California");
+      expect(getStateName("US", "NY")).toBe("New York");
+    });
+
+    it("getAvailableStateLocales returns available locales", () => {
+      const locales = getAvailableStateLocales("US");
+      // Should return available locales for US states
+      expect(Array.isArray(locales)).toBe(true);
+    });
+
+    it("hasLocalizedStates checks for localized state availability", () => {
+      // Test with US states
+      expect(hasLocalizedStates("US", "es-ES")).toBe(true);
+      expect(hasLocalizedStates("US", "fr-FR")).toBe(true);
+      expect(hasLocalizedStates("US", "invalid")).toBe(false);
+    });
   });
 });
