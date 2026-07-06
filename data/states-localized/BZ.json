@@ -1,0 +1,90 @@
+{
+  "ru": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Кайо",
+    "BZ-CZL": "Коросаль",
+    "BZ-OW": "Ориндж-Уолк",
+    "BZ-SC": "Станн-Крик",
+    "BZ-TOL": "Толедо"
+  },
+  "de": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Cayo District",
+    "BZ-CZL": "Corozal District",
+    "BZ-OW": "Orange Walk District",
+    "BZ-SC": "Stann Creek District",
+    "BZ-TOL": "Toledo District"
+  },
+  "fr": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "District de Cayo",
+    "BZ-CZL": "District de Corozal",
+    "BZ-OW": "District d'Orange Walk",
+    "BZ-SC": "District de Stann Creek",
+    "BZ-TOL": "District de Toledo"
+  },
+  "es": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Distrito de Cayo",
+    "BZ-CZL": "Distrito de Corozal",
+    "BZ-OW": "Distrito de Orange Walk",
+    "BZ-SC": "Distrito de Stann Creek",
+    "BZ-TOL": "Distrito de Toledo"
+  },
+  "zh": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "卡約區",
+    "BZ-CZL": "科羅薩爾區",
+    "BZ-OW": "橘園區",
+    "BZ-SC": "斯坦克里克區",
+    "BZ-TOL": "托萊多區"
+  },
+  "hi": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Cayo District",
+    "BZ-CZL": "Corozal District",
+    "BZ-OW": "Orange Walk District",
+    "BZ-SC": "Stann Creek District",
+    "BZ-TOL": "Toledo District"
+  },
+  "pt": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Cayo District",
+    "BZ-CZL": "Corozal District",
+    "BZ-OW": "Orange Walk District",
+    "BZ-SC": "Stann Creek District",
+    "BZ-TOL": "Toledo District"
+  },
+  "ja": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Cayo District",
+    "BZ-CZL": "Corozal District",
+    "BZ-OW": "Orange Walk District",
+    "BZ-SC": "Stann Creek District",
+    "BZ-TOL": "Toledo District"
+  },
+  "ar": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Cayo District",
+    "BZ-CZL": "Corozal District",
+    "BZ-OW": "Orange Walk District",
+    "BZ-SC": "Stann Creek District",
+    "BZ-TOL": "Toledo District"
+  },
+  "it": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Distretto di Cayo",
+    "BZ-CZL": "Distretto di Corozal",
+    "BZ-OW": "Distretto di Orange Walk",
+    "BZ-SC": "Distretto di Stann Creek",
+    "BZ-TOL": "Distretto di Toledo"
+  },
+  "he": {
+    "BZ-BZ": "Belize",
+    "BZ-CY": "Cayo District",
+    "BZ-CZL": "Corozal District",
+    "BZ-OW": "Orange Walk District",
+    "BZ-SC": "Stann Creek District",
+    "BZ-TOL": "Toledo District"
+  }
+}

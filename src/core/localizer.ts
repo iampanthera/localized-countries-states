@@ -1,7 +1,3 @@
-// Placeholder for future localization helpers
-
-// Enhanced localization utilities
-
 export interface LocaleInfo {
   language: string;
   region?: string;
@@ -73,29 +69,20 @@ export function getFallbackLocales(locale: string): string[] {
   const parsed = parseLocale(locale);
   if (!parsed) return ["en-US"];
 
-  const fallbacks: string[] = [];
+  const fallbacks: string[] = [locale];
 
-  // Add the original locale
-  fallbacks.push(locale);
-
-  // Add language-region fallback
   if (parsed.region && parsed.language !== "en") {
     fallbacks.push(`${parsed.language}-${parsed.region}`);
   }
-
-  // Add language-only fallback
   if (parsed.language !== "en") {
     fallbacks.push(parsed.language);
   }
-
-  // Add English fallbacks
   if (parsed.region) {
     fallbacks.push(`en-${parsed.region}`);
   }
-  fallbacks.push("en-US");
-  fallbacks.push("en");
+  fallbacks.push("en-US", "en");
 
-  return [...new Set(fallbacks)]; // Remove duplicates
+  return [...new Set(fallbacks)];
 }
 
 /**
@@ -108,7 +95,6 @@ export function createLocalizer(
   try {
     return new Intl.DisplayNames([locale], { type });
   } catch {
-    // Try fallback locales
     const fallbacks = getFallbackLocales(locale);
     for (const fallback of fallbacks) {
       try {
@@ -144,7 +130,6 @@ export function getLocalizedName(
  * Check if a locale is supported by the current environment
  */
 export function isLocaleSupported(locale: string): boolean {
-  // First validate the locale format
   const parsed = parseLocale(locale);
   if (!parsed) return false;
 

@@ -1,31 +1,42 @@
-import fs from "fs";
-import path from "path";
-import { defaultLocale } from "../config";
+import { defaultLocale } from "../config.js";
 import {
   getLocalizedName,
   normalizeLocale,
   isLocaleSupported,
-} from "./localizer";
-
-// Define the type for countries data
-interface CountryData {
-  [code: string]: { name: string };
-}
-
-// Read countries data from JSON file
-const countriesPath = path.join(process.cwd(), "data", "countries.json");
-const countriesData: CountryData = JSON.parse(
-  fs.readFileSync(countriesPath, "utf-8")
-);
+} from "./localizer.js";
+import {
+  COUNTRIES as countriesData,
+  COUNTRIES_LOCALIZED as localizedCountriesData,
+} from "../../data/bundle.js";
 
 export function getAllCountries(locale?: string) {
   const useLocale = locale ? normalizeLocale(locale) : defaultLocale;
 
   return Object.entries(countriesData).map(([code, { name }]) => {
-    const localizedName = getLocalizedName(code, useLocale, "region");
+    let localizedName = "";
+
+    if (
+      localizedCountriesData[useLocale] &&
+      localizedCountriesData[useLocale][code]
+    ) {
+      localizedName = localizedCountriesData[useLocale][code];
+    } else if (useLocale.includes("-")) {
+      const language = useLocale.split("-")[0];
+      if (
+        localizedCountriesData[language] &&
+        localizedCountriesData[language][code]
+      ) {
+        localizedName = localizedCountriesData[language][code];
+      }
+    }
+
+    if (!localizedName) {
+      localizedName = getLocalizedName(code, useLocale, "region");
+    }
+
     return {
       code,
-      name: localizedName || name, // Fallback to English name if localization fails
+      name: localizedName || name,
     };
   });
 }
@@ -36,32 +47,28 @@ export function getCountryName(code: string, locale?: string): string {
 
   if (!country) return "";
 
-  const localizedName = getLocalizedName(code, useLocale, "region");
-  return localizedName || country.name; // Fallback to English name
-}
+  let localizedName = "";
 
-/**
- * Get countries filtered by region or language
- */
-export function getCountriesByRegion(region: string, locale?: string) {
-  const countries = getAllCountries(locale);
-  // This is a simplified filter - in a real implementation you'd have region mappings
-  return countries.filter((country) => {
-    // Add region-based filtering logic here
-    return true; // For now, return all countries
-  });
-}
+  if (
+    localizedCountriesData[useLocale] &&
+    localizedCountriesData[useLocale][code]
+  ) {
+    localizedName = localizedCountriesData[useLocale][code];
+  } else if (useLocale.includes("-")) {
+    const language = useLocale.split("-")[0];
+    if (
+      localizedCountriesData[language] &&
+      localizedCountriesData[language][code]
+    ) {
+      localizedName = localizedCountriesData[language][code];
+    }
+  }
 
-/**
- * Get countries that speak a specific language
- */
-export function getCountriesByLanguage(language: string, locale?: string) {
-  const countries = getAllCountries(locale);
-  // This is a simplified filter - in a real implementation you'd have language mappings
-  return countries.filter((country) => {
-    // Add language-based filtering logic here
-    return true; // For now, return all countries
-  });
+  if (!localizedName) {
+    localizedName = getLocalizedName(code, useLocale, "region");
+  }
+
+  return localizedName || country.name;
 }
 
 /**
@@ -69,4 +76,25 @@ export function getCountriesByLanguage(language: string, locale?: string) {
  */
 export function isCountryLocaleSupported(locale: string): boolean {
   return isLocaleSupported(locale);
+}
+
+/**
+ * Get all available locales for country names
+ */
+export function getAvailableCountryLocales(): string[] {
+  return Object.keys(localizedCountriesData);
+}
+
+/**
+ * Check if localized country names are available for a locale
+ */
+export function hasLocalizedCountries(locale?: string): boolean {
+  if (!locale) return false;
+
+  const normalizedLocale = normalizeLocale(locale);
+  return !!(
+    localizedCountriesData[normalizedLocale] ||
+    (normalizedLocale.includes("-") &&
+      localizedCountriesData[normalizedLocale.split("-")[0]])
+  );
 }

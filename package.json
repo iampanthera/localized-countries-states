@@ -1,21 +1,54 @@
 {
   "name": "localized-countries-states",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./compat": {
+      "types": "./dist/compat/index.d.ts",
+      "default": "./dist/compat/index.js"
+    }
+  },
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "data/bundle.js",
+    "data/bundle.d.ts",
+    "NOTICE.md"
+  ],
   "directories": {
     "test": "tests"
   },
-  "type": "module",
   "scripts": {
     "build": "tsc",
-    "test": "jest"
+    "build:data": "node scripts/build-data.mjs",
+    "prepublishOnly": "npm run build:data && npm run build",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "iso-3166",
+    "iso-3166-1",
+    "iso-3166-2",
+    "countries",
+    "states",
+    "provinces",
+    "subdivisions",
+    "localization",
+    "i18n",
+    "bcp47"
+  ],
+  "author": "iampanthera <talhamian.dev@gmail.com>",
   "license": "ISC",
-  "description": "",
+  "description": "ISO 3166-1 countries and official ISO 3166-2 states/provinces with localized names in 12 languages.",
   "devDependencies": {
     "@types/jest": "^30.0.0",
+    "@types/node": "^26.1.0",
+    "iso-3166": "^4.4.0",
     "jest": "^30.0.4",
     "ts-jest": "^29.4.0",
     "typescript": "^5.8.3"

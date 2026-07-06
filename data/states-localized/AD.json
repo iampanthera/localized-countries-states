@@ -1,0 +1,101 @@
+{
+  "ru": {
+    "AD-02": "Канильо",
+    "AD-03": "Энкамп",
+    "AD-04": "Ла-Массана",
+    "AD-05": "Ордино",
+    "AD-06": "Сан-Жулиа-де-Лория",
+    "AD-07": "Андорра-ла-Велья",
+    "AD-08": "Эскальдес-Энгордань"
+  },
+  "de": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "Andorra la Vella",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "fr": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "Andorre-la-Vieille",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "es": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "San Julián de Loria",
+    "AD-07": "Andorra la Vieja",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "zh": {
+    "AD-02": "卡尼略",
+    "AD-03": "恩坎普",
+    "AD-04": "马萨纳",
+    "AD-05": "奥尔迪诺",
+    "AD-06": "圣胡利娅-德洛里亚",
+    "AD-07": "安道尔城",
+    "AD-08": "萊塞斯卡爾德-恩戈爾達"
+  },
+  "hi": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "Andorra la Vella",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "pt": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "Andorra la Vella",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "ja": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "Andorra la Vella",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "ar": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "أندورا لا فيلا",
+    "AD-08": "Escaldes-Engordany"
+  },
+  "it": {
+    "AD-02": "Parrocchia di Canillo",
+    "AD-03": "Parrocchia di Encamp",
+    "AD-04": "Parrocchia di La Massana",
+    "AD-05": "Parrocchia di Ordino",
+    "AD-06": "Parrocchia di Sant Julià de Lòria",
+    "AD-07": "Andorra la Vella",
+    "AD-08": "Parrocchia di Escaldes-Engordany"
+  },
+  "he": {
+    "AD-02": "Canillo",
+    "AD-03": "Encamp",
+    "AD-04": "La Massana",
+    "AD-05": "Ordino",
+    "AD-06": "Sant Julià de Lòria",
+    "AD-07": "Andorra la Vella",
+    "AD-08": "Escaldes-Engordany"
+  }
+}

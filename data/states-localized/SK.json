@@ -1,0 +1,112 @@
+{
+  "ru": {
+    "SK-BC": "Банскобистрицкий край",
+    "SK-BL": "Братиславский край",
+    "SK-KI": "Кошицкий край",
+    "SK-NI": "Нитранский край",
+    "SK-PV": "Прешовский край",
+    "SK-TA": "Трнавский край",
+    "SK-TC": "Тренчинский край",
+    "SK-ZI": "Жилинский край"
+  },
+  "de": {
+    "SK-BC": "Banskobystrický kraj",
+    "SK-BL": "Bratislavský kraj",
+    "SK-KI": "Košický kraj",
+    "SK-NI": "Nitriansky kraj",
+    "SK-PV": "Prešovský kraj",
+    "SK-TA": "Trnavský kraj",
+    "SK-TC": "Trenčiansky kraj",
+    "SK-ZI": "Žilinský kraj"
+  },
+  "fr": {
+    "SK-BC": "Région de Banská Bystrica",
+    "SK-BL": "Région de Bratislava",
+    "SK-KI": "Région de Košice",
+    "SK-NI": "Région de Nitra",
+    "SK-PV": "Région de Prešov",
+    "SK-TA": "Région de Trnava",
+    "SK-TC": "Région de Trenčín",
+    "SK-ZI": "Région de Žilina"
+  },
+  "es": {
+    "SK-BC": "Región de Banská Bystrica",
+    "SK-BL": "Región de Bratislava",
+    "SK-KI": "Región de Košice",
+    "SK-NI": "Región de Nitra",
+    "SK-PV": "Región de Prešov",
+    "SK-TA": "Región de Trnava",
+    "SK-TC": "Región de Trenčín",
+    "SK-ZI": "Región de Žilina"
+  },
+  "zh": {
+    "SK-BC": "班斯卡·比斯特理察州",
+    "SK-BL": "布拉迪斯拉發州",
+    "SK-KI": "科希策州",
+    "SK-NI": "尼特拉州",
+    "SK-PV": "普列索夫州",
+    "SK-TA": "特爾納瓦州",
+    "SK-TC": "特倫欽州",
+    "SK-ZI": "日利納州"
+  },
+  "hi": {
+    "SK-BC": "Banská Bystrica Region",
+    "SK-BL": "Bratislava Region",
+    "SK-KI": "Košice Region",
+    "SK-NI": "Nitra Region",
+    "SK-PV": "Prešov Region",
+    "SK-TA": "Trnava Region",
+    "SK-TC": "Trenčín Region",
+    "SK-ZI": "Žilina Region"
+  },
+  "pt": {
+    "SK-BC": "Banská Bystrica Region",
+    "SK-BL": "Bratislava Region",
+    "SK-KI": "Košice Region",
+    "SK-NI": "Nitra Region",
+    "SK-PV": "Prešov Region",
+    "SK-TA": "Trnava Region",
+    "SK-TC": "Trenčín Region",
+    "SK-ZI": "Žilina Region"
+  },
+  "ja": {
+    "SK-BC": "Banská Bystrica Region",
+    "SK-BL": "Bratislava Region",
+    "SK-KI": "Košice Region",
+    "SK-NI": "Nitra Region",
+    "SK-PV": "Prešov Region",
+    "SK-TA": "Trnava Region",
+    "SK-TC": "Trenčín Region",
+    "SK-ZI": "Žilina Region"
+  },
+  "ar": {
+    "SK-BC": "إقليم بانسكا بيستريتسا",
+    "SK-BL": "إقليم براتيسلافا",
+    "SK-KI": "إقليم كوشيتسه",
+    "SK-NI": "إقليم نيترا",
+    "SK-PV": "إقليم بريشوف",
+    "SK-TA": "إقليم ترنافا",
+    "SK-TC": "إقليم ترنتشين",
+    "SK-ZI": "إقليم جيلينا"
+  },
+  "it": {
+    "SK-BC": "Regione di Banská Bystrica",
+    "SK-BL": "Regione di Bratislava",
+    "SK-KI": "Regione di Košice",
+    "SK-NI": "Regione di Nitra",
+    "SK-PV": "Regione di Prešov",
+    "SK-TA": "Regione di Trnava",
+    "SK-TC": "Regione di Trenčín",
+    "SK-ZI": "Regione di Žilina"
+  },
+  "he": {
+    "SK-BC": "Banská Bystrica Region",
+    "SK-BL": "Bratislava Region",
+    "SK-KI": "Košice Region",
+    "SK-NI": "Nitra Region",
+    "SK-PV": "Prešov Region",
+    "SK-TA": "Trnava Region",
+    "SK-TC": "Trenčín Region",
+    "SK-ZI": "Žilina Region"
+  }
+}

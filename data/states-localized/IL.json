@@ -1,0 +1,90 @@
+{
+  "ru": {
+    "IL-D": "Южный округ Израиля",
+    "IL-HA": "Хайфский округ",
+    "IL-JM": "Иерусалимский округ",
+    "IL-M": "Центральный округ Израиля",
+    "IL-TA": "Тель-Авивский округ",
+    "IL-Z": "Северный округ Израиля"
+  },
+  "de": {
+    "IL-D": "Südbezirk",
+    "IL-HA": "Bezirk Haifa",
+    "IL-JM": "Bezirk Jerusalem",
+    "IL-M": "Zentralbezirk",
+    "IL-TA": "Bezirk Tel Aviv",
+    "IL-Z": "Nordbezirk"
+  },
+  "fr": {
+    "IL-D": "District sud",
+    "IL-HA": "District de Haïfa",
+    "IL-JM": "District de Jérusalem",
+    "IL-M": "District centre",
+    "IL-TA": "District de Tel Aviv",
+    "IL-Z": "District nord"
+  },
+  "es": {
+    "IL-D": "Distrito Meridional",
+    "IL-HA": "Distrito de Haifa",
+    "IL-JM": "Distrito de Jerusalén",
+    "IL-M": "Distrito Central",
+    "IL-TA": "Distrito de Tel Aviv",
+    "IL-Z": "Distrito Norte"
+  },
+  "zh": {
+    "IL-D": "南部区",
+    "IL-HA": "海法区",
+    "IL-JM": "耶路撒冷区",
+    "IL-M": "中央区",
+    "IL-TA": "特拉维夫区",
+    "IL-Z": "北部区"
+  },
+  "hi": {
+    "IL-D": "Southern District",
+    "IL-HA": "Haifa District",
+    "IL-JM": "Jerusalem District",
+    "IL-M": "Central District",
+    "IL-TA": "Tel Aviv District",
+    "IL-Z": "Northern District"
+  },
+  "pt": {
+    "IL-D": "Southern District",
+    "IL-HA": "Haifa District",
+    "IL-JM": "Jerusalem District",
+    "IL-M": "Central District",
+    "IL-TA": "Tel Aviv District",
+    "IL-Z": "Northern District"
+  },
+  "ja": {
+    "IL-D": "Southern District",
+    "IL-HA": "Haifa District",
+    "IL-JM": "Jerusalem District",
+    "IL-M": "Central District",
+    "IL-TA": "Tel Aviv District",
+    "IL-Z": "Northern District"
+  },
+  "ar": {
+    "IL-D": "المنطقة الجنوبية",
+    "IL-HA": "منطقة حيفا",
+    "IL-JM": "منطقة القدس",
+    "IL-M": "المنطقة الوسطى",
+    "IL-TA": "منطقة تل أبيب",
+    "IL-Z": "المنطقة الشمالية"
+  },
+  "it": {
+    "IL-D": "Distretto Meridionale",
+    "IL-HA": "Distretto di Haifa",
+    "IL-JM": "Distretto di Gerusalemme",
+    "IL-M": "Distretto Centrale",
+    "IL-TA": "Distretto di Tel Aviv",
+    "IL-Z": "Distretto Settentrionale"
+  },
+  "he": {
+    "IL-D": "Southern District",
+    "IL-HA": "Haifa District",
+    "IL-JM": "Jerusalem District",
+    "IL-M": "Central District",
+    "IL-TA": "Tel Aviv District",
+    "IL-Z": "Northern District"
+  }
+}

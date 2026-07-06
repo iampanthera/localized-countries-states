@@ -1,0 +1,68 @@
+{
+  "ru": {
+    "GB-ENG": "Англия",
+    "GB-NIR": "Северная Ирландия",
+    "GB-SCT": "Шотландия",
+    "GB-WLS": "Уэльс"
+  },
+  "de": {
+    "GB-ENG": "England",
+    "GB-NIR": "Nordirland",
+    "GB-SCT": "Schottland",
+    "GB-WLS": "Wales"
+  },
+  "fr": {
+    "GB-ENG": "Angleterre",
+    "GB-NIR": "Irlande du Nord",
+    "GB-SCT": "Écosse",
+    "GB-WLS": "Pays de Galles"
+  },
+  "es": {
+    "GB-ENG": "Inglaterra",
+    "GB-NIR": "Irlanda del Norte",
+    "GB-SCT": "Escocia",
+    "GB-WLS": "Gales"
+  },
+  "zh": {
+    "GB-ENG": "英格兰",
+    "GB-NIR": "北爱尔兰",
+    "GB-SCT": "蘇格蘭",
+    "GB-WLS": "威爾士"
+  },
+  "hi": {
+    "GB-ENG": "England",
+    "GB-NIR": "Northern Ireland",
+    "GB-SCT": "Scotland",
+    "GB-WLS": "Wales"
+  },
+  "pt": {
+    "GB-ENG": "England",
+    "GB-NIR": "Northern Ireland",
+    "GB-SCT": "Scotland",
+    "GB-WLS": "Wales"
+  },
+  "ja": {
+    "GB-ENG": "England",
+    "GB-NIR": "Northern Ireland",
+    "GB-SCT": "Scotland",
+    "GB-WLS": "Wales"
+  },
+  "ar": {
+    "GB-ENG": "إنجلترا",
+    "GB-NIR": "أيرلندا الشمالية",
+    "GB-SCT": "إسكتلندا",
+    "GB-WLS": "ويلز"
+  },
+  "it": {
+    "GB-ENG": "Inghilterra",
+    "GB-NIR": "Irlanda del Nord",
+    "GB-SCT": "Scozia",
+    "GB-WLS": "Galles"
+  },
+  "he": {
+    "GB-ENG": "England",
+    "GB-NIR": "Northern Ireland",
+    "GB-SCT": "Scotland",
+    "GB-WLS": "Wales"
+  }
+}

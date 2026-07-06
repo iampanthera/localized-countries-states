@@ -23,8 +23,8 @@ The `country-localizer` package provides:
 | ---------------------------------- | -------- |
 | ISO 3166-1 Country Codes           | ✅        |
 | ISO 3166-2 State/Province Codes    | ✅        |
-| Localized Country Names            | ✅        |
-| State Names (English only for now) | ✅        |
+| Localized Country Names            | ✅ (12 languages) |
+| Localized State/Province Names     | ✅ (12 languages) |
 | One-time Locale Initialization     | ✅        |
 | Locale Override per Function       | ✅        |
 | Full TypeScript Support            | ✅        |
@@ -61,12 +61,22 @@ getCountryName(code: string, locale?: string): string;
 }
 ```
 
-### ✅ States (`data/states/PK.json`)
+### ✅ States (`data/states/ES.json`) — keyed by full ISO 3166-2 code
 
 ```json
 {
-  "PB": "Punjab",
-  "SD": "Sindh"
+  "ES-AN": "Andalusia",
+  "ES-CT": "Catalonia",
+  "ES-A": "Alicante"
+}
+```
+
+### ✅ Localized states (`data/states-localized/ES.json`) — keyed by language
+
+```json
+{
+  "es": { "ES-AN": "Andalucía", "ES-CT": "Cataluña" },
+  "fr": { "ES-CT": "Catalogne" }
 }
 ```
 
@@ -139,11 +149,18 @@ Use `Jest` or `Vitest`.
 
 ## 🔐 Licensing and Legal Safety
 
-| Dataset         | License          |
-| --------------- | ---------------- |
-| ISO Codes       | Public Domain    |
-| CLDR / Intl API | Unicode / native |
-| No scraping     | ✅ Safe           |
+Runtime ships **no dependencies** — only pre-generated JSON under `data/`. Datasets are
+generated at build time from MIT-licensed sources (see [NOTICE.md](./NOTICE.md)).
+
+| Dataset / source                       | License          |
+| -------------------------------------- | ---------------- |
+| ISO 3166-1 / 3166-2 codes (`iso-3166`) | MIT              |
+| Localized names (`esosedi/3166`)       | MIT (© 2016 esosedi) |
+| `Intl.DisplayNames` runtime fallback   | Unicode / native |
+| No scraping                            | ✅ Safe           |
+
+> Attribution: the MIT notices for the above are retained in `NOTICE.md` and
+> `scripts/vendor/LICENSE-esosedi-3166`. `iso-3166` is a **devDependency** (build-time only).
 
 ---
 
@@ -151,7 +168,7 @@ Use `Jest` or `Vitest`.
 
 | Feature                      | Status                           |
 | ---------------------------- | -------------------------------- |
-| Localized state names        | 🔜 Optional (via CLDR if needed) |
+| Localized state names        | ✅ Done (12 languages, ISO 3166-2) |
 | Country flags (emoji)        | 🔜 Optional                      |
 | Spoken languages per country | ❌ Out of Scope                   |
 | Region filtering (e.g., EU)  | 🔜 Optional                      |

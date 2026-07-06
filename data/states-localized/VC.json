@@ -1,0 +1,90 @@
+{
+  "ru": {
+    "VC-01": "Шарлотта",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Гренадины"
+  },
+  "de": {
+    "VC-01": "Charlotte Parish, Saint Vincent and the Grenadines",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  },
+  "fr": {
+    "VC-01": "Charlotte",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines"
+  },
+  "es": {
+    "VC-01": "Carlota",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  },
+  "zh": {
+    "VC-01": "夏洛特区",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "格瑞那丁區"
+  },
+  "hi": {
+    "VC-01": "Charlotte Parish, Saint Vincent and the Grenadines",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  },
+  "pt": {
+    "VC-01": "Charlotte Parish, Saint Vincent and the Grenadines",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  },
+  "ja": {
+    "VC-01": "Charlotte Parish, Saint Vincent and the Grenadines",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  },
+  "ar": {
+    "VC-01": "Charlotte Parish, Saint Vincent and the Grenadines",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  },
+  "it": {
+    "VC-01": "Parrocchia di Charlotte",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Parrocchia delle Grenadine"
+  },
+  "he": {
+    "VC-01": "Charlotte Parish, Saint Vincent and the Grenadines",
+    "VC-02": "Saint Andrew",
+    "VC-03": "Saint David",
+    "VC-04": "Saint George",
+    "VC-05": "Saint Patrick",
+    "VC-06": "Grenadines Parish"
+  }
+}

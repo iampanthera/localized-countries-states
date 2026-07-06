@@ -1,0 +1,68 @@
+{
+  "ru": {
+    "IE-C": "Коннахт",
+    "IE-L": "Ленстер",
+    "IE-M": "Манстер",
+    "IE-U": "Ольстер"
+  },
+  "de": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Provinz Ulster"
+  },
+  "fr": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Ulster"
+  },
+  "es": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Úlster"
+  },
+  "zh": {
+    "IE-C": "康諾特省",
+    "IE-L": "倫斯特省",
+    "IE-M": "芒斯特省",
+    "IE-U": "阿爾斯特省"
+  },
+  "hi": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Ulster"
+  },
+  "pt": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Ulster"
+  },
+  "ja": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Ulster"
+  },
+  "ar": {
+    "IE-C": "كوناكت",
+    "IE-L": "لاينستر",
+    "IE-M": "مونستر",
+    "IE-U": "أولستر"
+  },
+  "it": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Ulster"
+  },
+  "he": {
+    "IE-C": "Connacht",
+    "IE-L": "Leinster",
+    "IE-M": "Munster",
+    "IE-U": "Ulster"
+  }
+}

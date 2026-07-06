@@ -1,0 +1,68 @@
+{
+  "ru": {
+    "SZ-HH": "Хохо",
+    "SZ-LU": "Лубомбо",
+    "SZ-MA": "Манзини",
+    "SZ-SH": "Шиселвени"
+  },
+  "de": {
+    "SZ-HH": "Hhohho",
+    "SZ-LU": "Lubombo",
+    "SZ-MA": "Manzini",
+    "SZ-SH": "Shiselweni"
+  },
+  "fr": {
+    "SZ-HH": "Hhohho",
+    "SZ-LU": "Lubombo",
+    "SZ-MA": "Manzini",
+    "SZ-SH": "Shiselweni"
+  },
+  "es": {
+    "SZ-HH": "Hhohho",
+    "SZ-LU": "Lubombo",
+    "SZ-MA": "Manzini",
+    "SZ-SH": "Shishelweni"
+  },
+  "zh": {
+    "SZ-HH": "霍霍",
+    "SZ-LU": "卢邦博",
+    "SZ-MA": "曼齐尼",
+    "SZ-SH": "希塞卢韦尼"
+  },
+  "hi": {
+    "SZ-HH": "Hhohho District",
+    "SZ-LU": "Lubombo District",
+    "SZ-MA": "Manzini District",
+    "SZ-SH": "Shiselweni District"
+  },
+  "pt": {
+    "SZ-HH": "Hhohho District",
+    "SZ-LU": "Lubombo District",
+    "SZ-MA": "Manzini District",
+    "SZ-SH": "Shiselweni District"
+  },
+  "ja": {
+    "SZ-HH": "Hhohho District",
+    "SZ-LU": "Lubombo District",
+    "SZ-MA": "Manzini District",
+    "SZ-SH": "Shiselweni District"
+  },
+  "ar": {
+    "SZ-HH": "مقاطعة هوهو",
+    "SZ-LU": "مقاطعة لوبومبو",
+    "SZ-MA": "مقاطعة منزيني",
+    "SZ-SH": "مقاطعة شيزلويني"
+  },
+  "it": {
+    "SZ-HH": "Distretto di Hhohho",
+    "SZ-LU": "Distretto di Lubombo",
+    "SZ-MA": "Manzini",
+    "SZ-SH": "Distretto di Shiselweni"
+  },
+  "he": {
+    "SZ-HH": "Hhohho District",
+    "SZ-LU": "Lubombo District",
+    "SZ-MA": "Manzini District",
+    "SZ-SH": "Shiselweni District"
+  }
+}

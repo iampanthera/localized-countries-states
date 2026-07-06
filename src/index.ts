@@ -1,17 +1,17 @@
-import { setDefaultLocale, defaultLocale } from "./config";
+import { setDefaultLocale } from "./config.js";
 import {
   getAllCountries,
   getCountryName,
-  getCountriesByRegion,
-  getCountriesByLanguage,
   isCountryLocaleSupported,
-} from "./core/country";
+  getAvailableCountryLocales,
+  hasLocalizedCountries,
+} from "./core/country.js";
 import {
   getStatesOfCountry,
   getStateName,
   getAvailableStateLocales,
   hasLocalizedStates,
-} from "./core/state";
+} from "./core/state.js";
 import {
   parseLocale,
   normalizeLocale,
@@ -20,7 +20,7 @@ import {
   getLocalizedName,
   isLocaleSupported,
   COMMON_LOCALES,
-} from "./core/localizer";
+} from "./core/localizer.js";
 
 export function init(locale: string) {
   setDefaultLocale(locale);
@@ -29,14 +29,14 @@ export function init(locale: string) {
 // Core API
 export { getAllCountries, getCountryName, getStatesOfCountry };
 
-// Enhanced localization API
+// Availability helpers
 export {
   getStateName,
   getAvailableStateLocales,
   hasLocalizedStates,
-  getCountriesByRegion,
-  getCountriesByLanguage,
   isCountryLocaleSupported,
+  getAvailableCountryLocales,
+  hasLocalizedCountries,
 };
 
 // Localization utilities
@@ -50,5 +50,9 @@ export {
   COMMON_LOCALES,
 };
 
+// country-state-city-compatible API (also available via the "/compat" entry point)
+export { Country, State, setLocale } from "./compat/index.js";
+export type { ICountry, IState } from "./compat/index.js";
+
 // Types
-export type { LocaleInfo } from "./core/localizer";
+export type { LocaleInfo } from "./core/localizer.js";

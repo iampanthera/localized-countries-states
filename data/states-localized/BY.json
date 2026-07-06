@@ -1,0 +1,101 @@
+{
+  "ru": {
+    "BY-BR": "Брестская область",
+    "BY-HM": "Минск",
+    "BY-HO": "Гомельская область",
+    "BY-HR": "Гродненская область",
+    "BY-MA": "Могилёвская область",
+    "BY-MI": "Минская область",
+    "BY-VI": "Витебская область"
+  },
+  "de": {
+    "BY-BR": "Breszkaja Woblasz",
+    "BY-HM": "Minsk",
+    "BY-HO": "Homelskaja Woblasz",
+    "BY-HR": "Hrodsenskaja Woblasz",
+    "BY-MA": "Mahiljouskaja Woblasz",
+    "BY-MI": "Minskaja Woblasz",
+    "BY-VI": "Wizebskaja Woblasz"
+  },
+  "fr": {
+    "BY-BR": "Voblast de Brest",
+    "BY-HM": "Minsk",
+    "BY-HO": "Voblast de Homiel",
+    "BY-HR": "Voblast de Hrodna",
+    "BY-MA": "Voblast de Moguilev",
+    "BY-MI": "Voblast de Minsk",
+    "BY-VI": "Voblast de Vitebsk"
+  },
+  "es": {
+    "BY-BR": "Provincia de Brest",
+    "BY-HM": "Minsk",
+    "BY-HO": "Provincia de Gómel",
+    "BY-HR": "Provincia de Grodno",
+    "BY-MA": "Provincia de Maguilov",
+    "BY-MI": "Provincia de Minsk",
+    "BY-VI": "Provincia de Vítebsk"
+  },
+  "zh": {
+    "BY-BR": "布列斯特州",
+    "BY-HM": "明斯克",
+    "BY-HO": "戈梅利州",
+    "BY-HR": "格羅德諾州",
+    "BY-MA": "莫吉廖夫州",
+    "BY-MI": "明斯克州",
+    "BY-VI": "维捷布斯克州"
+  },
+  "hi": {
+    "BY-BR": "Brest Region",
+    "BY-HM": "Minsk",
+    "BY-HO": "Gomel Region",
+    "BY-HR": "Grodno Region",
+    "BY-MA": "Mogilev Region",
+    "BY-MI": "Minsk Region",
+    "BY-VI": "Vitebsk Region"
+  },
+  "pt": {
+    "BY-BR": "Brest Region",
+    "BY-HM": "Minsk",
+    "BY-HO": "Gomel Region",
+    "BY-HR": "Grodno Region",
+    "BY-MA": "Mogilev Region",
+    "BY-MI": "Minsk Region",
+    "BY-VI": "Vitebsk Region"
+  },
+  "ja": {
+    "BY-BR": "Brest Region",
+    "BY-HM": "Minsk",
+    "BY-HO": "Gomel Region",
+    "BY-HR": "Grodno Region",
+    "BY-MA": "Mogilev Region",
+    "BY-MI": "Minsk Region",
+    "BY-VI": "Vitebsk Region"
+  },
+  "ar": {
+    "BY-BR": "بوبريسك أوبلاست",
+    "BY-HM": "مينسك",
+    "BY-HO": "غومل أوبلاست",
+    "BY-HR": "جردونه أوبلاست",
+    "BY-MA": "موغيليوف أوبلاست",
+    "BY-MI": "Minsk Region",
+    "BY-VI": "فيتسبك أوبلاست"
+  },
+  "it": {
+    "BY-BR": "Voblasc' di Brėst",
+    "BY-HM": "Minsk",
+    "BY-HO": "Voblasc' di Homel'",
+    "BY-HR": "Voblasc' di Hrodna",
+    "BY-MA": "Voblasc' di Mahilëŭ",
+    "BY-MI": "Voblasc' di Minsk",
+    "BY-VI": "Voblasc' di Vicebsk"
+  },
+  "he": {
+    "BY-BR": "Brest Region",
+    "BY-HM": "Minsk",
+    "BY-HO": "Gomel Region",
+    "BY-HR": "Grodno Region",
+    "BY-MA": "Mogilev Region",
+    "BY-MI": "Minsk Region",
+    "BY-VI": "Vitebsk Region"
+  }
+}

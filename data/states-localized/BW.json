@@ -1,0 +1,123 @@
+{
+  "ru": {
+    "BW-CE": "Центральный округ",
+    "BW-GH": "Ганзи",
+    "BW-KG": "Кгалагади",
+    "BW-KL": "Кгатленг",
+    "BW-KW": "Квененг",
+    "BW-NE": "Северо-Восточный округ",
+    "BW-NW": "Северо-Западный округ",
+    "BW-SE": "Юго-Восточный округ",
+    "BW-SO": "Южный округ"
+  },
+  "de": {
+    "BW-CE": "Central District",
+    "BW-GH": "Ghanzi District",
+    "BW-KG": "Kgalagadi District",
+    "BW-KL": "Kgatleng District",
+    "BW-KW": "Kweneng District",
+    "BW-NE": "North-East District",
+    "BW-NW": "North-West District",
+    "BW-SE": "South-East District",
+    "BW-SO": "Southern District"
+  },
+  "fr": {
+    "BW-CE": "District central",
+    "BW-GH": "District de Ghanzi",
+    "BW-KG": "District de Kgalagadi",
+    "BW-KL": "District de Kgatleng",
+    "BW-KW": "District de Kweneng",
+    "BW-NE": "District du Nord-Est",
+    "BW-NW": "District du Nord-Ouest",
+    "BW-SE": "District du Sud-Est",
+    "BW-SO": "District du Sud"
+  },
+  "es": {
+    "BW-CE": "Distrito Central",
+    "BW-GH": "Distrito de Ghanzi",
+    "BW-KG": "Distrito de Kgalagadi",
+    "BW-KL": "Distrito de Kgatleng",
+    "BW-KW": "Distrito de Kweneng",
+    "BW-NE": "Distrito Noreste",
+    "BW-NW": "Distrito Noroeste",
+    "BW-SE": "Distrito Sudeste",
+    "BW-SO": "Distrito Sur"
+  },
+  "zh": {
+    "BW-CE": "中部區",
+    "BW-GH": "杭濟區",
+    "BW-KG": "卡拉哈迪區",
+    "BW-KL": "卡特倫區",
+    "BW-KW": "奎嫩區",
+    "BW-NE": "東北區",
+    "BW-NW": "西北區",
+    "BW-SE": "東南區",
+    "BW-SO": "南部區"
+  },
+  "hi": {
+    "BW-CE": "Central District",
+    "BW-GH": "Ghanzi District",
+    "BW-KG": "Kgalagadi District",
+    "BW-KL": "Kgatleng District",
+    "BW-KW": "Kweneng District",
+    "BW-NE": "North-East District",
+    "BW-NW": "North-West District",
+    "BW-SE": "South-East District",
+    "BW-SO": "Southern District"
+  },
+  "pt": {
+    "BW-CE": "Central District",
+    "BW-GH": "Ghanzi District",
+    "BW-KG": "Kgalagadi District",
+    "BW-KL": "Kgatleng District",
+    "BW-KW": "Kweneng District",
+    "BW-NE": "North-East District",
+    "BW-NW": "North-West District",
+    "BW-SE": "South-East District",
+    "BW-SO": "Southern District"
+  },
+  "ja": {
+    "BW-CE": "Central District",
+    "BW-GH": "Ghanzi District",
+    "BW-KG": "Kgalagadi District",
+    "BW-KL": "Kgatleng District",
+    "BW-KW": "Kweneng District",
+    "BW-NE": "North-East District",
+    "BW-NW": "North-West District",
+    "BW-SE": "South-East District",
+    "BW-SO": "Southern District"
+  },
+  "ar": {
+    "BW-CE": "Central District",
+    "BW-GH": "Ghanzi District",
+    "BW-KG": "Kgalagadi District",
+    "BW-KL": "Kgatleng District",
+    "BW-KW": "Kweneng District",
+    "BW-NE": "North-East District",
+    "BW-NW": "North-West District",
+    "BW-SE": "South-East District",
+    "BW-SO": "Southern District"
+  },
+  "it": {
+    "BW-CE": "Distretto Centrale",
+    "BW-GH": "Distretto di Ghanzi",
+    "BW-KG": "Distretto di Kgalagadi",
+    "BW-KL": "Distretto di Kgatleng",
+    "BW-KW": "Distretto di Kweneng",
+    "BW-NE": "Distretto Nordorientale",
+    "BW-NW": "Distretto Nordoccidentale",
+    "BW-SE": "Distretto Sudorientale",
+    "BW-SO": "Distretto Meridionale"
+  },
+  "he": {
+    "BW-CE": "Central District",
+    "BW-GH": "Ghanzi District",
+    "BW-KG": "Kgalagadi District",
+    "BW-KL": "Kgatleng District",
+    "BW-KW": "Kweneng District",
+    "BW-NE": "North-East District",
+    "BW-NW": "North-West District",
+    "BW-SE": "South-East District",
+    "BW-SO": "Southern District"
+  }
+}

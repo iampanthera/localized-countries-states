@@ -1,0 +1,112 @@
+{
+  "ru": {
+    "BD-A": "Барисал",
+    "BD-B": "Читтагонг",
+    "BD-C": "Дакка",
+    "BD-D": "Кхулна",
+    "BD-E": "Раджшахи",
+    "BD-F": "Рангпур",
+    "BD-G": "Силхет",
+    "BD-H": "Mymensingh"
+  },
+  "de": {
+    "BD-A": "Barishal",
+    "BD-B": "Chittagong",
+    "BD-C": "Dhaka",
+    "BD-D": "Khulna",
+    "BD-E": "Rajshahi",
+    "BD-F": "Rangpur",
+    "BD-G": "Sylhet",
+    "BD-H": "Mymensingh"
+  },
+  "fr": {
+    "BD-A": "Barisal",
+    "BD-B": "Chittagong",
+    "BD-C": "Dhaka",
+    "BD-D": "Khulna",
+    "BD-E": "Rajshahi",
+    "BD-F": "Rangpur",
+    "BD-G": "Sylhet",
+    "BD-H": "Mymensingh"
+  },
+  "es": {
+    "BD-A": "Barisal",
+    "BD-B": "Chittagong",
+    "BD-C": "Daca",
+    "BD-D": "Khulna",
+    "BD-E": "Rajshahi",
+    "BD-F": "Rangpur",
+    "BD-G": "Sylhet",
+    "BD-H": "Mymensingh"
+  },
+  "zh": {
+    "BD-A": "巴里薩爾專區",
+    "BD-B": "吉大港專區",
+    "BD-C": "達卡專區",
+    "BD-D": "庫爾納專區",
+    "BD-E": "拉傑沙希專區",
+    "BD-F": "朗布尔专区",
+    "BD-G": "錫爾赫特專區",
+    "BD-H": "Mymensingh"
+  },
+  "hi": {
+    "BD-A": "Barisal Division",
+    "BD-B": "Chittagong Division",
+    "BD-C": "Dhaka Division",
+    "BD-D": "Khulna Division",
+    "BD-E": "Rajshahi Division",
+    "BD-F": "Rangpur Division",
+    "BD-G": "Sylhet Division",
+    "BD-H": "Mymensingh"
+  },
+  "pt": {
+    "BD-A": "Barisal Division",
+    "BD-B": "Chittagong Division",
+    "BD-C": "Dhaka Division",
+    "BD-D": "Khulna Division",
+    "BD-E": "Rajshahi Division",
+    "BD-F": "Rangpur Division",
+    "BD-G": "Sylhet Division",
+    "BD-H": "Mymensingh"
+  },
+  "ja": {
+    "BD-A": "Barisal Division",
+    "BD-B": "Chittagong Division",
+    "BD-C": "Dhaka Division",
+    "BD-D": "Khulna Division",
+    "BD-E": "Rajshahi Division",
+    "BD-F": "Rangpur Division",
+    "BD-G": "Sylhet Division",
+    "BD-H": "Mymensingh"
+  },
+  "ar": {
+    "BD-A": "Barisal Division",
+    "BD-B": "Chittagong Division",
+    "BD-C": "Dhaka Division",
+    "BD-D": "Khulna Division",
+    "BD-E": "Rajshahi Division",
+    "BD-F": "Rangpur Division",
+    "BD-G": "Sylhet Division",
+    "BD-H": "Mymensingh"
+  },
+  "it": {
+    "BD-A": "Divisione di Barisal",
+    "BD-B": "Divisione di Chittagong",
+    "BD-C": "Divisione di Dacca",
+    "BD-D": "Divisione di Khulna",
+    "BD-E": "Divisione di Rajshahi",
+    "BD-F": "Divisione di Rangpur",
+    "BD-G": "Divisione di Sylhet",
+    "BD-H": "Mymensingh"
+  },
+  "he": {
+    "BD-A": "Barisal Division",
+    "BD-B": "Chittagong Division",
+    "BD-C": "Dhaka Division",
+    "BD-D": "Khulna Division",
+    "BD-E": "Rajshahi Division",
+    "BD-F": "Rangpur Division",
+    "BD-G": "Sylhet Division",
+    "BD-H": "Mymensingh"
+  }
+}

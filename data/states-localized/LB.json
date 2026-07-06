@@ -1,0 +1,112 @@
+{
+  "ru": {
+    "LB-AK": "Аккар",
+    "LB-AS": "Северный Ливан",
+    "LB-BA": "Бейрут",
+    "LB-BH": "Баальбек",
+    "LB-BI": "Бекаа",
+    "LB-JA": "Южный Ливан",
+    "LB-JL": "Горный Ливан",
+    "LB-NA": "Набатия"
+  },
+  "de": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "Gouvernement Nord-Libanon",
+    "LB-BA": "Gouvernement Beirut",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Gouvernement Bekaa",
+    "LB-JA": "Gouvernement Süd-Libanon",
+    "LB-JL": "Gouvernement Libanonberg",
+    "LB-NA": "Gouvernement Nabatäa"
+  },
+  "fr": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "Gouvernorat du Nord",
+    "LB-BA": "Gouvernorat de Beyrouth",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Gouvernorat de la Bekaa",
+    "LB-JA": "Gouvernorat du Sud-Liban",
+    "LB-JL": "Gouvernorat du Mont-Liban",
+    "LB-NA": "Gouvernorat de Nabatieh"
+  },
+  "es": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "Líbano-Norte",
+    "LB-BA": "Gobernación de Beirut",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Gobernación de Becá",
+    "LB-JA": "Líbano-Sur",
+    "LB-JL": "Gobernación del Monte Líbano",
+    "LB-NA": "Gobernación de Nabatiye"
+  },
+  "zh": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "北部省",
+    "LB-BA": "贝鲁特省",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "貝卡省",
+    "LB-JA": "南部省",
+    "LB-JL": "黎巴嫩山省",
+    "LB-NA": "納巴泰省"
+  },
+  "hi": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "North Governorate",
+    "LB-BA": "Beirut Governorate",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Beqaa Governorate",
+    "LB-JA": "South Governorate",
+    "LB-JL": "Mount Lebanon Governorate",
+    "LB-NA": "Nabatieh Governorate"
+  },
+  "pt": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "North Governorate",
+    "LB-BA": "Beirut Governorate",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Beqaa Governorate",
+    "LB-JA": "South Governorate",
+    "LB-JL": "Mount Lebanon Governorate",
+    "LB-NA": "Nabatieh Governorate"
+  },
+  "ja": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "North Governorate",
+    "LB-BA": "Beirut Governorate",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Beqaa Governorate",
+    "LB-JA": "South Governorate",
+    "LB-JL": "Mount Lebanon Governorate",
+    "LB-NA": "Nabatieh Governorate"
+  },
+  "ar": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "الشمال",
+    "LB-BA": "بيروت",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "البقاع",
+    "LB-JA": "محافظة الجنوب",
+    "LB-JL": "جبل لبنان",
+    "LB-NA": "النبطية"
+  },
+  "it": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "Governatorato del Nord Libano",
+    "LB-BA": "Governatorato di Beirut",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Governatorato della Beqa'",
+    "LB-JA": "Governatorato del Sud Libano",
+    "LB-JL": "Governatorato del Monte Libano",
+    "LB-NA": "Governatorato di Nabatiye"
+  },
+  "he": {
+    "LB-AK": "Aakkâr",
+    "LB-AS": "North Governorate",
+    "LB-BA": "Beirut Governorate",
+    "LB-BH": "Baalbek-Hermel",
+    "LB-BI": "Beqaa Governorate",
+    "LB-JA": "South Governorate",
+    "LB-JL": "Mount Lebanon Governorate",
+    "LB-NA": "Nabatieh Governorate"
+  }
+}

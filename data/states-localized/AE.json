@@ -1,0 +1,101 @@
+{
+  "ru": {
+    "AE-AJ": "Аджман",
+    "AE-AZ": "Абу-Даби",
+    "AE-DU": "Дубай",
+    "AE-FU": "Эль-Фуджайра",
+    "AE-RK": "Рас-эль-Хайма",
+    "AE-SH": "Шарджа",
+    "AE-UQ": "Умм-эль-Кайвайн"
+  },
+  "de": {
+    "AE-AJ": "Adschman",
+    "AE-AZ": "Abu Dhabi",
+    "AE-DU": "Dubai",
+    "AE-FU": "Fudschaira",
+    "AE-RK": "Ra’s al-Chaima",
+    "AE-SH": "Schardscha",
+    "AE-UQ": "Umm al-Qaiwain"
+  },
+  "fr": {
+    "AE-AJ": "Ajman",
+    "AE-AZ": "Abou Dabi",
+    "AE-DU": "Dubaï",
+    "AE-FU": "Fujaïrah",
+    "AE-RK": "Ras el Khaïmah",
+    "AE-SH": "Charjah",
+    "AE-UQ": "Oumm al Qaïwaïn"
+  },
+  "es": {
+    "AE-AJ": "Ajmán",
+    "AE-AZ": "Abu Dabi",
+    "AE-DU": "Dubái",
+    "AE-FU": "Fuyaira",
+    "AE-RK": "Ras al-Jaima",
+    "AE-SH": "Sharjah",
+    "AE-UQ": "Umm al-Qaywayn"
+  },
+  "zh": {
+    "AE-AJ": "阿吉曼",
+    "AE-AZ": "阿布扎比",
+    "AE-DU": "杜拜",
+    "AE-FU": "富吉拉",
+    "AE-RK": "拉斯海玛",
+    "AE-SH": "夏尔迦",
+    "AE-UQ": "欧姆古温"
+  },
+  "hi": {
+    "AE-AJ": "Ajman",
+    "AE-AZ": "Abu Dhabi",
+    "AE-DU": "Dubai",
+    "AE-FU": "Fujairah",
+    "AE-RK": "Ras al-Khaimah",
+    "AE-SH": "Sharjah",
+    "AE-UQ": "Umm al-Quwain"
+  },
+  "pt": {
+    "AE-AJ": "Ajman",
+    "AE-AZ": "Abu Dhabi",
+    "AE-DU": "Dubai",
+    "AE-FU": "Fujairah",
+    "AE-RK": "Ras al-Khaimah",
+    "AE-SH": "Sharjah",
+    "AE-UQ": "Umm al-Quwain"
+  },
+  "ja": {
+    "AE-AJ": "Ajman",
+    "AE-AZ": "Abu Dhabi",
+    "AE-DU": "Dubai",
+    "AE-FU": "Fujairah",
+    "AE-RK": "Ras al-Khaimah",
+    "AE-SH": "Sharjah",
+    "AE-UQ": "Umm al-Quwain"
+  },
+  "ar": {
+    "AE-AJ": "عجمان",
+    "AE-AZ": "إمارة أبو ظبي",
+    "AE-DU": "إمارة دبي",
+    "AE-FU": "الفجيرة",
+    "AE-RK": "رأس الخيمة",
+    "AE-SH": "إمارة الشارقة",
+    "AE-UQ": "أم القيوين"
+  },
+  "it": {
+    "AE-AJ": "Ajman",
+    "AE-AZ": "Abu Dhabi",
+    "AE-DU": "Dubai",
+    "AE-FU": "Fujaira",
+    "AE-RK": "Ras al-Khaima",
+    "AE-SH": "Sharja",
+    "AE-UQ": "Umm al-Qaywayn"
+  },
+  "he": {
+    "AE-AJ": "Ajman",
+    "AE-AZ": "Abu Dhabi",
+    "AE-DU": "Dubai",
+    "AE-FU": "Fujairah",
+    "AE-RK": "Ras al-Khaimah",
+    "AE-SH": "Sharjah",
+    "AE-UQ": "Umm al-Quwain"
+  }
+}

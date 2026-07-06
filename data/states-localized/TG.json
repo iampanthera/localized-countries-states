@@ -1,0 +1,79 @@
+{
+  "ru": {
+    "TG-C": "Centrale",
+    "TG-K": "Кара",
+    "TG-M": "Приморская область",
+    "TG-P": "Plateaux",
+    "TG-S": "Область Саванн"
+  },
+  "de": {
+    "TG-C": "Centrale",
+    "TG-K": "Region Kara",
+    "TG-M": "Region Maritime",
+    "TG-P": "Plateaux",
+    "TG-S": "Region Savanes"
+  },
+  "fr": {
+    "TG-C": "Centrale",
+    "TG-K": "Région de la Kara",
+    "TG-M": "Région maritime",
+    "TG-P": "Plateaux",
+    "TG-S": "Région des Savanes"
+  },
+  "es": {
+    "TG-C": "Centrale",
+    "TG-K": "Kara",
+    "TG-M": "Marítima",
+    "TG-P": "Plateaux",
+    "TG-S": "Sabana"
+  },
+  "zh": {
+    "TG-C": "Centrale",
+    "TG-K": "卡拉区",
+    "TG-M": "濱海區",
+    "TG-P": "Plateaux",
+    "TG-S": "草原區"
+  },
+  "hi": {
+    "TG-C": "Centrale",
+    "TG-K": "Kara Region",
+    "TG-M": "Maritime Region",
+    "TG-P": "Plateaux",
+    "TG-S": "Savanes Region, Togo"
+  },
+  "pt": {
+    "TG-C": "Centrale",
+    "TG-K": "Kara Region",
+    "TG-M": "Maritime Region",
+    "TG-P": "Plateaux",
+    "TG-S": "Savanes Region, Togo"
+  },
+  "ja": {
+    "TG-C": "Centrale",
+    "TG-K": "Kara Region",
+    "TG-M": "Maritime Region",
+    "TG-P": "Plateaux",
+    "TG-S": "Savanes Region, Togo"
+  },
+  "ar": {
+    "TG-C": "Centrale",
+    "TG-K": "كارا",
+    "TG-M": "Maritime Region",
+    "TG-P": "Plateaux",
+    "TG-S": "Savanes Region, Togo"
+  },
+  "it": {
+    "TG-C": "Centrale",
+    "TG-K": "Regione di Kara",
+    "TG-M": "Regione Marittima",
+    "TG-P": "Plateaux",
+    "TG-S": "Regione delle Savane"
+  },
+  "he": {
+    "TG-C": "Centrale",
+    "TG-K": "Kara Region",
+    "TG-M": "Maritime Region",
+    "TG-P": "Plateaux",
+    "TG-S": "Savanes Region, Togo"
+  }
+}

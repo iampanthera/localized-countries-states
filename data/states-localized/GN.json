@@ -1,0 +1,112 @@
+{
+  "ru": {
+    "GN-B": "Боке",
+    "GN-C": "Конакри",
+    "GN-D": "Киндия",
+    "GN-F": "Фарана",
+    "GN-K": "Канкан",
+    "GN-LA": "Labe",
+    "GN-M": "Маму",
+    "GN-N": "Нзерекоре"
+  },
+  "de": {
+    "GN-B": "Region Boké",
+    "GN-C": "Conakry",
+    "GN-D": "Region Kindia",
+    "GN-F": "Region Faranah",
+    "GN-K": "Region Kankan",
+    "GN-LA": "Labe",
+    "GN-M": "Region Mamou",
+    "GN-N": "Region Nzérékoré"
+  },
+  "fr": {
+    "GN-B": "Région de Boké",
+    "GN-C": "Conakry",
+    "GN-D": "Région de Kindia",
+    "GN-F": "Région de Faranah",
+    "GN-K": "Région de Kankan",
+    "GN-LA": "Labe",
+    "GN-M": "Région de Mamou",
+    "GN-N": "Région de Nzérékoré"
+  },
+  "es": {
+    "GN-B": "Boké",
+    "GN-C": "Conakri",
+    "GN-D": "Kindia",
+    "GN-F": "Faranah",
+    "GN-K": "Kankan",
+    "GN-LA": "Labe",
+    "GN-M": "Mamou",
+    "GN-N": "Nzérékoré"
+  },
+  "zh": {
+    "GN-B": "博凱大區",
+    "GN-C": "科納克里",
+    "GN-D": "金迪亞大區",
+    "GN-F": "法拉納大區",
+    "GN-K": "康康大區",
+    "GN-LA": "Labe",
+    "GN-M": "馬木大區",
+    "GN-N": "恩澤雷科雷大區"
+  },
+  "hi": {
+    "GN-B": "Boké Region",
+    "GN-C": "Conakry",
+    "GN-D": "Kindia Region",
+    "GN-F": "Faranah Region",
+    "GN-K": "Kankan Region",
+    "GN-LA": "Labe",
+    "GN-M": "Mamou Region",
+    "GN-N": "Nzérékoré Region"
+  },
+  "pt": {
+    "GN-B": "Boké Region",
+    "GN-C": "Conakry",
+    "GN-D": "Kindia Region",
+    "GN-F": "Faranah Region",
+    "GN-K": "Kankan Region",
+    "GN-LA": "Labe",
+    "GN-M": "Mamou Region",
+    "GN-N": "Nzérékoré Region"
+  },
+  "ja": {
+    "GN-B": "Boké Region",
+    "GN-C": "Conakry",
+    "GN-D": "Kindia Region",
+    "GN-F": "Faranah Region",
+    "GN-K": "Kankan Region",
+    "GN-LA": "Labe",
+    "GN-M": "Mamou Region",
+    "GN-N": "Nzérékoré Region"
+  },
+  "ar": {
+    "GN-B": "Boké Region",
+    "GN-C": "كوناكري",
+    "GN-D": "Kindia Region",
+    "GN-F": "Faranah Region",
+    "GN-K": "Kankan Region",
+    "GN-LA": "Labe",
+    "GN-M": "Mamou Region",
+    "GN-N": "Nzérékoré Region"
+  },
+  "it": {
+    "GN-B": "Regione di Boké",
+    "GN-C": "Conakry",
+    "GN-D": "Regione di Kindia",
+    "GN-F": "Regione di Faranah",
+    "GN-K": "Regione di Kankan",
+    "GN-LA": "Labe",
+    "GN-M": "Regione di Mamou",
+    "GN-N": "Regione di Nzérékoré"
+  },
+  "he": {
+    "GN-B": "Boké Region",
+    "GN-C": "Conakry",
+    "GN-D": "Kindia Region",
+    "GN-F": "Faranah Region",
+    "GN-K": "Kankan Region",
+    "GN-LA": "Labe",
+    "GN-M": "Mamou Region",
+    "GN-N": "Nzérékoré Region"
+  }
+}

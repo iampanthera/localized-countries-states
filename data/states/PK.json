@@ -1,4 +1,10 @@
 {
-  "PB": "Punjab",
-  "SD": "Sindh"
+  "PK-BA": "Balochistan",
+  "PK-GB": "Gilgit-Baltistan",
+  "PK-IS": "Islamabad Capital Territory",
+  "PK-JK": "Azad Kashmir",
+  "PK-KP": "Khyber Pakhtunkhwa",
+  "PK-PB": "Punjab",
+  "PK-SD": "Sindh",
+  "PK-TA": "Federally Administered Tribal Areas"
 }

@@ -1,0 +1,112 @@
+{
+  "ru": {
+    "AG-03": "Сент-Джордж",
+    "AG-04": "Сент-Джон",
+    "AG-05": "Сент-Мэри",
+    "AG-06": "Сент-Пол",
+    "AG-07": "Сент-Питер",
+    "AG-08": "Сент-Филип",
+    "AG-10": "Барбуда",
+    "AG-11": "Редонда"
+  },
+  "de": {
+    "AG-03": "Saint George Parish, Antigua and Barbuda",
+    "AG-04": "Saint John Parish, Antigua and Barbuda",
+    "AG-05": "Saint Mary Parish, Antigua and Barbuda",
+    "AG-06": "Saint Paul Parish, Antigua and Barbuda",
+    "AG-07": "Saint Peter Parish, Antigua and Barbuda",
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "fr": {
+    "AG-03": "Saint-George",
+    "AG-04": "Saint-John",
+    "AG-05": "Saint-Mary",
+    "AG-06": "Saint-Paul",
+    "AG-07": "Saint-Peter",
+    "AG-08": "Saint-Philip",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "es": {
+    "AG-03": "Parroquia de Saint George",
+    "AG-04": "Parroquia de Saint John",
+    "AG-05": "Parroquia de Saint Mary",
+    "AG-06": "Parroquia de Saint Paul",
+    "AG-07": "Parroquia de Saint Peter",
+    "AG-08": "Parroquia de Saint Philip",
+    "AG-10": "Barbuda",
+    "AG-11": "Isla Redonda"
+  },
+  "zh": {
+    "AG-03": "聖喬治區",
+    "AG-04": "圣约翰区",
+    "AG-05": "聖瑪麗區",
+    "AG-06": "聖保羅區",
+    "AG-07": "聖彼得區",
+    "AG-08": "聖菲利普區",
+    "AG-10": "巴布達島",
+    "AG-11": "雷東達島"
+  },
+  "hi": {
+    "AG-03": "Saint George Parish, Antigua and Barbuda",
+    "AG-04": "Saint John Parish, Antigua and Barbuda",
+    "AG-05": "Saint Mary Parish, Antigua and Barbuda",
+    "AG-06": "Saint Paul Parish, Antigua and Barbuda",
+    "AG-07": "Saint Peter Parish, Antigua and Barbuda",
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "pt": {
+    "AG-03": "Saint George Parish, Antigua and Barbuda",
+    "AG-04": "Saint John Parish, Antigua and Barbuda",
+    "AG-05": "Saint Mary Parish, Antigua and Barbuda",
+    "AG-06": "Saint Paul Parish, Antigua and Barbuda",
+    "AG-07": "Saint Peter Parish, Antigua and Barbuda",
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "ja": {
+    "AG-03": "Saint George Parish, Antigua and Barbuda",
+    "AG-04": "Saint John Parish, Antigua and Barbuda",
+    "AG-05": "Saint Mary Parish, Antigua and Barbuda",
+    "AG-06": "Saint Paul Parish, Antigua and Barbuda",
+    "AG-07": "Saint Peter Parish, Antigua and Barbuda",
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "ar": {
+    "AG-03": "Saint George Parish, Antigua and Barbuda",
+    "AG-04": "Saint John Parish, Antigua and Barbuda",
+    "AG-05": "Saint Mary Parish, Antigua and Barbuda",
+    "AG-06": "Saint Paul Parish, Antigua and Barbuda",
+    "AG-07": "Saint Peter Parish, Antigua and Barbuda",
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "it": {
+    "AG-03": "Saint George",
+    "AG-04": "Saint John",
+    "AG-05": "Saint Mary",
+    "AG-06": "Saint Paul",
+    "AG-07": "Saint Peter",
+    "AG-08": "Saint Philip",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  },
+  "he": {
+    "AG-03": "Saint George Parish, Antigua and Barbuda",
+    "AG-04": "Saint John Parish, Antigua and Barbuda",
+    "AG-05": "Saint Mary Parish, Antigua and Barbuda",
+    "AG-06": "Saint Paul Parish, Antigua and Barbuda",
+    "AG-07": "Saint Peter Parish, Antigua and Barbuda",
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
+    "AG-10": "Barbuda",
+    "AG-11": "Redonda"
+  }
+}

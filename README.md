@@ -1,160 +1,130 @@
-# country-localizer
+# localized-countries-states
 
-A comprehensive TypeScript package for ISO country and state/province lists with advanced localization support (BCP 47 locale), supporting Node.js and browsers.
+ISO 3166-1 countries and official ISO 3166-2 states/provinces with localized names in 12 languages. Works in Node.js, browsers (React, Next.js, Vite), and edge runtimes from a single entry point — no runtime dependencies, no `fs`, no network.
 
-## 🌟 Features
-- **Complete ISO 3166-1 country codes** (all ~200 countries)
-- **ISO 3166-2 state/province codes** for major countries
-- **Advanced localization** via native `Intl.DisplayNames` API
-- **Localized state/province names** (Spanish, French, and more)
-- **Smart fallback system** with locale normalization
-- **BCP 47 locale validation** and parsing
-- **One-time locale initialization**
-- **Locale override per function**
-- **No runtime dependencies**
+## Features
 
-## 🌍 Supported Countries with States/Provinces
-- 🇺🇸 **United States** (50 states + territories) - *Localized in Spanish & French*
-- 🇨🇦 **Canada** (13 provinces/territories)
-- 🇮🇳 **India** (36 states/union territories)
-- 🇧🇷 **Brazil** (27 states)
-- 🇦🇺 **Australia** (8 states/territories)
-- 🇨🇳 **China** (34 provinces/regions)
-- 🇬🇧 **United Kingdom** (4 countries)
-- 🇫🇷 **France** (13 regions)
-- 🇮🇹 **Italy** (20 regions)
-- 🇪🇸 **Spain** (17 autonomous communities)
-- 🇷🇺 **Russia** (85 federal subjects)
-- 🇲🇽 **Mexico** (32 states)
-- 🇯🇵 **Japan** (47 prefectures)
-- 🇵🇰 **Pakistan** (provinces)
-- 🇩🇪 **Germany** (states)
+- Complete ISO 3166-1 country list (~250 countries/territories)
+- Complete official ISO 3166-2 subdivisions — ~5,070 across 200 countries, keyed by full ISO code (`ES-AN`, `US-CA`)
+- Subdivision names localized in 12 languages: English, Russian, German, French, Spanish, Chinese, Hindi, Portuguese, Japanese, Arabic, Italian, Hebrew
+- Country names in the same 12 languages, with `Intl.DisplayNames` as a runtime fallback for other locales
+- BCP 47 locale parsing, validation, and normalization with a fallback chain
+- Default locale set once via `init()`, overridable per call
 
-## 🚀 Installation
+Country/subdivision data is generated from MIT-licensed sources — see [NOTICE.md](./NOTICE.md). Regenerate with `npm run build:data`.
+
+## Installation
+
 ```sh
-npm install country-localizer
+npm install localized-countries-states
 ```
 
-## 📖 Usage
+## Usage
 
-### Basic Usage
 ```ts
-import { init, getAllCountries, getStatesOfCountry } from 'country-localizer';
+import { init, getAllCountries, getStatesOfCountry } from 'localized-countries-states';
 
 init('fr-FR');
 
-const countries = getAllCountries();
-console.log(countries);
-// [{ code: 'DE', name: 'Allemagne' }, { code: 'PK', name: 'Pakistan' }]
+getAllCountries();
+// [{ code: 'DE', name: 'Allemagne' }, { code: 'PK', name: 'Pakistan' }, ...]
 
-const states = getStatesOfCountry('US');
-console.log(states);
-// [{ code: 'CA', name: 'California' }, { code: 'NY', name: 'New York' }]
+getStatesOfCountry('US');
+// [{ code: 'US-CA', name: 'California' }, { code: 'US-NY', name: 'New York' }, ...]
 ```
 
-### Advanced Localization
+Every function also accepts a locale directly:
+
 ```ts
-import { 
-  getAllCountries, 
-  getStatesOfCountry, 
-  getStateName,
-  normalizeLocale,
-  parseLocale,
-  isLocaleSupported 
-} from 'country-localizer';
+import { getStatesOfCountry, getStateName, getCountryName } from 'localized-countries-states';
 
-// Get countries in Spanish
-const spanishCountries = getAllCountries('es-ES');
+getStatesOfCountry('US', 'es-ES');
+// [{ code: 'US-NY', name: 'Nueva York' }, ...]
 
-// Get US states in Spanish
-const spanishStates = getStatesOfCountry('US', 'es-ES');
-// [{ code: 'CA', name: 'California' }, { code: 'NY', name: 'Nueva York' }]
-
-// Get individual state names
-const stateName = getStateName('US', 'CA', 'es-ES'); // "California"
-
-// Locale utilities
-const normalized = normalizeLocale('en-us'); // "en-US"
-const parsed = parseLocale('zh-Hans-CN'); // { language: 'zh', script: 'Hans', region: 'CN' }
-const supported = isLocaleSupported('fr-FR'); // true
+getStateName('US', 'US-CA', 'ru');   // "Калифорния"
+getCountryName('DE', 'fr-FR');       // "Allemagne"
 ```
 
-## 🔧 API Reference
+## Drop-in replacement for `country-state-city`
 
-### Core Functions
-- `init(locale: string): void` — Set default locale
+The `Country` / `State` API is available from both the main entry and the `/compat` entry point, with the same `{ isoCode, name, countryCode }` shape and bare state codes (`CA`, not `US-CA`). Migration is a one-line import change:
+
+```ts
+// before
+import { Country, State } from "country-state-city";
+// after
+import { Country, State } from "localized-countries-states/compat";
+
+Country.getAllCountries();                  // [{ isoCode: 'US', name: 'United States' }, ...]
+Country.getCountryByCode("ES");             // { isoCode: 'ES', name: 'Spain' }
+State.getStatesOfCountry("US");             // [{ isoCode: 'CA', name: 'California', countryCode: 'US' }, ...]
+State.getStateByCodeAndCountry("CA", "US"); // { isoCode: 'CA', name: 'California', countryCode: 'US' }
+State.getAllStates();                       // every subdivision
+```
+
+Unlike `country-state-city`, every method takes an optional BCP-47 locale, or call `setLocale()` once:
+
+```ts
+import { Country, State, setLocale } from "localized-countries-states/compat";
+
+Country.getCountryByCode("FR", "es-ES");    // { isoCode: 'FR', name: 'Francia' }
+setLocale("de-DE");
+State.getStatesOfCountry("ES");             // Catalonia -> 'Katalonien', etc.
+```
+
+Differences:
+
+- No `City` — this package has no city data. Code that uses `City.getCitiesOfState` cannot migrate.
+- No `phonecode` / `currency` / `flag` / coordinates on results — only `isoCode`, `name`, `countryCode`.
+- Data is bundled eagerly (~1.2 MB raw, ~250 KB gzipped, no cities).
+
+## API Reference
+
+### Core
+
+- `init(locale: string): void` — set the default locale
 - `getAllCountries(locale?: string): { code: string; name: string }[]`
 - `getStatesOfCountry(countryCode: string, locale?: string): { code: string; name: string }[]`
 - `getCountryName(code: string, locale?: string): string`
-
-### Enhanced Localization
 - `getStateName(countryCode: string, stateCode: string, locale?: string): string`
+
+### Availability helpers
+
 - `getAvailableStateLocales(countryCode: string): string[]`
 - `hasLocalizedStates(countryCode: string, locale?: string): boolean`
-- `getCountriesByRegion(region: string, locale?: string): { code: string; name: string }[]`
-- `getCountriesByLanguage(language: string, locale?: string): { code: string; name: string }[]`
+- `getAvailableCountryLocales(): string[]`
+- `hasLocalizedCountries(locale?: string): boolean`
 - `isCountryLocaleSupported(locale: string): boolean`
 
-### Locale Utilities
-- `parseLocale(locale: string): LocaleInfo | null` — Parse BCP 47 locale
-- `normalizeLocale(locale: string): string` — Normalize locale format
-- `getFallbackLocales(locale: string): string[]` — Get fallback chain
+### Locale utilities
+
+- `parseLocale(locale: string): LocaleInfo | null`
+- `normalizeLocale(locale: string): string`
+- `getFallbackLocales(locale: string): string[]`
 - `createLocalizer(locale: string, type?: string): Intl.DisplayNames | null`
 - `getLocalizedName(code: string, locale: string, type?: string): string`
-- `isLocaleSupported(locale: string): boolean` — Check locale support
-- `COMMON_LOCALES: readonly string[]` — List of commonly supported locales
+- `isLocaleSupported(locale: string): boolean`
+- `COMMON_LOCALES: readonly string[]`
 
-### Types
-- `LocaleInfo` — Parsed locale information
+## Locales and fallback behavior
 
-## 🌐 Supported Locales
-The package supports **50+ locales** including:
-- **English**: en-US, en-GB, en-CA, en-AU
-- **Spanish**: es-ES, es-MX, es-AR, es-CO
-- **French**: fr-FR, fr-CA, fr-BE, fr-CH
-- **German**: de-DE, de-AT, de-CH, de-LU
-- **Portuguese**: pt-BR, pt-PT
-- **Chinese**: zh-CN, zh-TW, zh-HK
-- **Japanese**: ja-JP
-- **Korean**: ko-KR
-- **Arabic**: ar-SA, ar-EG, ar-AE
-- **Hindi**: hi-IN
-- **Russian**: ru-RU, ru-UA
-- And many more...
+Bundled translations cover 12 languages: `en`, `ru`, `de`, `fr`, `es`, `zh`, `hi`, `pt`, `ja`, `ar`, `it`, `he`. Any region variant of these resolves via the language (`es-MX` → `es`).
 
-## 🧪 Testing
+Name resolution order:
+
+1. Exact locale match in the bundled data (`es-ES`)
+2. Language-only match (`es`)
+3. For country names: `Intl.DisplayNames` (so unbundled locales like `ko` or `tr` still work at runtime)
+4. The English base name
+
+Subdivisions localized upstream are the top-level regions; finer subdivisions (e.g. Spanish provinces) fall back to their canonical name.
+
+## Testing
+
 ```sh
 npm test
 ```
 
-## 📊 Localization Features
+## License
 
-### Smart Fallback System
-- **Exact match**: `es-ES` → Spanish (Spain)
-- **Language fallback**: `es-MX` → Spanish (Mexico) → Spanish → English
-- **Region fallback**: `en-CA` → English (Canada) → English (US) → English
-- **Graceful degradation**: Always falls back to English names
-
-### State/Province Localization
-Currently supports localized state names for:
-- 🇺🇸 **United States**: Spanish (es-ES), French (fr-FR)
-- More countries coming soon...
-
-### BCP 47 Compliance
-- Full BCP 47 locale format support
-- Language, script, region, and variant parsing
-- Locale validation and normalization
-- Fallback chain generation
-
-## 🔄 Migration from v1
-The API is fully backward compatible. New features are additive:
-```ts
-// Old way (still works)
-const states = getStatesOfCountry('US');
-
-// New way with localization
-const states = getStatesOfCountry('US', 'es-ES');
-```
-
-## 📝 License
-Public domain data. Uses native APIs. 
+Package code: ISC. Bundled country/subdivision data is generated from MIT-licensed sources (`iso-3166` and `esosedi/3166`) — see [NOTICE.md](./NOTICE.md) for full attribution.
