@@ -1,17 +1,17 @@
 # localized-countries-states
 
-ISO 3166-1 countries and official ISO 3166-2 states/provinces with localized names in 12 languages. Works in Node.js, browsers (React, Next.js, Vite), and edge runtimes from a single entry point — no runtime dependencies, no `fs`, no network.
+ISO 3166-1 countries and official ISO 3166-2 states/provinces with localized names in 12 languages. Works in Node.js, browsers (React, Next.js, Vite), and edge runtimes from a single entry point, with no runtime dependencies, no `fs`, and no network calls.
 
 ## Features
 
 - Complete ISO 3166-1 country list (~250 countries/territories)
-- Complete official ISO 3166-2 subdivisions — ~5,070 across 200 countries, keyed by full ISO code (`ES-AN`, `US-CA`)
+- Complete official ISO 3166-2 subdivisions: ~5,070 across 200 countries, keyed by full ISO code (`ES-AN`, `US-CA`)
 - Subdivision names localized in 12 languages: English, Russian, German, French, Spanish, Chinese, Hindi, Portuguese, Japanese, Arabic, Italian, Hebrew
 - Country names in the same 12 languages, with `Intl.DisplayNames` as a runtime fallback for other locales
 - BCP 47 locale parsing, validation, and normalization with a fallback chain
 - Default locale set once via `init()`, overridable per call
 
-Country/subdivision data is generated from MIT-licensed sources — see [NOTICE.md](./NOTICE.md). Regenerate with `npm run build:data`.
+Country/subdivision data is generated from MIT-licensed sources; see [NOTICE.md](./NOTICE.md). Regenerate with `npm run build:data`.
 
 ## Installation
 
@@ -45,44 +45,11 @@ getStateName('US', 'US-CA', 'ru');   // "Калифорния"
 getCountryName('DE', 'fr-FR');       // "Allemagne"
 ```
 
-## Drop-in replacement for `country-state-city`
-
-The `Country` / `State` API is available from both the main entry and the `/compat` entry point, with the same `{ isoCode, name, countryCode }` shape and bare state codes (`CA`, not `US-CA`). Migration is a one-line import change:
-
-```ts
-// before
-import { Country, State } from "country-state-city";
-// after
-import { Country, State } from "localized-countries-states/compat";
-
-Country.getAllCountries();                  // [{ isoCode: 'US', name: 'United States' }, ...]
-Country.getCountryByCode("ES");             // { isoCode: 'ES', name: 'Spain' }
-State.getStatesOfCountry("US");             // [{ isoCode: 'CA', name: 'California', countryCode: 'US' }, ...]
-State.getStateByCodeAndCountry("CA", "US"); // { isoCode: 'CA', name: 'California', countryCode: 'US' }
-State.getAllStates();                       // every subdivision
-```
-
-Unlike `country-state-city`, every method takes an optional BCP-47 locale, or call `setLocale()` once:
-
-```ts
-import { Country, State, setLocale } from "localized-countries-states/compat";
-
-Country.getCountryByCode("FR", "es-ES");    // { isoCode: 'FR', name: 'Francia' }
-setLocale("de-DE");
-State.getStatesOfCountry("ES");             // Catalonia -> 'Katalonien', etc.
-```
-
-Differences:
-
-- No `City` — this package has no city data. Code that uses `City.getCitiesOfState` cannot migrate.
-- No `phonecode` / `currency` / `flag` / coordinates on results — only `isoCode`, `name`, `countryCode`.
-- Data is bundled eagerly (~1.2 MB raw, ~250 KB gzipped, no cities).
-
 ## API Reference
 
 ### Core
 
-- `init(locale: string): void` — set the default locale
+- `init(locale: string): void` sets the default locale
 - `getAllCountries(locale?: string): { code: string; name: string }[]`
 - `getStatesOfCountry(countryCode: string, locale?: string): { code: string; name: string }[]`
 - `getCountryName(code: string, locale?: string): string`
@@ -127,4 +94,4 @@ npm test
 
 ## License
 
-Package code: ISC. Bundled country/subdivision data is generated from MIT-licensed sources (`iso-3166` and `esosedi/3166`) — see [NOTICE.md](./NOTICE.md) for full attribution.
+Package code: ISC. Bundled country/subdivision data is generated from MIT-licensed sources (`iso-3166` and `esosedi/3166`); see [NOTICE.md](./NOTICE.md) for full attribution.

@@ -1,4 +1,4 @@
-// Drop-in, `country-state-city`-compatible API — sync + eager, browser-safe (no fs).
+// Drop-in, `country-state-city`-compatible API: sync + eager, browser-safe (no fs).
 //
 // Migration: change the import only.
 //   -  import { Country, State } from "country-state-city";
