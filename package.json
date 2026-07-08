@@ -42,6 +42,14 @@
     "i18n",
     "bcp47"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampanthera/localized-countries-states.git"
+  },
+  "homepage": "https://github.com/iampanthera/localized-countries-states#readme",
+  "bugs": {
+    "url": "https://github.com/iampanthera/localized-countries-states/issues"
+  },
   "author": "iampanthera <dev.talhaakram@gmail.com>",
   "license": "ISC",
   "description": "ISO 3166-1 countries and official ISO 3166-2 states/provinces with localized names in 12 languages.",
