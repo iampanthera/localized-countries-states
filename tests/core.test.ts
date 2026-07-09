@@ -158,6 +158,17 @@ describe("country-localizer", () => {
     expect(es.map((s) => s.name)).toEqual(esSorted.map((s) => s.name));
   });
 
+  it("getStatesOfCountry('ES') excludes deprecated duplicate codes and has no duplicate names", () => {
+    const es = getStatesOfCountry("ES", "es-ES");
+    const codes = es.map((s) => s.code);
+    expect(codes).not.toContain("ES-PM");
+    expect(codes).not.toContain("ES-RI");
+    expect(codes).not.toContain("ES-S");
+    const names = es.map((s) => s.name);
+    const dupes = names.filter((n, i) => names.indexOf(n) !== i);
+    expect(dupes).toEqual([]);
+  });
+
   it("returns empty array for countries without state data", () => {
     const states = getStatesOfCountry("XX");
     expect(states).toEqual([]);

@@ -23,16 +23,40 @@ const I18N_DIR = path.join(__dirname, "vendor", "i18n");
 const DATA_DIR = path.join(ROOT, "data");
 
 // 12 real translation langs. `en` is the base (English), rest are localized overlays.
-const LANGS = ["en", "ru", "de", "fr", "es", "zh", "hi", "pt", "ja", "ar", "it", "he"];
+const LANGS = [
+  "en",
+  "ru",
+  "de",
+  "fr",
+  "es",
+  "zh",
+  "hi",
+  "pt",
+  "ja",
+  "ar",
+  "it",
+  "he",
+];
 const LOCALIZED_LANGS = LANGS.filter((l) => l !== "en");
 
+const EXCLUDED_SUBDIVISION_CODES = new Set(["ES-PM", "ES-RI", "ES-S"]);
+
+const LOCALIZED_NAME_OVERRIDES = {
+  es: { "ES-NC": "Comunidad Foral de Navarra" },
+};
+
 const i18n = Object.fromEntries(
-  LANGS.map((l) => [l, JSON.parse(fs.readFileSync(path.join(I18N_DIR, `${l}.json`), "utf-8"))])
+  LANGS.map((l) => [
+    l,
+    JSON.parse(fs.readFileSync(path.join(I18N_DIR, `${l}.json`), "utf-8")),
+  ]),
 );
 
 // ---- official reference from iso-3166 ----
 const officialCountries = new Set(iso31661.map((c) => c.alpha2)); // alpha2 codes
-const officialCountryName = Object.fromEntries(iso31661.map((c) => [c.alpha2, c.name]));
+const officialCountryName = Object.fromEntries(
+  iso31661.map((c) => [c.alpha2, c.name]),
+);
 
 // per-country: official subdivision code (sub part) -> official name
 const officialSubs = {};
@@ -58,14 +82,21 @@ function isValidLocalizedName(lang, name) {
   return true;
 }
 function levenshtein(a, b) {
-  const m = a.length, n = b.length;
-  if (!m) return n; if (!n) return m;
+  const m = a.length,
+    n = b.length;
+  if (!m) return n;
+  if (!n) return m;
   const dp = Array.from({ length: m + 1 }, (_, i) => i);
   for (let j = 1; j <= n; j++) {
-    let prev = dp[0]; dp[0] = j;
+    let prev = dp[0];
+    dp[0] = j;
     for (let i = 1; i <= m; i++) {
       const tmp = dp[i];
-      dp[i] = Math.min(dp[i] + 1, dp[i - 1] + 1, prev + (a[i - 1] === b[j - 1] ? 0 : 1));
+      dp[i] = Math.min(
+        dp[i] + 1,
+        dp[i - 1] + 1,
+        prev + (a[i - 1] === b[j - 1] ? 0 : 1),
+      );
       prev = tmp;
     }
   }
@@ -94,7 +125,9 @@ function resolveOfficialCode(cc, dbIso, names, officialMap, usedOfficial) {
   if (officialMap.has(dbIso) && !usedOfficial.has(dbIso)) {
     return { code: dbIso, method: "code" };
   }
-  const candidateNames = [...new Set(Object.values(names).concat(dbIso).map(normalize))].filter(Boolean);
+  const candidateNames = [
+    ...new Set(Object.values(names).concat(dbIso).map(normalize)),
+  ].filter(Boolean);
 
   // 2. exact / containment on normalized names (skip already-used official codes)
   for (const [offCode, offName] of officialMap) {
@@ -103,7 +136,11 @@ function resolveOfficialCode(cc, dbIso, names, officialMap, usedOfficial) {
     if (!on) continue;
     for (const cn of candidateNames) {
       if (cn.length < 3) continue;
-      if (cn === on || (cn.length >= 4 && on.includes(cn)) || (on.length >= 4 && cn.includes(on))) {
+      if (
+        cn === on ||
+        (cn.length >= 4 && on.includes(cn)) ||
+        (on.length >= 4 && cn.includes(on))
+      ) {
         return { code: offCode, method: "name" };
       }
     }
@@ -128,33 +165,44 @@ function resolveOfficialCode(cc, dbIso, names, officialMap, usedOfficial) {
 
 // ---- build ----
 const countriesOut = {};
-const countriesLocalized = Object.fromEntries(LOCALIZED_LANGS.map((l) => [l, {}]));
+const countriesLocalized = Object.fromEntries(
+  LOCALIZED_LANGS.map((l) => [l, {}]),
+);
 const report = {
-  generatedFrom: "iso-3166 (region set + codes) + esosedi/3166 (localized names, MIT)",
+  generatedFrom:
+    "iso-3166 (region set + codes) + esosedi/3166 (localized names, MIT)",
   langs: LANGS,
   codeFormat: "ISO 3166-2 full code (e.g. ES-AN)",
   granularity: "complete ISO 3166-2 (all subdivision levels)",
   methodCounts: {},
   unmappedEsosediRegions: [], // esosedi regions that don't map to any official ISO 3166-2 code
 };
-const bump = (m) => (report.methodCounts[m] = (report.methodCounts[m] || 0) + 1);
+const bump = (m) =>
+  (report.methodCounts[m] = (report.methodCounts[m] || 0) + 1);
 
 fs.rmSync(path.join(DATA_DIR, "states"), { recursive: true, force: true });
-fs.rmSync(path.join(DATA_DIR, "states-localized"), { recursive: true, force: true });
+fs.rmSync(path.join(DATA_DIR, "states-localized"), {
+  recursive: true,
+  force: true,
+});
 fs.mkdirSync(path.join(DATA_DIR, "states"), { recursive: true });
 fs.mkdirSync(path.join(DATA_DIR, "states-localized"), { recursive: true });
 
 const enDb = i18n.en;
-let statesFiles = 0, regionsTotal = 0, localizedRegions = 0;
+let statesFiles = 0,
+  regionsTotal = 0,
+  localizedRegions = 0;
 
 // Aggregates for the eager, browser-safe bundle consumed by the `compat` entry point.
-const allStates = {};            // cc -> { fullCode -> baseName }
-const allStatesLocalized = {};   // cc -> { lang -> { fullCode -> name } }
+const allStates = {}; // cc -> { fullCode -> baseName }
+const allStatesLocalized = {}; // cc -> { lang -> { fullCode -> name } }
 
 // Country set = official ISO 3166-1 (alpha2). Subdivision set/codes = official ISO 3166-2.
 for (const cc of iso31661.map((c) => c.alpha2).sort()) {
   // ---- country names ----
-  countriesOut[cc] = { name: (enDb[cc] && enDb[cc].name) || officialCountryName[cc] };
+  countriesOut[cc] = {
+    name: (enDb[cc] && enDb[cc].name) || officialCountryName[cc],
+  };
   for (const lang of LOCALIZED_LANGS) {
     const n = i18n[lang][cc] && i18n[lang][cc].name;
     if (n && isValidLocalizedName(lang, n)) countriesLocalized[lang][cc] = n;
@@ -167,12 +215,22 @@ for (const cc of iso31661.map((c) => c.alpha2).sort()) {
   // Map esosedi's localized names onto official codes (sub -> {names}).
   const esosediBySub = new Map();
   const usedOfficial = new Set();
-  for (const r of (enDb[cc] ? enDb[cc].regions || [] : [])) {
+  for (const r of enDb[cc] ? enDb[cc].regions || [] : []) {
     const names = regionNamesAllLangs(cc, r.iso);
-    const { code, method } = resolveOfficialCode(cc, r.iso, names, officialMap, usedOfficial);
+    const { code, method } = resolveOfficialCode(
+      cc,
+      r.iso,
+      names,
+      officialMap,
+      usedOfficial,
+    );
     bump(method.startsWith("fuzzy") ? "fuzzy" : method);
     if (code === null) {
-      report.unmappedEsosediRegions.push({ country: cc, esosediCode: r.iso, name: names.en || r.name });
+      report.unmappedEsosediRegions.push({
+        country: cc,
+        esosediCode: r.iso,
+        name: names.en || r.name,
+      });
       continue;
     }
     usedOfficial.add(code);
@@ -184,6 +242,7 @@ for (const cc of iso31661.map((c) => c.alpha2).sort()) {
 
   for (const [sub, isoName] of officialMap) {
     const fullCode = `${cc}-${sub}`;
+    if (EXCLUDED_SUBDIVISION_CODES.has(fullCode)) continue;
     const names = esosediBySub.get(sub);
     // Prefer esosedi's English name (proper English) over the ISO canonical name (often local).
     base[fullCode] = (names && names.en) || isoName;
@@ -191,29 +250,48 @@ for (const cc of iso31661.map((c) => c.alpha2).sort()) {
     if (names) {
       let any = false;
       for (const lang of LOCALIZED_LANGS) {
-        if (names[lang]) { localized[lang][fullCode] = names[lang]; any = true; }
+        if (names[lang]) {
+          localized[lang][fullCode] = names[lang];
+          any = true;
+        }
       }
       if (any) localizedRegions++;
     }
+    // Apply curated localized-name overrides (runs even when esosedi has no entry).
+    for (const lang of LOCALIZED_LANGS) {
+      const override = LOCALIZED_NAME_OVERRIDES[lang]?.[fullCode];
+      if (override) localized[lang][fullCode] = override;
+    }
   }
 
-  fs.writeFileSync(path.join(DATA_DIR, "states", `${cc}.json`), JSON.stringify(base, null, 2) + "\n");
-  const localizedClean = Object.fromEntries(Object.entries(localized).filter(([, v]) => Object.keys(v).length));
+  fs.writeFileSync(
+    path.join(DATA_DIR, "states", `${cc}.json`),
+    JSON.stringify(base, null, 2) + "\n",
+  );
+  const localizedClean = Object.fromEntries(
+    Object.entries(localized).filter(([, v]) => Object.keys(v).length),
+  );
   fs.writeFileSync(
     path.join(DATA_DIR, "states-localized", `${cc}.json`),
-    JSON.stringify(localizedClean, null, 2) + "\n"
+    JSON.stringify(localizedClean, null, 2) + "\n",
   );
   allStates[cc] = base;
   allStatesLocalized[cc] = localizedClean;
   statesFiles++;
 }
 
-fs.writeFileSync(path.join(DATA_DIR, "countries.json"), JSON.stringify(countriesOut, null, 2) + "\n");
+fs.writeFileSync(
+  path.join(DATA_DIR, "countries.json"),
+  JSON.stringify(countriesOut, null, 2) + "\n",
+);
 fs.writeFileSync(
   path.join(DATA_DIR, "countries-localized.json"),
-  JSON.stringify(countriesLocalized, null, 2) + "\n"
+  JSON.stringify(countriesLocalized, null, 2) + "\n",
 );
-fs.writeFileSync(path.join(DATA_DIR, "reconciliation-report.json"), JSON.stringify(report, null, 2) + "\n");
+fs.writeFileSync(
+  path.join(DATA_DIR, "reconciliation-report.json"),
+  JSON.stringify(report, null, 2) + "\n",
+);
 
 // ---- eager, browser-safe bundle (no fs at runtime) for the `compat` entry point ----
 // A plain ESM module so bundlers (Vite/Next) inline it and Node/jest load it directly.
@@ -234,8 +312,19 @@ const bundleDts =
 fs.writeFileSync(path.join(DATA_DIR, "bundle.d.ts"), bundleDts);
 
 console.log("countries:", Object.keys(countriesOut).length);
-console.log("state files:", statesFiles, "| official ISO 3166-2 subdivisions:", regionsTotal);
-console.log("subdivisions with >=1 localized name:", localizedRegions,
-  `(${((localizedRegions / regionsTotal) * 100).toFixed(0)}%, rest fall back to base name)`);
+console.log(
+  "state files:",
+  statesFiles,
+  "| official ISO 3166-2 subdivisions:",
+  regionsTotal,
+);
+console.log(
+  "subdivisions with >=1 localized name:",
+  localizedRegions,
+  `(${((localizedRegions / regionsTotal) * 100).toFixed(0)}%, rest fall back to base name)`,
+);
 console.log("esosedi name-mapping methods:", report.methodCounts);
-console.log("unmapped esosedi regions (localization skipped):", report.unmappedEsosediRegions.length);
+console.log(
+  "unmapped esosedi regions (localization skipped):",
+  report.unmappedEsosediRegions.length,
+);

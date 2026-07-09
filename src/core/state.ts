@@ -3,20 +3,20 @@ import { STATES, STATES_LOCALIZED } from "../../data/bundle.js";
 
 export function getStatesOfCountry(
   countryCode: string,
-  locale?: string
+  locale?: string,
 ): { code: string; name: string }[] {
   const states = STATES[countryCode];
   if (!states) return [];
 
   const collator = new Intl.Collator(
-    locale ? normalizeLocale(locale) : undefined
+    locale ? normalizeLocale(locale) : undefined,
   );
   const byName = (list: { code: string; name: string }[]) =>
     list.sort((a, b) => collator.compare(a.name, b.name));
 
   if (!locale) {
     return byName(
-      Object.entries(states).map(([code, name]) => ({ code, name }))
+      Object.entries(states).map(([code, name]) => ({ code, name })),
     );
   }
 
@@ -29,7 +29,7 @@ export function getStatesOfCountry(
         Object.entries(states).map(([code, englishName]) => ({
           code,
           name: localizedStates[normalizedLocale][code] || englishName,
-        }))
+        })),
       );
     }
 
@@ -39,13 +39,13 @@ export function getStatesOfCountry(
         Object.entries(states).map(([code, englishName]) => ({
           code,
           name: localizedStates[language][code] || englishName,
-        }))
+        })),
       );
     }
   }
 
   return byName(
-    Object.entries(states).map(([code, name]) => ({ code, name }))
+    Object.entries(states).map(([code, name]) => ({ code, name })),
   );
 }
 
@@ -55,7 +55,7 @@ export function getStatesOfCountry(
 export function getStateName(
   countryCode: string,
   stateCode: string,
-  locale?: string
+  locale?: string,
 ): string {
   const states = getStatesOfCountry(countryCode, locale);
   const state = states.find((s) => s.code === stateCode);
@@ -74,7 +74,7 @@ export function getAvailableStateLocales(countryCode: string): string[] {
  */
 export function hasLocalizedStates(
   countryCode: string,
-  locale?: string
+  locale?: string,
 ): boolean {
   if (!locale) return false;
 

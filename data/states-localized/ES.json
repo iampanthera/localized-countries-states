@@ -16,7 +16,6 @@
     "ES-ML": "Мелилья",
     "ES-MU": "Мурсия",
     "ES-NC": "Наварра",
-    "ES-PM": "Балеарские острова",
     "ES-PV": "Страна Басков",
     "ES-VC": "Валенсия"
   },
@@ -37,7 +36,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Murcia",
     "ES-NC": "Navarra",
-    "ES-PM": "Balearische Inseln",
     "ES-PV": "Autonome Gemeinschaft Baskenland",
     "ES-VC": "Valencianische Gemeinschaft"
   },
@@ -58,7 +56,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Région de Murcie",
     "ES-NC": "Communauté forale de Navarre",
-    "ES-PM": "Îles Baléares",
     "ES-PV": "Pays basque",
     "ES-VC": "Communauté valencienne"
   },
@@ -78,8 +75,7 @@
     "ES-MD": "Comunidad de Madrid",
     "ES-ML": "Melilla",
     "ES-MU": "Región de Murcia",
-    "ES-NC": "Navarra",
-    "ES-PM": "Islas Baleares",
+    "ES-NC": "Comunidad Foral de Navarra",
     "ES-PV": "País Vasco",
     "ES-VC": "Comunidad Valenciana"
   },
@@ -99,7 +95,6 @@
     "ES-ML": "梅利利亚",
     "ES-MU": "穆尔西亚自治区",
     "ES-NC": "納瓦拉",
-    "ES-PM": "巴利阿里群島",
     "ES-PV": "巴斯克自治區",
     "ES-VC": "巴倫西亞自治區"
   },
@@ -120,7 +115,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Region of Murcia",
     "ES-NC": "Navarre",
-    "ES-PM": "Balears",
     "ES-PV": "Basque Country",
     "ES-VC": "Valencian Community"
   },
@@ -141,7 +135,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Region of Murcia",
     "ES-NC": "Navarre",
-    "ES-PM": "Balears",
     "ES-PV": "Basque Country",
     "ES-VC": "Valencian Community"
   },
@@ -162,7 +155,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Region of Murcia",
     "ES-NC": "Navarre",
-    "ES-PM": "Balears",
     "ES-PV": "Basque Country",
     "ES-VC": "Valencian Community"
   },
@@ -183,7 +175,6 @@
     "ES-ML": "مليلية",
     "ES-MU": "منطقة مرسية",
     "ES-NC": "منطقة نافارا",
-    "ES-PM": "منطقة جزر البليار",
     "ES-PV": "منطقة إقليم الباسك",
     "ES-VC": "منطقة بلنسية"
   },
@@ -204,7 +195,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Murcia",
     "ES-NC": "Navarra",
-    "ES-PM": "Isole Baleari",
     "ES-PV": "Paesi Baschi",
     "ES-VC": "Comunità valenzana"
   },
@@ -225,7 +215,6 @@
     "ES-ML": "Melilla",
     "ES-MU": "Region of Murcia",
     "ES-NC": "Navarre",
-    "ES-PM": "Balears",
     "ES-PV": "Basque Country",
     "ES-VC": "Valencian Community"
   }
