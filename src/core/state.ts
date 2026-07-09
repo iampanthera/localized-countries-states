@@ -8,8 +8,16 @@ export function getStatesOfCountry(
   const states = STATES[countryCode];
   if (!states) return [];
 
+  const collator = new Intl.Collator(
+    locale ? normalizeLocale(locale) : undefined
+  );
+  const byName = (list: { code: string; name: string }[]) =>
+    list.sort((a, b) => collator.compare(a.name, b.name));
+
   if (!locale) {
-    return Object.entries(states).map(([code, name]) => ({ code, name }));
+    return byName(
+      Object.entries(states).map(([code, name]) => ({ code, name }))
+    );
   }
 
   const normalizedLocale = normalizeLocale(locale);
@@ -17,22 +25,28 @@ export function getStatesOfCountry(
 
   if (localizedStates) {
     if (localizedStates[normalizedLocale]) {
-      return Object.entries(states).map(([code, englishName]) => ({
-        code,
-        name: localizedStates[normalizedLocale][code] || englishName,
-      }));
+      return byName(
+        Object.entries(states).map(([code, englishName]) => ({
+          code,
+          name: localizedStates[normalizedLocale][code] || englishName,
+        }))
+      );
     }
 
     const language = normalizedLocale.split("-")[0];
     if (localizedStates[language]) {
-      return Object.entries(states).map(([code, englishName]) => ({
-        code,
-        name: localizedStates[language][code] || englishName,
-      }));
+      return byName(
+        Object.entries(states).map(([code, englishName]) => ({
+          code,
+          name: localizedStates[language][code] || englishName,
+        }))
+      );
     }
   }
 
-  return Object.entries(states).map(([code, name]) => ({ code, name }));
+  return byName(
+    Object.entries(states).map(([code, name]) => ({ code, name }))
+  );
 }
 
 /**

@@ -11,34 +11,37 @@ import {
 
 export function getAllCountries(locale?: string) {
   const useLocale = locale ? normalizeLocale(locale) : defaultLocale;
+  const collator = new Intl.Collator(useLocale);
 
-  return Object.entries(countriesData).map(([code, { name }]) => {
-    let localizedName = "";
+  return Object.entries(countriesData)
+    .map(([code, { name }]) => {
+      let localizedName = "";
 
-    if (
-      localizedCountriesData[useLocale] &&
-      localizedCountriesData[useLocale][code]
-    ) {
-      localizedName = localizedCountriesData[useLocale][code];
-    } else if (useLocale.includes("-")) {
-      const language = useLocale.split("-")[0];
       if (
-        localizedCountriesData[language] &&
-        localizedCountriesData[language][code]
+        localizedCountriesData[useLocale] &&
+        localizedCountriesData[useLocale][code]
       ) {
-        localizedName = localizedCountriesData[language][code];
+        localizedName = localizedCountriesData[useLocale][code];
+      } else if (useLocale.includes("-")) {
+        const language = useLocale.split("-")[0];
+        if (
+          localizedCountriesData[language] &&
+          localizedCountriesData[language][code]
+        ) {
+          localizedName = localizedCountriesData[language][code];
+        }
       }
-    }
 
-    if (!localizedName) {
-      localizedName = getLocalizedName(code, useLocale, "region");
-    }
+      if (!localizedName) {
+        localizedName = getLocalizedName(code, useLocale, "region");
+      }
 
-    return {
-      code,
-      name: localizedName || name,
-    };
-  });
+      return {
+        code,
+        name: localizedName || name,
+      };
+    })
+    .sort((a, b) => collator.compare(a.name, b.name));
 }
 
 export function getCountryName(code: string, locale?: string): string {

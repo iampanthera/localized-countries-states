@@ -130,6 +130,34 @@ describe("country-localizer", () => {
     ).toBeDefined();
   });
 
+  it("getAllCountries returns names sorted alphabetically for the locale", () => {
+    const en = getAllCountries("en-US");
+    const collator = new Intl.Collator("en-US");
+    const sorted = [...en].sort((a, b) => collator.compare(a.name, b.name));
+    expect(en.map((c) => c.name)).toEqual(sorted.map((c) => c.name));
+
+    const es = getAllCountries("es-ES");
+    const esCollator = new Intl.Collator("es-ES");
+    const esSorted = [...es].sort((a, b) => esCollator.compare(a.name, b.name));
+    expect(es.map((c) => c.name)).toEqual(esSorted.map((c) => c.name));
+  });
+
+  it("getStatesOfCountry returns names sorted alphabetically for the locale", () => {
+    const us = getStatesOfCountry("US");
+    const collator = new Intl.Collator();
+    const usSorted = [...us].sort((a, b) => collator.compare(a.name, b.name));
+    expect(us.map((s) => s.name)).toEqual(usSorted.map((s) => s.name));
+    // Alabama before Alaska (name order, not code order US-AK before US-AL)
+    expect(us.findIndex((s) => s.name === "Alabama")).toBeLessThan(
+      us.findIndex((s) => s.name === "Alaska")
+    );
+
+    const es = getStatesOfCountry("ES", "es-ES");
+    const esCollator = new Intl.Collator("es-ES");
+    const esSorted = [...es].sort((a, b) => esCollator.compare(a.name, b.name));
+    expect(es.map((s) => s.name)).toEqual(esSorted.map((s) => s.name));
+  });
+
   it("returns empty array for countries without state data", () => {
     const states = getStatesOfCountry("XX");
     expect(states).toEqual([]);
