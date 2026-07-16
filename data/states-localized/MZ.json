@@ -16,7 +16,6 @@
     "MZ-G": "Provinz Gaza",
     "MZ-I": "Provinz Inhambane",
     "MZ-L": "Provinz Maputo",
-    "MZ-MPM": "Maputo",
     "MZ-N": "Provinz Nampula",
     "MZ-P": "Provinz Cabo Delgado",
     "MZ-Q": "Provinz Zambezia",
@@ -29,7 +28,6 @@
     "MZ-G": "Province de Gaza",
     "MZ-I": "Province d'Inhambane",
     "MZ-L": "Province de Maputo",
-    "MZ-MPM": "Maputo",
     "MZ-N": "Province de Nampula",
     "MZ-P": "Province de Cabo Delgado",
     "MZ-Q": "Province de Zambézie",
@@ -42,7 +40,6 @@
     "MZ-G": "Provincia de Gaza",
     "MZ-I": "Inhambane",
     "MZ-L": "Provincia de Maputo",
-    "MZ-MPM": "Maputo",
     "MZ-N": "Provincia de Nampula",
     "MZ-P": "Cabo Delgado",
     "MZ-Q": "Zambezia",
@@ -62,57 +59,9 @@
     "MZ-S": "索法拉省",
     "MZ-T": "太特省"
   },
-  "hi": {
-    "MZ-A": "Niassa Province",
-    "MZ-B": "Manica Province",
-    "MZ-G": "Gaza Province",
-    "MZ-I": "Inhambane Province",
-    "MZ-L": "Maputo Province",
-    "MZ-MPM": "Maputo",
-    "MZ-N": "Nampula Province",
-    "MZ-P": "Cabo Delgado Province",
-    "MZ-Q": "Zambezia Province",
-    "MZ-S": "Sofala Province",
-    "MZ-T": "Tete Province"
-  },
-  "pt": {
-    "MZ-A": "Niassa Province",
-    "MZ-B": "Manica Province",
-    "MZ-G": "Gaza Province",
-    "MZ-I": "Inhambane Province",
-    "MZ-L": "Maputo Province",
-    "MZ-MPM": "Maputo",
-    "MZ-N": "Nampula Province",
-    "MZ-P": "Cabo Delgado Province",
-    "MZ-Q": "Zambezia Province",
-    "MZ-S": "Sofala Province",
-    "MZ-T": "Tete Province"
-  },
-  "ja": {
-    "MZ-A": "Niassa Province",
-    "MZ-B": "Manica Province",
-    "MZ-G": "Gaza Province",
-    "MZ-I": "Inhambane Province",
-    "MZ-L": "Maputo Province",
-    "MZ-MPM": "Maputo",
-    "MZ-N": "Nampula Province",
-    "MZ-P": "Cabo Delgado Province",
-    "MZ-Q": "Zambezia Province",
-    "MZ-S": "Sofala Province",
-    "MZ-T": "Tete Province"
-  },
   "ar": {
     "MZ-A": "بحيرة مالاوي",
-    "MZ-B": "Manica Province",
-    "MZ-G": "Gaza Province",
-    "MZ-I": "Inhambane Province",
-    "MZ-L": "Maputo Province",
-    "MZ-MPM": "مابوتو",
-    "MZ-N": "Nampula Province",
-    "MZ-P": "Cabo Delgado Province",
-    "MZ-Q": "Zambezia Province",
-    "MZ-S": "Sofala Province",
-    "MZ-T": "Tete Province"
+    "MZ-MPM": "مابوتو"
   },
   "it": {
     "MZ-A": "Lago Malawi",
@@ -120,24 +69,10 @@
     "MZ-G": "Provincia di Gaza",
     "MZ-I": "Provincia di Inhambane",
     "MZ-L": "Provincia di Maputo",
-    "MZ-MPM": "Maputo",
     "MZ-N": "Provincia di Nampula",
     "MZ-P": "Provincia di Cabo Delgado",
     "MZ-Q": "Provincia di Zambezia",
     "MZ-S": "Provincia di Sofala",
     "MZ-T": "Provincia di Tete"
-  },
-  "he": {
-    "MZ-A": "Niassa Province",
-    "MZ-B": "Manica Province",
-    "MZ-G": "Gaza Province",
-    "MZ-I": "Inhambane Province",
-    "MZ-L": "Maputo Province",
-    "MZ-MPM": "Maputo",
-    "MZ-N": "Nampula Province",
-    "MZ-P": "Cabo Delgado Province",
-    "MZ-Q": "Zambezia Province",
-    "MZ-S": "Sofala Province",
-    "MZ-T": "Tete Province"
   }
 }

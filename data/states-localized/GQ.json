@@ -44,42 +44,6 @@
     "GQ-LI": "滨海省",
     "GQ-WN": "韦莱恩萨斯省"
   },
-  "hi": {
-    "GQ-AN": "Annobón Province",
-    "GQ-BN": "Bioko Norte Province",
-    "GQ-BS": "Bioko Sur Province",
-    "GQ-CS": "Centro Sur Province",
-    "GQ-KN": "Kié-Ntem Province",
-    "GQ-LI": "Litoral Province",
-    "GQ-WN": "Wele-Nzas Province"
-  },
-  "pt": {
-    "GQ-AN": "Annobón Province",
-    "GQ-BN": "Bioko Norte Province",
-    "GQ-BS": "Bioko Sur Province",
-    "GQ-CS": "Centro Sur Province",
-    "GQ-KN": "Kié-Ntem Province",
-    "GQ-LI": "Litoral Province",
-    "GQ-WN": "Wele-Nzas Province"
-  },
-  "ja": {
-    "GQ-AN": "Annobón Province",
-    "GQ-BN": "Bioko Norte Province",
-    "GQ-BS": "Bioko Sur Province",
-    "GQ-CS": "Centro Sur Province",
-    "GQ-KN": "Kié-Ntem Province",
-    "GQ-LI": "Litoral Province",
-    "GQ-WN": "Wele-Nzas Province"
-  },
-  "ar": {
-    "GQ-AN": "Annobón Province",
-    "GQ-BN": "Bioko Norte Province",
-    "GQ-BS": "Bioko Sur Province",
-    "GQ-CS": "Centro Sur Province",
-    "GQ-KN": "Kié-Ntem Province",
-    "GQ-LI": "Litoral Province",
-    "GQ-WN": "Wele-Nzas Province"
-  },
   "it": {
     "GQ-AN": "Annobón",
     "GQ-BN": "Provincia di Bioko Nord",
@@ -88,14 +52,5 @@
     "GQ-KN": "Provincia Kié-Ntem",
     "GQ-LI": "Provincia Litorale",
     "GQ-WN": "Provincia Wele-Nzas"
-  },
-  "he": {
-    "GQ-AN": "Annobón Province",
-    "GQ-BN": "Bioko Norte Province",
-    "GQ-BS": "Bioko Sur Province",
-    "GQ-CS": "Centro Sur Province",
-    "GQ-KN": "Kié-Ntem Province",
-    "GQ-LI": "Litoral Province",
-    "GQ-WN": "Wele-Nzas Province"
   }
 }

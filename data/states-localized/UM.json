@@ -54,42 +54,8 @@
     "UM-89": "金曼礁",
     "UM-95": "帕邁拉環礁"
   },
-  "hi": {
-    "UM-67": "Johnston Atoll",
-    "UM-71": "Midway Atoll",
-    "UM-76": "Navassa Island",
-    "UM-79": "Wake Island",
-    "UM-81": "Baker Island",
-    "UM-84": "Howland Island",
-    "UM-86": "Jarvis Island",
-    "UM-89": "Kingman Reef",
-    "UM-95": "Palmyra Atoll"
-  },
-  "pt": {
-    "UM-67": "Johnston Atoll",
-    "UM-71": "Midway Atoll",
-    "UM-76": "Navassa Island",
-    "UM-79": "Wake Island",
-    "UM-81": "Baker Island",
-    "UM-84": "Howland Island",
-    "UM-86": "Jarvis Island",
-    "UM-89": "Kingman Reef",
-    "UM-95": "Palmyra Atoll"
-  },
-  "ja": {
-    "UM-67": "Johnston Atoll",
-    "UM-71": "Midway Atoll",
-    "UM-76": "Navassa Island",
-    "UM-79": "Wake Island",
-    "UM-81": "Baker Island",
-    "UM-84": "Howland Island",
-    "UM-86": "Jarvis Island",
-    "UM-89": "Kingman Reef",
-    "UM-95": "Palmyra Atoll"
-  },
   "ar": {
     "UM-67": "جزيرة جونستون المرجانية",
-    "UM-71": "Midway Atoll",
     "UM-76": "جزيرة نافاسا",
     "UM-79": "جزيرة ويك",
     "UM-81": "جزيرة بيكر",
@@ -106,18 +72,6 @@
     "UM-81": "Isola Baker",
     "UM-84": "Isola Howland",
     "UM-86": "Isola Jarvis",
-    "UM-89": "Kingman Reef",
     "UM-95": "Palmyra"
-  },
-  "he": {
-    "UM-67": "Johnston Atoll",
-    "UM-71": "Midway Atoll",
-    "UM-76": "Navassa Island",
-    "UM-79": "Wake Island",
-    "UM-81": "Baker Island",
-    "UM-84": "Howland Island",
-    "UM-86": "Jarvis Island",
-    "UM-89": "Kingman Reef",
-    "UM-95": "Palmyra Atoll"
   }
 }

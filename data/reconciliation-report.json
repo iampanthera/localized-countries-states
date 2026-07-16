@@ -1950,6 +1950,7 @@
       "reason": "generic-remainder"
     }
   ],
+  "englishCopiesDropped": 20528,
   "localizedEntriesDropped": [
     {
       "country": "AR",
@@ -2150,54 +2151,6 @@
       "droppedName": "Sylhet"
     },
     {
-      "country": "CZ",
-      "lang": "de",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "fr",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "es",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "hi",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "pt",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "ja",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "it",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
-      "country": "CZ",
-      "lang": "he",
-      "code": "CZ-72",
-      "droppedName": "Zlín"
-    },
-    {
       "country": "EE",
       "lang": "it",
       "code": "EE-39",
@@ -2247,24 +2200,6 @@
     },
     {
       "country": "ES",
-      "lang": "hi",
-      "code": "ES-AS",
-      "droppedName": "Asturias"
-    },
-    {
-      "country": "ES",
-      "lang": "pt",
-      "code": "ES-AS",
-      "droppedName": "Asturias"
-    },
-    {
-      "country": "ES",
-      "lang": "ja",
-      "code": "ES-AS",
-      "droppedName": "Asturias"
-    },
-    {
-      "country": "ES",
       "lang": "it",
       "code": "ES-MD",
       "droppedName": "Madrid"
@@ -2274,12 +2209,6 @@
       "lang": "it",
       "code": "ES-NC",
       "droppedName": "Navarra"
-    },
-    {
-      "country": "ES",
-      "lang": "he",
-      "code": "ES-AS",
-      "droppedName": "Asturias"
     },
     {
       "country": "GN",
@@ -2338,12 +2267,6 @@
     {
       "country": "KZ",
       "lang": "de",
-      "code": "KZ-19",
-      "droppedName": "Almaty"
-    },
-    {
-      "country": "KZ",
-      "lang": "de",
       "code": "KZ-75",
       "droppedName": "Almaty"
     },
@@ -2368,31 +2291,13 @@
     {
       "country": "LV",
       "lang": "it",
-      "code": "LV-JEL",
-      "droppedName": "Jelgava"
-    },
-    {
-      "country": "LV",
-      "lang": "it",
       "code": "LV-077",
       "droppedName": "Rēzekne"
     },
     {
       "country": "LV",
       "lang": "it",
-      "code": "LV-REZ",
-      "droppedName": "Rēzekne"
-    },
-    {
-      "country": "LV",
-      "lang": "it",
       "code": "LV-106",
-      "droppedName": "Ventspils"
-    },
-    {
-      "country": "LV",
-      "lang": "it",
-      "code": "LV-VEN",
       "droppedName": "Ventspils"
     },
     {
@@ -2466,18 +2371,6 @@
       "lang": "ru",
       "code": "PG-WBK",
       "droppedName": "Восточная Новая Британия"
-    },
-    {
-      "country": "PG",
-      "lang": "de",
-      "code": "PG-EBR",
-      "droppedName": "East New Britain Province"
-    },
-    {
-      "country": "PG",
-      "lang": "de",
-      "code": "PG-WBK",
-      "droppedName": "East New Britain Province"
     },
     {
       "country": "PG",
@@ -2564,270 +2457,6 @@
       "droppedName": "Дамаск"
     },
     {
-      "country": "TW",
-      "lang": "ru",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "ru",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "ru",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "ru",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "de",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "de",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "de",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "de",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "fr",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "fr",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "fr",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "fr",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "es",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "es",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "es",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "es",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "zh",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "zh",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "zh",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "zh",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "hi",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "hi",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "hi",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "hi",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "pt",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "pt",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "pt",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "pt",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "ja",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "ja",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "ja",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "ja",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "ar",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "ar",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "ar",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "ar",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "it",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "it",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "it",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "it",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "he",
-      "code": "TW-CYI",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "he",
-      "code": "TW-CYQ",
-      "droppedName": "Chiayi"
-    },
-    {
-      "country": "TW",
-      "lang": "he",
-      "code": "TW-HSQ",
-      "droppedName": "Hsinchu"
-    },
-    {
-      "country": "TW",
-      "lang": "he",
-      "code": "TW-HSZ",
-      "droppedName": "Hsinchu"
-    },
-    {
       "country": "YE",
       "lang": "ru",
       "code": "YE-SA",
@@ -2889,42 +2518,6 @@
     },
     {
       "country": "YE",
-      "lang": "hi",
-      "code": "YE-SA",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
-      "lang": "hi",
-      "code": "YE-SN",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
-      "lang": "pt",
-      "code": "YE-SA",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
-      "lang": "pt",
-      "code": "YE-SN",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
-      "lang": "ja",
-      "code": "YE-SA",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
-      "lang": "ja",
-      "code": "YE-SN",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
       "lang": "ar",
       "code": "YE-SA",
       "droppedName": "صنعاء"
@@ -2946,18 +2539,6 @@
       "lang": "it",
       "code": "YE-SN",
       "droppedName": "San'a'"
-    },
-    {
-      "country": "YE",
-      "lang": "he",
-      "code": "YE-SA",
-      "droppedName": "Sana'a"
-    },
-    {
-      "country": "YE",
-      "lang": "he",
-      "code": "YE-SN",
-      "droppedName": "Sana'a"
     }
   ]
 }

@@ -14,8 +14,7 @@
     "LA-SV": "Саваннакхет",
     "LA-XA": "Сайнябули",
     "LA-XE": "Секонг",
-    "LA-XI": "Сиангкхуанг",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "Сиангкхуанг"
   },
   "de": {
     "LA-AT": "Provinz Attapeu",
@@ -34,8 +33,7 @@
     "LA-VT": "Präfektur Vientiane",
     "LA-XA": "Provinz Sainyabuli",
     "LA-XE": "Provinz Sekong",
-    "LA-XI": "Provinz Xieng Khouang",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "Provinz Xieng Khouang"
   },
   "fr": {
     "LA-AT": "Province d'Attapeu",
@@ -54,8 +52,7 @@
     "LA-VT": "Préfecture de Vientiane",
     "LA-XA": "Province de Sayaboury",
     "LA-XE": "Province de Sékong",
-    "LA-XI": "Province de Xieng Khouang",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "Province de Xieng Khouang"
   },
   "es": {
     "LA-AT": "Provincia de Attapeu",
@@ -74,8 +71,7 @@
     "LA-VT": "Prefectura de Vientián",
     "LA-XA": "Provincia de Sainyabuli",
     "LA-XE": "Provincia de Sekong",
-    "LA-XI": "Provincia de Xiangkhoang",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "Provincia de Xiangkhoang"
   },
   "zh": {
     "LA-AT": "阿速坡省",
@@ -91,74 +87,11 @@
     "LA-SL": "沙拉湾省",
     "LA-SV": "沙湾拿吉省",
     "LA-VI": "万象省",
-    "LA-VT": "Vientiane Prefecture",
     "LA-XA": "沙耶武里省",
     "LA-XE": "塞公省",
-    "LA-XI": "川圹省",
-    "LA-XS": "Xaisômboun"
-  },
-  "hi": {
-    "LA-AT": "Attapeu Province",
-    "LA-BK": "Bokeo Province",
-    "LA-BL": "Bolikhamsai Province",
-    "LA-CH": "Champasak Province",
-    "LA-HO": "Houaphanh Province",
-    "LA-KH": "Khammouane Province",
-    "LA-LM": "Luang Namtha Province",
-    "LA-LP": "Luang Prabang Province",
-    "LA-OU": "Oudomxay Province",
-    "LA-PH": "Phongsaly Province",
-    "LA-SL": "Salavan Province",
-    "LA-SV": "Savannakhet Province",
-    "LA-VI": "Vientiane Province",
-    "LA-VT": "Vientiane Prefecture",
-    "LA-XA": "Sainyabuli Province",
-    "LA-XE": "Sekong Province",
-    "LA-XI": "Xiangkhouang Province",
-    "LA-XS": "Xaisômboun"
-  },
-  "pt": {
-    "LA-AT": "Attapeu Province",
-    "LA-BK": "Bokeo Province",
-    "LA-BL": "Bolikhamsai Province",
-    "LA-CH": "Champasak Province",
-    "LA-HO": "Houaphanh Province",
-    "LA-KH": "Khammouane Province",
-    "LA-LM": "Luang Namtha Province",
-    "LA-LP": "Luang Prabang Province",
-    "LA-OU": "Oudomxay Province",
-    "LA-PH": "Phongsaly Province",
-    "LA-SL": "Salavan Province",
-    "LA-SV": "Savannakhet Province",
-    "LA-VI": "Vientiane Province",
-    "LA-VT": "Vientiane Prefecture",
-    "LA-XA": "Sainyabuli Province",
-    "LA-XE": "Sekong Province",
-    "LA-XI": "Xiangkhouang Province",
-    "LA-XS": "Xaisômboun"
-  },
-  "ja": {
-    "LA-AT": "Attapeu Province",
-    "LA-BK": "Bokeo Province",
-    "LA-BL": "Bolikhamsai Province",
-    "LA-CH": "Champasak Province",
-    "LA-HO": "Houaphanh Province",
-    "LA-KH": "Khammouane Province",
-    "LA-LM": "Luang Namtha Province",
-    "LA-LP": "Luang Prabang Province",
-    "LA-OU": "Oudomxay Province",
-    "LA-PH": "Phongsaly Province",
-    "LA-SL": "Salavan Province",
-    "LA-SV": "Savannakhet Province",
-    "LA-VI": "Vientiane Province",
-    "LA-VT": "Vientiane Prefecture",
-    "LA-XA": "Sainyabuli Province",
-    "LA-XE": "Sekong Province",
-    "LA-XI": "Xiangkhouang Province",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "川圹省"
   },
   "ar": {
-    "LA-AT": "Attapeu Province",
     "LA-BK": "محافظة بوكيو",
     "LA-BL": "محافظة بوليخاماسي",
     "LA-CH": "محافظة تشامباساك",
@@ -174,8 +107,7 @@
     "LA-VT": "مقاطعة فيينتيان",
     "LA-XA": "محافظة سايذيبولي",
     "LA-XE": "محافظة سيكونغ",
-    "LA-XI": "محافظة زيانغهوانغ",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "محافظة زيانغهوانغ"
   },
   "it": {
     "LA-AT": "Provincia di Attapeu",
@@ -194,27 +126,6 @@
     "LA-VT": "Prefettura di Vientiane",
     "LA-XA": "Provincia di Xaignabouli",
     "LA-XE": "Provincia di Xekong",
-    "LA-XI": "Provincia di Xiangkhoang",
-    "LA-XS": "Xaisômboun"
-  },
-  "he": {
-    "LA-AT": "Attapeu Province",
-    "LA-BK": "Bokeo Province",
-    "LA-BL": "Bolikhamsai Province",
-    "LA-CH": "Champasak Province",
-    "LA-HO": "Houaphanh Province",
-    "LA-KH": "Khammouane Province",
-    "LA-LM": "Luang Namtha Province",
-    "LA-LP": "Luang Prabang Province",
-    "LA-OU": "Oudomxay Province",
-    "LA-PH": "Phongsaly Province",
-    "LA-SL": "Salavan Province",
-    "LA-SV": "Savannakhet Province",
-    "LA-VI": "Vientiane Province",
-    "LA-VT": "Vientiane Prefecture",
-    "LA-XA": "Sainyabuli Province",
-    "LA-XE": "Sekong Province",
-    "LA-XI": "Xiangkhouang Province",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "Provincia di Xiangkhoang"
   }
 }

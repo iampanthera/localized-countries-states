@@ -59,42 +59,6 @@
     "SR-SI": "锡帕利维尼区",
     "SR-WA": "瓦尼卡区"
   },
-  "hi": {
-    "SR-BR": "Brokopondo District",
-    "SR-CM": "Commewijne District",
-    "SR-CR": "Coronie District",
-    "SR-MA": "Marowijne District",
-    "SR-NI": "Nickerie District",
-    "SR-PM": "Paramaribo District",
-    "SR-PR": "Para District",
-    "SR-SA": "Saramacca District",
-    "SR-SI": "Sipaliwini District",
-    "SR-WA": "Wanica District"
-  },
-  "pt": {
-    "SR-BR": "Brokopondo District",
-    "SR-CM": "Commewijne District",
-    "SR-CR": "Coronie District",
-    "SR-MA": "Marowijne District",
-    "SR-NI": "Nickerie District",
-    "SR-PM": "Paramaribo District",
-    "SR-PR": "Para District",
-    "SR-SA": "Saramacca District",
-    "SR-SI": "Sipaliwini District",
-    "SR-WA": "Wanica District"
-  },
-  "ja": {
-    "SR-BR": "Brokopondo District",
-    "SR-CM": "Commewijne District",
-    "SR-CR": "Coronie District",
-    "SR-MA": "Marowijne District",
-    "SR-NI": "Nickerie District",
-    "SR-PM": "Paramaribo District",
-    "SR-PR": "Para District",
-    "SR-SA": "Saramacca District",
-    "SR-SI": "Sipaliwini District",
-    "SR-WA": "Wanica District"
-  },
   "ar": {
     "SR-BR": "مقاطعة بروكوبوندو",
     "SR-CM": "مقاطعة كوميويجني",
@@ -118,17 +82,5 @@
     "SR-SA": "Distretto del Saramacca",
     "SR-SI": "Distretto del Sipaliwini",
     "SR-WA": "Distretto di Wanica"
-  },
-  "he": {
-    "SR-BR": "Brokopondo District",
-    "SR-CM": "Commewijne District",
-    "SR-CR": "Coronie District",
-    "SR-MA": "Marowijne District",
-    "SR-NI": "Nickerie District",
-    "SR-PM": "Paramaribo District",
-    "SR-PR": "Para District",
-    "SR-SA": "Saramacca District",
-    "SR-SI": "Sipaliwini District",
-    "SR-WA": "Wanica District"
   }
 }

@@ -9,18 +9,7 @@
     "NO-50": "Сёр-Трёнделаг",
     "NO-54": "Финнмарк"
   },
-  "de": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
-  },
   "fr": {
-    "NO-03": "Oslo",
     "NO-11": "Comté de Rogaland",
     "NO-15": "Comté de Møre og Romsdal",
     "NO-18": "Comté de Nordland",
@@ -28,16 +17,6 @@
     "NO-42": "Comté de Vest-Agder",
     "NO-50": "Comté de Sør-Trøndelag",
     "NO-54": "Comté de Finnmark"
-  },
-  "es": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
   },
   "zh": {
     "NO-03": "奥斯陆",
@@ -49,64 +28,11 @@
     "NO-50": "南特伦德拉格郡",
     "NO-54": "芬马克郡"
   },
-  "hi": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
-  },
-  "pt": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
-  },
-  "ja": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
-  },
   "ar": {
     "NO-03": "أوسلو",
-    "NO-11": "Rogaland",
     "NO-15": "مور أو روميسدال",
     "NO-18": "نورلان",
     "NO-38": "فستفولد",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
     "NO-54": "فينمارك"
-  },
-  "it": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
-  },
-  "he": {
-    "NO-03": "Oslo",
-    "NO-11": "Rogaland",
-    "NO-15": "Møre og Romsdal",
-    "NO-18": "Nordland",
-    "NO-38": "Vestfold",
-    "NO-42": "Vest-Agder",
-    "NO-50": "Sør-Trøndelag",
-    "NO-54": "Finnmark"
   }
 }

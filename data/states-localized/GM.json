@@ -4,87 +4,34 @@
     "GM-L": "Нижняя Река",
     "GM-M": "Центральная Река",
     "GM-N": "Северный Берег",
-    "GM-U": "Верхняя Река",
-    "GM-W": "Western"
+    "GM-U": "Верхняя Река"
   },
   "de": {
-    "GM-B": "Banjul",
     "GM-L": "Lower River Region",
     "GM-M": "Central River Region",
     "GM-N": "North Bank Region",
-    "GM-U": "Upper River Region",
-    "GM-W": "Western"
-  },
-  "fr": {
-    "GM-B": "Banjul",
-    "GM-L": "Lower River Division",
-    "GM-M": "Central River Division",
-    "GM-N": "North Bank Division",
-    "GM-U": "Upper River Division",
-    "GM-W": "Western"
+    "GM-U": "Upper River Region"
   },
   "es": {
-    "GM-B": "Banjul",
     "GM-L": "División Lower River",
     "GM-M": "División Central River",
     "GM-N": "División North Bank",
-    "GM-U": "División Upper River",
-    "GM-W": "Western"
+    "GM-U": "División Upper River"
   },
   "zh": {
     "GM-B": "班竹",
     "GM-L": "下河區",
     "GM-M": "中河區",
     "GM-N": "北岸區",
-    "GM-U": "上河區",
-    "GM-W": "Western"
-  },
-  "hi": {
-    "GM-B": "Banjul",
-    "GM-L": "Lower River Division",
-    "GM-M": "Central River Division",
-    "GM-N": "North Bank Division",
-    "GM-U": "Upper River Division",
-    "GM-W": "Western"
-  },
-  "pt": {
-    "GM-B": "Banjul",
-    "GM-L": "Lower River Division",
-    "GM-M": "Central River Division",
-    "GM-N": "North Bank Division",
-    "GM-U": "Upper River Division",
-    "GM-W": "Western"
-  },
-  "ja": {
-    "GM-B": "Banjul",
-    "GM-L": "Lower River Division",
-    "GM-M": "Central River Division",
-    "GM-N": "North Bank Division",
-    "GM-U": "Upper River Division",
-    "GM-W": "Western"
+    "GM-U": "上河區"
   },
   "ar": {
-    "GM-B": "بانجول",
-    "GM-L": "Lower River Division",
-    "GM-M": "Central River Division",
-    "GM-N": "North Bank Division",
-    "GM-U": "Upper River Division",
-    "GM-W": "Western"
+    "GM-B": "بانجول"
   },
   "it": {
-    "GM-B": "Banjul",
     "GM-L": "Divisione del Lower River",
     "GM-M": "Divisione del Central River",
     "GM-N": "Divisione del North Bank",
-    "GM-U": "Divisione dell'Upper River",
-    "GM-W": "Western"
-  },
-  "he": {
-    "GM-B": "Banjul",
-    "GM-L": "Lower River Division",
-    "GM-M": "Central River Division",
-    "GM-N": "North Bank Division",
-    "GM-U": "Upper River Division",
-    "GM-W": "Western"
+    "GM-U": "Divisione dell'Upper River"
   }
 }

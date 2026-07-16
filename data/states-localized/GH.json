@@ -3,131 +3,39 @@
     "GH-AA": "Большая Аккра",
     "GH-AH": "Ашанти",
     "GH-BA": "Бронг-Ахафо",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
     "GH-TV": "Вольта",
     "GH-UE": "Верхний Восточный",
-    "GH-UW": "Верхний Западный",
-    "GH-WP": "Western"
-  },
-  "de": {
-    "GH-AA": "Greater Accra Region",
-    "GH-AH": "Ashanti Region",
-    "GH-BA": "Brong-Ahafo Region",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
-    "GH-TV": "Volta Region",
-    "GH-UE": "Upper East Region",
-    "GH-UW": "Upper West Region",
-    "GH-WP": "Western"
+    "GH-UW": "Верхний Западный"
   },
   "fr": {
     "GH-AA": "Région du Grand Accra",
     "GH-AH": "Région Ashanti",
     "GH-BA": "Région de Brong Ahafo",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
     "GH-TV": "Région de la Volta",
     "GH-UE": "Région du Haut Ghana oriental",
-    "GH-UW": "Région du Haut Ghana occidental",
-    "GH-WP": "Western"
+    "GH-UW": "Région du Haut Ghana occidental"
   },
   "es": {
     "GH-AA": "Gran Acra",
     "GH-AH": "Ashanti",
     "GH-BA": "Brong-Ahafo",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
     "GH-TV": "Volta",
     "GH-UE": "Alta Oriental",
-    "GH-UW": "Alta Occidental",
-    "GH-WP": "Western"
+    "GH-UW": "Alta Occidental"
   },
   "zh": {
     "GH-AH": "阿散蒂地區",
     "GH-BA": "布朗阿哈福地區",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
     "GH-TV": "沃爾特地區",
     "GH-UE": "東北地區",
-    "GH-UW": "西北地區",
-    "GH-WP": "Western"
-  },
-  "hi": {
-    "GH-AA": "Greater Accra Region",
-    "GH-AH": "Ashanti Region",
-    "GH-BA": "Brong-Ahafo Region",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
-    "GH-TV": "Volta Region",
-    "GH-UE": "Upper East Region",
-    "GH-UW": "Upper West Region",
-    "GH-WP": "Western"
-  },
-  "pt": {
-    "GH-AA": "Greater Accra Region",
-    "GH-AH": "Ashanti Region",
-    "GH-BA": "Brong-Ahafo Region",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
-    "GH-TV": "Volta Region",
-    "GH-UE": "Upper East Region",
-    "GH-UW": "Upper West Region",
-    "GH-WP": "Western"
-  },
-  "ja": {
-    "GH-AA": "Greater Accra Region",
-    "GH-AH": "Ashanti Region",
-    "GH-BA": "Brong-Ahafo Region",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
-    "GH-TV": "Volta Region",
-    "GH-UE": "Upper East Region",
-    "GH-UW": "Upper West Region",
-    "GH-WP": "Western"
-  },
-  "ar": {
-    "GH-AA": "Greater Accra Region",
-    "GH-AH": "Ashanti Region",
-    "GH-BA": "Brong-Ahafo Region",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
-    "GH-TV": "Volta Region",
-    "GH-UE": "Upper East Region",
-    "GH-UW": "Upper West Region",
-    "GH-WP": "Western"
+    "GH-UW": "西北地區"
   },
   "it": {
     "GH-AA": "Regione della Grande Accra",
     "GH-AH": "Regione di Ashanti",
     "GH-BA": "Regione di Brong-Ahafo",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
     "GH-TV": "Regione del Volta",
     "GH-UE": "Regione Nordorientale",
-    "GH-UW": "Regione Nordoccidentale",
-    "GH-WP": "Western"
-  },
-  "he": {
-    "GH-AA": "Greater Accra Region",
-    "GH-AH": "Ashanti Region",
-    "GH-BA": "Brong-Ahafo Region",
-    "GH-CP": "Central",
-    "GH-EP": "Eastern",
-    "GH-NP": "Northern",
-    "GH-TV": "Volta Region",
-    "GH-UE": "Upper East Region",
-    "GH-UW": "Upper West Region",
-    "GH-WP": "Western"
+    "GH-UW": "Regione Nordoccidentale"
   }
 }

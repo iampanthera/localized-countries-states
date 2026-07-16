@@ -23,21 +23,16 @@
     "NL-NB": "Provinz Nordbrabant",
     "NL-NH": "Provinz Nordholland",
     "NL-OV": "Provinz Overijssel",
-    "NL-UT": "Utrecht",
     "NL-ZE": "Provinz Zeeland",
     "NL-ZH": "Provinz Südholland"
   },
   "fr": {
-    "NL-DR": "Drenthe",
-    "NL-FL": "Flevoland",
     "NL-FR": "Frise",
     "NL-GE": "Gueldre",
     "NL-GR": "Groningue",
     "NL-LI": "Province de Limbourg",
     "NL-NB": "Brabant-Septentrional",
     "NL-NH": "Hollande-Septentrionale",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
     "NL-ZE": "Zélande",
     "NL-ZH": "Hollande-Méridionale"
   },
@@ -50,8 +45,6 @@
     "NL-LI": "Limburgo",
     "NL-NB": "Brabante Septentrional",
     "NL-NH": "Holanda Septentrional",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
     "NL-ZE": "Zelanda",
     "NL-ZH": "Holanda Meridional"
   },
@@ -69,48 +62,6 @@
     "NL-ZE": "泽兰省",
     "NL-ZH": "南荷蘭省"
   },
-  "hi": {
-    "NL-DR": "Drenthe",
-    "NL-FL": "Flevoland",
-    "NL-FR": "Friesland",
-    "NL-GE": "Gelderland",
-    "NL-GR": "Groningen",
-    "NL-LI": "Limburg",
-    "NL-NB": "North Brabant",
-    "NL-NH": "North Holland",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
-    "NL-ZE": "Zeeland",
-    "NL-ZH": "South Holland"
-  },
-  "pt": {
-    "NL-DR": "Drenthe",
-    "NL-FL": "Flevoland",
-    "NL-FR": "Friesland",
-    "NL-GE": "Gelderland",
-    "NL-GR": "Groningen",
-    "NL-LI": "Limburg",
-    "NL-NB": "North Brabant",
-    "NL-NH": "North Holland",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
-    "NL-ZE": "Zeeland",
-    "NL-ZH": "South Holland"
-  },
-  "ja": {
-    "NL-DR": "Drenthe",
-    "NL-FL": "Flevoland",
-    "NL-FR": "Friesland",
-    "NL-GE": "Gelderland",
-    "NL-GR": "Groningen",
-    "NL-LI": "Limburg",
-    "NL-NB": "North Brabant",
-    "NL-NH": "North Holland",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
-    "NL-ZE": "Zeeland",
-    "NL-ZH": "South Holland"
-  },
   "ar": {
     "NL-DR": "درينته",
     "NL-FL": "فليفولاند",
@@ -126,31 +77,13 @@
     "NL-ZH": "جنوب هولندا"
   },
   "it": {
-    "NL-DR": "Drenthe",
-    "NL-FL": "Flevoland",
     "NL-FR": "Frisia",
     "NL-GE": "Gheldria",
     "NL-GR": "Groninga",
     "NL-LI": "Limburgo",
     "NL-NB": "Brabante Settentrionale",
     "NL-NH": "Olanda Settentrionale",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
     "NL-ZE": "Zelanda",
     "NL-ZH": "Olanda Meridionale"
-  },
-  "he": {
-    "NL-DR": "Drenthe",
-    "NL-FL": "Flevoland",
-    "NL-FR": "Friesland",
-    "NL-GE": "Gelderland",
-    "NL-GR": "Groningen",
-    "NL-LI": "Limburg",
-    "NL-NB": "North Brabant",
-    "NL-NH": "North Holland",
-    "NL-OV": "Overijssel",
-    "NL-UT": "Utrecht",
-    "NL-ZE": "Zeeland",
-    "NL-ZH": "South Holland"
   }
 }

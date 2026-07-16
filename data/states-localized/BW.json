@@ -10,17 +10,6 @@
     "BW-SE": "Юго-Восточный округ",
     "BW-SO": "Южный округ"
   },
-  "de": {
-    "BW-CE": "Central District",
-    "BW-GH": "Ghanzi District",
-    "BW-KG": "Kgalagadi District",
-    "BW-KL": "Kgatleng District",
-    "BW-KW": "Kweneng District",
-    "BW-NE": "North-East District",
-    "BW-NW": "North-West District",
-    "BW-SE": "South-East District",
-    "BW-SO": "Southern District"
-  },
   "fr": {
     "BW-CE": "District central",
     "BW-GH": "District de Ghanzi",
@@ -54,50 +43,6 @@
     "BW-SE": "東南區",
     "BW-SO": "南部區"
   },
-  "hi": {
-    "BW-CE": "Central District",
-    "BW-GH": "Ghanzi District",
-    "BW-KG": "Kgalagadi District",
-    "BW-KL": "Kgatleng District",
-    "BW-KW": "Kweneng District",
-    "BW-NE": "North-East District",
-    "BW-NW": "North-West District",
-    "BW-SE": "South-East District",
-    "BW-SO": "Southern District"
-  },
-  "pt": {
-    "BW-CE": "Central District",
-    "BW-GH": "Ghanzi District",
-    "BW-KG": "Kgalagadi District",
-    "BW-KL": "Kgatleng District",
-    "BW-KW": "Kweneng District",
-    "BW-NE": "North-East District",
-    "BW-NW": "North-West District",
-    "BW-SE": "South-East District",
-    "BW-SO": "Southern District"
-  },
-  "ja": {
-    "BW-CE": "Central District",
-    "BW-GH": "Ghanzi District",
-    "BW-KG": "Kgalagadi District",
-    "BW-KL": "Kgatleng District",
-    "BW-KW": "Kweneng District",
-    "BW-NE": "North-East District",
-    "BW-NW": "North-West District",
-    "BW-SE": "South-East District",
-    "BW-SO": "Southern District"
-  },
-  "ar": {
-    "BW-CE": "Central District",
-    "BW-GH": "Ghanzi District",
-    "BW-KG": "Kgalagadi District",
-    "BW-KL": "Kgatleng District",
-    "BW-KW": "Kweneng District",
-    "BW-NE": "North-East District",
-    "BW-NW": "North-West District",
-    "BW-SE": "South-East District",
-    "BW-SO": "Southern District"
-  },
   "it": {
     "BW-CE": "Distretto Centrale",
     "BW-GH": "Distretto di Ghanzi",
@@ -108,16 +53,5 @@
     "BW-NW": "Distretto Nordoccidentale",
     "BW-SE": "Distretto Sudorientale",
     "BW-SO": "Distretto Meridionale"
-  },
-  "he": {
-    "BW-CE": "Central District",
-    "BW-GH": "Ghanzi District",
-    "BW-KG": "Kgalagadi District",
-    "BW-KL": "Kgatleng District",
-    "BW-KW": "Kweneng District",
-    "BW-NE": "North-East District",
-    "BW-NW": "North-West District",
-    "BW-SE": "South-East District",
-    "BW-SO": "Southern District"
   }
 }

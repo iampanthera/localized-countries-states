@@ -29,24 +29,6 @@
     "SZ-MA": "曼齐尼",
     "SZ-SH": "希塞卢韦尼"
   },
-  "hi": {
-    "SZ-HH": "Hhohho District",
-    "SZ-LU": "Lubombo District",
-    "SZ-MA": "Manzini District",
-    "SZ-SH": "Shiselweni District"
-  },
-  "pt": {
-    "SZ-HH": "Hhohho District",
-    "SZ-LU": "Lubombo District",
-    "SZ-MA": "Manzini District",
-    "SZ-SH": "Shiselweni District"
-  },
-  "ja": {
-    "SZ-HH": "Hhohho District",
-    "SZ-LU": "Lubombo District",
-    "SZ-MA": "Manzini District",
-    "SZ-SH": "Shiselweni District"
-  },
   "ar": {
     "SZ-HH": "مقاطعة هوهو",
     "SZ-LU": "مقاطعة لوبومبو",
@@ -58,11 +40,5 @@
     "SZ-LU": "Distretto di Lubombo",
     "SZ-MA": "Manzini",
     "SZ-SH": "Distretto di Shiselweni"
-  },
-  "he": {
-    "SZ-HH": "Hhohho District",
-    "SZ-LU": "Lubombo District",
-    "SZ-MA": "Manzini District",
-    "SZ-SH": "Shiselweni District"
   }
 }

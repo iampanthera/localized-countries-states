@@ -17,29 +17,14 @@
     "MA-01": "Tanger-Tétouan",
     "MA-02": "Gharb-Chrarda-Béni Hsen",
     "MA-03": "Taza-Al Hoceïma-Taounate",
-    "MA-04": "Oriental",
-    "MA-05": "Fès-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
-    "MA-07": "Rabat-Salé-Zemmour-Zaer",
-    "MA-08": "Grand Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakesch-Tensift-El Haouz",
-    "MA-12": "Tadla-Azilal"
+    "MA-11": "Marrakesch-Tensift-El Haouz"
   },
   "fr": {
     "MA-01": "Tanger-Tétouan",
     "MA-02": "Gharb-Chrarda-Beni Hssen",
     "MA-03": "Taza-Al Hoceïma-Taounate",
-    "MA-04": "Oriental",
-    "MA-05": "Fès-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
     "MA-07": "Rabat-Salé-Zemmour-Zaër",
-    "MA-08": "Grand Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakech-Tensift-Al Haouz",
-    "MA-12": "Tadla-Azilal"
+    "MA-11": "Marrakech-Tensift-Al Haouz"
   },
   "es": {
     "MA-01": "Tánger-Tetuán",
@@ -52,8 +37,7 @@
     "MA-08": "Gran Casablanca",
     "MA-09": "Chauía-Uardiga",
     "MA-10": "Dukala-Abda",
-    "MA-11": "Marrakech-Tensift-Al Hauz",
-    "MA-12": "Tadla-Azilal"
+    "MA-11": "Marrakech-Tensift-Al Hauz"
   },
   "zh": {
     "MA-01": "丹吉爾-得土安大區",
@@ -68,48 +52,6 @@
     "MA-10": "杜卡拉-阿卜達大區",
     "MA-11": "馬拉喀什-坦西夫特-豪茲大區",
     "MA-12": "塔德萊-艾濟拉勒大區"
-  },
-  "hi": {
-    "MA-01": "Tangier-Tetouan",
-    "MA-02": "Gharb-Chrarda-Béni Hssen",
-    "MA-03": "Taza-Al Hoceima-Taounate",
-    "MA-04": "Oriental",
-    "MA-05": "Fès-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
-    "MA-07": "Rabat-Salé-Zemmour-Zaer",
-    "MA-08": "Grand Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakesh-Tensift-El Haouz",
-    "MA-12": "Tadla-Azilal"
-  },
-  "pt": {
-    "MA-01": "Tangier-Tetouan",
-    "MA-02": "Gharb-Chrarda-Béni Hssen",
-    "MA-03": "Taza-Al Hoceima-Taounate",
-    "MA-04": "Oriental",
-    "MA-05": "Fès-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
-    "MA-07": "Rabat-Salé-Zemmour-Zaer",
-    "MA-08": "Grand Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakesh-Tensift-El Haouz",
-    "MA-12": "Tadla-Azilal"
-  },
-  "ja": {
-    "MA-01": "Tangier-Tetouan",
-    "MA-02": "Gharb-Chrarda-Béni Hssen",
-    "MA-03": "Taza-Al Hoceima-Taounate",
-    "MA-04": "Oriental",
-    "MA-05": "Fès-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
-    "MA-07": "Rabat-Salé-Zemmour-Zaer",
-    "MA-08": "Grand Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakesh-Tensift-El Haouz",
-    "MA-12": "Tadla-Azilal"
   },
   "ar": {
     "MA-01": "طنجة تطوان",
@@ -127,30 +69,9 @@
   },
   "it": {
     "MA-01": "Tangeri-Tétouan",
-    "MA-02": "Gharb-Chrarda-Béni Hssen",
-    "MA-03": "Taza-Al Hoceima-Taounate",
     "MA-04": "Regione Orientale",
     "MA-05": "Fes-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
-    "MA-07": "Rabat-Salé-Zemmour-Zaer",
     "MA-08": "Grande Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakech-Tensift-El Haouz",
-    "MA-12": "Tadla-Azilal"
-  },
-  "he": {
-    "MA-01": "Tangier-Tetouan",
-    "MA-02": "Gharb-Chrarda-Béni Hssen",
-    "MA-03": "Taza-Al Hoceima-Taounate",
-    "MA-04": "Oriental",
-    "MA-05": "Fès-Boulemane",
-    "MA-06": "Meknès-Tafilalet",
-    "MA-07": "Rabat-Salé-Zemmour-Zaer",
-    "MA-08": "Grand Casablanca",
-    "MA-09": "Chaouia-Ouardigha",
-    "MA-10": "Doukkala-Abda",
-    "MA-11": "Marrakesh-Tensift-El Haouz",
-    "MA-12": "Tadla-Azilal"
+    "MA-11": "Marrakech-Tensift-El Haouz"
   }
 }

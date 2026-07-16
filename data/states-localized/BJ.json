@@ -69,62 +69,6 @@
     "BJ-PL": "高原省",
     "BJ-ZO": "祖省"
   },
-  "hi": {
-    "BJ-AK": "Atakora Department",
-    "BJ-AL": "Alibori Department",
-    "BJ-AQ": "Atlantique Department",
-    "BJ-BO": "Borgou Department",
-    "BJ-CO": "Collines Department",
-    "BJ-DO": "Donga Department",
-    "BJ-KO": "Kouffo Department",
-    "BJ-LI": "Littoral Department",
-    "BJ-MO": "Mono Department",
-    "BJ-OU": "Ouémé Department",
-    "BJ-PL": "Plateau Department",
-    "BJ-ZO": "Zou Department"
-  },
-  "pt": {
-    "BJ-AK": "Atakora Department",
-    "BJ-AL": "Alibori Department",
-    "BJ-AQ": "Atlantique Department",
-    "BJ-BO": "Borgou Department",
-    "BJ-CO": "Collines Department",
-    "BJ-DO": "Donga Department",
-    "BJ-KO": "Kouffo Department",
-    "BJ-LI": "Littoral Department",
-    "BJ-MO": "Mono Department",
-    "BJ-OU": "Ouémé Department",
-    "BJ-PL": "Plateau Department",
-    "BJ-ZO": "Zou Department"
-  },
-  "ja": {
-    "BJ-AK": "Atakora Department",
-    "BJ-AL": "Alibori Department",
-    "BJ-AQ": "Atlantique Department",
-    "BJ-BO": "Borgou Department",
-    "BJ-CO": "Collines Department",
-    "BJ-DO": "Donga Department",
-    "BJ-KO": "Kouffo Department",
-    "BJ-LI": "Littoral Department",
-    "BJ-MO": "Mono Department",
-    "BJ-OU": "Ouémé Department",
-    "BJ-PL": "Plateau Department",
-    "BJ-ZO": "Zou Department"
-  },
-  "ar": {
-    "BJ-AK": "Atakora Department",
-    "BJ-AL": "Alibori Department",
-    "BJ-AQ": "Atlantique Department",
-    "BJ-BO": "Borgou Department",
-    "BJ-CO": "Collines Department",
-    "BJ-DO": "Donga Department",
-    "BJ-KO": "Kouffo Department",
-    "BJ-LI": "Littoral Department",
-    "BJ-MO": "Mono Department",
-    "BJ-OU": "Ouémé Department",
-    "BJ-PL": "Plateau Department",
-    "BJ-ZO": "Zou Department"
-  },
   "it": {
     "BJ-AK": "Dipartimento di Atakora",
     "BJ-AL": "Dipartimento di Alibori",
@@ -138,19 +82,5 @@
     "BJ-OU": "Dipartimento di Ouémé",
     "BJ-PL": "Dipartimento dell'Altopiano",
     "BJ-ZO": "Dipartimento di Zou"
-  },
-  "he": {
-    "BJ-AK": "Atakora Department",
-    "BJ-AL": "Alibori Department",
-    "BJ-AQ": "Atlantique Department",
-    "BJ-BO": "Borgou Department",
-    "BJ-CO": "Collines Department",
-    "BJ-DO": "Donga Department",
-    "BJ-KO": "Kouffo Department",
-    "BJ-LI": "Littoral Department",
-    "BJ-MO": "Mono Department",
-    "BJ-OU": "Ouémé Department",
-    "BJ-PL": "Plateau Department",
-    "BJ-ZO": "Zou Department"
   }
 }

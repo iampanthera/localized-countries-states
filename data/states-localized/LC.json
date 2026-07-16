@@ -8,8 +8,7 @@
     "LC-07": "Лабори",
     "LC-08": "Микуд",
     "LC-10": "Суфриер",
-    "LC-11": "Вьё-Фор",
-    "LC-12": "Canaries"
+    "LC-11": "Вьё-Фор"
   },
   "de": {
     "LC-01": "Anse-la-Raye",
@@ -20,8 +19,7 @@
     "LC-07": "Laborie",
     "LC-08": "Micoud",
     "LC-10": "Soufrière",
-    "LC-11": "Vieux Fort",
-    "LC-12": "Canaries"
+    "LC-11": "Vieux Fort"
   },
   "fr": {
     "LC-01": "District d'Anse-la-Raye",
@@ -32,8 +30,7 @@
     "LC-07": "District de Laborie",
     "LC-08": "District de Micoud",
     "LC-10": "District de Soufrière",
-    "LC-11": "Vieux Fort",
-    "LC-12": "Canaries"
+    "LC-11": "Vieux Fort"
   },
   "es": {
     "LC-01": "Anse La Raye",
@@ -44,8 +41,7 @@
     "LC-07": "Laborie",
     "LC-08": "Micoud",
     "LC-10": "Soufrière",
-    "LC-11": "Vieux Fort",
-    "LC-12": "Canaries"
+    "LC-11": "Vieux Fort"
   },
   "zh": {
     "LC-01": "昂斯拉雷區",
@@ -56,56 +52,10 @@
     "LC-07": "拉博列區",
     "LC-08": "米庫區",
     "LC-10": "蘇弗里耶爾區",
-    "LC-11": "伯堡區",
-    "LC-12": "Canaries"
-  },
-  "hi": {
-    "LC-01": "Anse la Raye Quarter",
-    "LC-02": "Castries Quarter",
-    "LC-03": "Choiseul Quarter",
-    "LC-05": "Dennery Quarter",
-    "LC-06": "Gros Islet Quarter",
-    "LC-07": "Laborie Quarter",
-    "LC-08": "Micoud Quarter",
-    "LC-10": "Soufrière Quarter",
-    "LC-11": "Vieux Fort Quarter",
-    "LC-12": "Canaries"
-  },
-  "pt": {
-    "LC-01": "Anse la Raye Quarter",
-    "LC-02": "Castries Quarter",
-    "LC-03": "Choiseul Quarter",
-    "LC-05": "Dennery Quarter",
-    "LC-06": "Gros Islet Quarter",
-    "LC-07": "Laborie Quarter",
-    "LC-08": "Micoud Quarter",
-    "LC-10": "Soufrière Quarter",
-    "LC-11": "Vieux Fort Quarter",
-    "LC-12": "Canaries"
-  },
-  "ja": {
-    "LC-01": "Anse la Raye Quarter",
-    "LC-02": "Castries Quarter",
-    "LC-03": "Choiseul Quarter",
-    "LC-05": "Dennery Quarter",
-    "LC-06": "Gros Islet Quarter",
-    "LC-07": "Laborie Quarter",
-    "LC-08": "Micoud Quarter",
-    "LC-10": "Soufrière Quarter",
-    "LC-11": "Vieux Fort Quarter",
-    "LC-12": "Canaries"
+    "LC-11": "伯堡區"
   },
   "ar": {
-    "LC-01": "Anse la Raye Quarter",
-    "LC-02": "Castries Quarter",
-    "LC-03": "Choiseul Quarter",
-    "LC-05": "Dennery Quarter",
-    "LC-06": "Gros Islet Quarter",
-    "LC-07": "Laborie Quarter",
-    "LC-08": "Micoud Quarter",
-    "LC-10": "Soufrière Quarter",
-    "LC-11": "فيو فورت",
-    "LC-12": "Canaries"
+    "LC-11": "فيو فورت"
   },
   "it": {
     "LC-01": "Quartiere di Anse-la-Raye",
@@ -116,19 +66,6 @@
     "LC-07": "Quartiere di Laborie",
     "LC-08": "Quartiere di Micoud",
     "LC-10": "Quartiere di Soufrière",
-    "LC-11": "Quartiere di Vieux Fort",
-    "LC-12": "Canaries"
-  },
-  "he": {
-    "LC-01": "Anse la Raye Quarter",
-    "LC-02": "Castries Quarter",
-    "LC-03": "Choiseul Quarter",
-    "LC-05": "Dennery Quarter",
-    "LC-06": "Gros Islet Quarter",
-    "LC-07": "Laborie Quarter",
-    "LC-08": "Micoud Quarter",
-    "LC-10": "Soufrière Quarter",
-    "LC-11": "Vieux Fort Quarter",
-    "LC-12": "Canaries"
+    "LC-11": "Quartiere di Vieux Fort"
   }
 }

@@ -6,7 +6,6 @@
   },
   "de": {
     "KI-G": "Gilbertinseln",
-    "KI-L": "Line Islands",
     "KI-P": "Phoenixinseln"
   },
   "fr": {
@@ -24,34 +23,9 @@
     "KI-L": "莱恩群岛",
     "KI-P": "菲尼克斯群岛"
   },
-  "hi": {
-    "KI-G": "Gilbert Islands",
-    "KI-L": "Line Islands",
-    "KI-P": "Phoenix Islands"
-  },
-  "pt": {
-    "KI-G": "Gilbert Islands",
-    "KI-L": "Line Islands",
-    "KI-P": "Phoenix Islands"
-  },
-  "ja": {
-    "KI-G": "Gilbert Islands",
-    "KI-L": "Line Islands",
-    "KI-P": "Phoenix Islands"
-  },
-  "ar": {
-    "KI-G": "Gilbert Islands",
-    "KI-L": "Line Islands",
-    "KI-P": "Phoenix Islands"
-  },
   "it": {
     "KI-G": "Isole Gilbert",
     "KI-L": "Sporadi Equatoriali",
     "KI-P": "Isole della Fenice"
-  },
-  "he": {
-    "KI-G": "Gilbert Islands",
-    "KI-L": "Line Islands",
-    "KI-P": "Phoenix Islands"
   }
 }

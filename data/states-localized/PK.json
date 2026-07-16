@@ -1,112 +1,61 @@
 {
   "ru": {
     "PK-BA": "Белуджистан",
-    "PK-GB": "Gilgit-Baltistan",
     "PK-IS": "Федеральная столичная территория",
     "PK-JK": "Азад Кашмир",
     "PK-KP": "Хайбер-Пахтунхва",
-    "PK-PB": "Punjab",
     "PK-SD": "Синд",
     "PK-TA": "Федерально управляемые племенные территории"
   },
   "de": {
     "PK-BA": "Belutschistan",
-    "PK-GB": "Gilgit-Baltistan",
     "PK-IS": "Hauptstadtterritorium Islamabad",
     "PK-JK": "Asad Kaschmir",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
-    "PK-SD": "Sindh",
     "PK-TA": "Stammesgebiete unter Bundesverwaltung"
   },
   "fr": {
     "PK-BA": "Baloutchistan",
-    "PK-GB": "Gilgit-Baltistan",
     "PK-IS": "Territoire fédéral d'Islamabad",
     "PK-JK": "Azad Cachemire",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
     "PK-SD": "Sind",
     "PK-TA": "Régions tribales"
   },
   "es": {
     "PK-BA": "Baluchistán",
-    "PK-GB": "Gilgit-Baltistan",
-    "PK-IS": "Islamabad Capital Territory",
     "PK-JK": "Azad Cachemira",
     "PK-KP": "Jaiber Pajtunjuá",
-    "PK-PB": "Punjab",
     "PK-SD": "Sind",
     "PK-TA": "Áreas tribales"
   },
   "zh": {
     "PK-BA": "俾路支省",
-    "PK-GB": "Gilgit-Baltistan",
     "PK-IS": "伊斯兰堡首都区",
     "PK-JK": "自由克什米爾",
     "PK-KP": "开伯尔-普什图省",
-    "PK-PB": "Punjab",
     "PK-SD": "信德省",
     "PK-TA": "联邦直辖部落地区"
   },
   "hi": {
-    "PK-BA": "Balochistan, Pakistan",
-    "PK-GB": "Gilgit-Baltistan",
-    "PK-IS": "Islamabad Capital Territory",
-    "PK-JK": "Azad Kashmir",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
-    "PK-SD": "Sindh",
-    "PK-TA": "Federally Administered Tribal Areas"
+    "PK-BA": "Balochistan, Pakistan"
   },
   "pt": {
-    "PK-BA": "Balochistan, Pakistan",
-    "PK-GB": "Gilgit-Baltistan",
-    "PK-IS": "Islamabad Capital Territory",
-    "PK-JK": "Azad Kashmir",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
-    "PK-SD": "Sindh",
-    "PK-TA": "Federally Administered Tribal Areas"
+    "PK-BA": "Balochistan, Pakistan"
   },
   "ja": {
-    "PK-BA": "Balochistan, Pakistan",
-    "PK-GB": "Gilgit-Baltistan",
-    "PK-IS": "Islamabad Capital Territory",
-    "PK-JK": "Azad Kashmir",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
-    "PK-SD": "Sindh",
-    "PK-TA": "Federally Administered Tribal Areas"
+    "PK-BA": "Balochistan, Pakistan"
   },
   "ar": {
     "PK-BA": "بلوشستان",
-    "PK-GB": "Gilgit-Baltistan",
-    "PK-IS": "Islamabad Capital Territory",
-    "PK-JK": "Azad Kashmir",
     "PK-KP": "خیبر بختونخوا",
-    "PK-PB": "Punjab",
     "PK-SD": "السند",
     "PK-TA": "المناطق القبلية الخاضعة للإدارة الاتحادية"
   },
   "it": {
     "PK-BA": "Belucistan",
-    "PK-GB": "Gilgit-Baltistan",
     "PK-IS": "Territorio della capitale",
-    "PK-JK": "Azad Kashmir",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
-    "PK-SD": "Sindh",
     "PK-TA": "Aree Tribali di Amministrazione Federale"
   },
   "he": {
-    "PK-BA": "Balochistan, Pakistan",
-    "PK-GB": "Gilgit-Baltistan",
-    "PK-IS": "Islamabad Capital Territory",
-    "PK-JK": "Azad Kashmir",
-    "PK-KP": "Khyber Pakhtunkhwa",
-    "PK-PB": "Punjab",
-    "PK-SD": "Sindh",
-    "PK-TA": "Federally Administered Tribal Areas"
+    "PK-BA": "Balochistan, Pakistan"
   }
 }

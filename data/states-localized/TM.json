@@ -39,36 +39,9 @@
     "TM-M": "馬雷州",
     "TM-S": "阿什哈巴德"
   },
-  "hi": {
-    "TM-A": "Ahal Province",
-    "TM-B": "Balkan Province",
-    "TM-D": "Daşoguz Province",
-    "TM-L": "Lebap Province",
-    "TM-M": "Mary Province",
-    "TM-S": "Ashgabat"
-  },
-  "pt": {
-    "TM-A": "Ahal Province",
-    "TM-B": "Balkan Province",
-    "TM-D": "Daşoguz Province",
-    "TM-L": "Lebap Province",
-    "TM-M": "Mary Province",
-    "TM-S": "Ashgabat"
-  },
-  "ja": {
-    "TM-A": "Ahal Province",
-    "TM-B": "Balkan Province",
-    "TM-D": "Daşoguz Province",
-    "TM-L": "Lebap Province",
-    "TM-M": "Mary Province",
-    "TM-S": "Ashgabat"
-  },
   "ar": {
-    "TM-A": "Ahal Province",
     "TM-B": "بلقان",
     "TM-D": "محافظة داشوغوز",
-    "TM-L": "Lebap Province",
-    "TM-M": "Mary Province",
     "TM-S": "عشق آباد"
   },
   "it": {
@@ -78,13 +51,5 @@
     "TM-L": "Provincia di Lebap",
     "TM-M": "Provincia di Mary",
     "TM-S": "Aşgabat"
-  },
-  "he": {
-    "TM-A": "Ahal Province",
-    "TM-B": "Balkan Province",
-    "TM-D": "Daşoguz Province",
-    "TM-L": "Lebap Province",
-    "TM-M": "Mary Province",
-    "TM-S": "Ashgabat"
   }
 }

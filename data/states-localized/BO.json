@@ -7,7 +7,6 @@
     "BO-N": "Пандо",
     "BO-O": "Оруро",
     "BO-P": "Потоси",
-    "BO-S": "Santa Cruz",
     "BO-T": "Тариха"
   },
   "de": {
@@ -18,7 +17,6 @@
     "BO-N": "Departamento Pando",
     "BO-O": "Departamento Oruro",
     "BO-P": "Departamento Potosí",
-    "BO-S": "Santa Cruz",
     "BO-T": "Departamento Tarija"
   },
   "fr": {
@@ -29,7 +27,6 @@
     "BO-N": "Département de Pando",
     "BO-O": "Département d'Oruro",
     "BO-P": "Département de Potosí",
-    "BO-S": "Santa Cruz",
     "BO-T": "Département de Tarija"
   },
   "es": {
@@ -40,7 +37,6 @@
     "BO-N": "Departamento de Pando",
     "BO-O": "Departamento de Oruro",
     "BO-P": "Departamento de Potosí",
-    "BO-S": "Santa Cruz",
     "BO-T": "Departamento de Tarija"
   },
   "zh": {
@@ -51,52 +47,7 @@
     "BO-N": "潘多省",
     "BO-O": "奥鲁罗省",
     "BO-P": "波托西省",
-    "BO-S": "Santa Cruz",
     "BO-T": "塔里哈省"
-  },
-  "hi": {
-    "BO-B": "Beni Department",
-    "BO-C": "Cochabamba Department",
-    "BO-H": "Chuquisaca Department",
-    "BO-L": "La Paz Department",
-    "BO-N": "Pando Department",
-    "BO-O": "Oruro Department",
-    "BO-P": "Potosí Department",
-    "BO-S": "Santa Cruz",
-    "BO-T": "Tarija Department"
-  },
-  "pt": {
-    "BO-B": "Beni Department",
-    "BO-C": "Cochabamba Department",
-    "BO-H": "Chuquisaca Department",
-    "BO-L": "La Paz Department",
-    "BO-N": "Pando Department",
-    "BO-O": "Oruro Department",
-    "BO-P": "Potosí Department",
-    "BO-S": "Santa Cruz",
-    "BO-T": "Tarija Department"
-  },
-  "ja": {
-    "BO-B": "Beni Department",
-    "BO-C": "Cochabamba Department",
-    "BO-H": "Chuquisaca Department",
-    "BO-L": "La Paz Department",
-    "BO-N": "Pando Department",
-    "BO-O": "Oruro Department",
-    "BO-P": "Potosí Department",
-    "BO-S": "Santa Cruz",
-    "BO-T": "Tarija Department"
-  },
-  "ar": {
-    "BO-B": "Beni Department",
-    "BO-C": "Cochabamba Department",
-    "BO-H": "Chuquisaca Department",
-    "BO-L": "La Paz Department",
-    "BO-N": "Pando Department",
-    "BO-O": "Oruro Department",
-    "BO-P": "Potosí Department",
-    "BO-S": "Santa Cruz",
-    "BO-T": "Tarija Department"
   },
   "it": {
     "BO-B": "Dipartimento di Beni",
@@ -106,18 +57,6 @@
     "BO-N": "Dipartimento di Pando",
     "BO-O": "Dipartimento di Oruro",
     "BO-P": "Dipartimento di Potosí",
-    "BO-S": "Santa Cruz",
     "BO-T": "Dipartimento di Tarija"
-  },
-  "he": {
-    "BO-B": "Beni Department",
-    "BO-C": "Cochabamba Department",
-    "BO-H": "Chuquisaca Department",
-    "BO-L": "La Paz Department",
-    "BO-N": "Pando Department",
-    "BO-O": "Oruro Department",
-    "BO-P": "Potosí Department",
-    "BO-S": "Santa Cruz",
-    "BO-T": "Tarija Department"
   }
 }

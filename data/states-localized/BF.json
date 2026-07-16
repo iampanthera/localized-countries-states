@@ -75,64 +75,25 @@
     "BF-13": "西南大區"
   },
   "hi": {
-    "BF-01": "Boucle du Mouhoun Region",
-    "BF-02": "Cascades Region",
     "BF-03": "Centre Region, Burkina Faso",
-    "BF-04": "Centre-Est Region",
-    "BF-05": "Centre-Nord Region",
-    "BF-06": "Centre-Ouest Region",
-    "BF-07": "Centre-Sud Region",
     "BF-08": "Est Region, Burkina Faso",
-    "BF-09": "Hauts-Bassins Region",
-    "BF-10": "Nord Region, Burkina Faso",
-    "BF-11": "Plateau-Central Region",
-    "BF-12": "Sahel Region",
-    "BF-13": "Sud-Ouest Region"
+    "BF-10": "Nord Region, Burkina Faso"
   },
   "pt": {
-    "BF-01": "Boucle du Mouhoun Region",
-    "BF-02": "Cascades Region",
     "BF-03": "Centre Region, Burkina Faso",
-    "BF-04": "Centre-Est Region",
-    "BF-05": "Centre-Nord Region",
-    "BF-06": "Centre-Ouest Region",
-    "BF-07": "Centre-Sud Region",
     "BF-08": "Est Region, Burkina Faso",
-    "BF-09": "Hauts-Bassins Region",
-    "BF-10": "Nord Region, Burkina Faso",
-    "BF-11": "Plateau-Central Region",
-    "BF-12": "Sahel Region",
-    "BF-13": "Sud-Ouest Region"
+    "BF-10": "Nord Region, Burkina Faso"
   },
   "ja": {
-    "BF-01": "Boucle du Mouhoun Region",
-    "BF-02": "Cascades Region",
     "BF-03": "Centre Region, Burkina Faso",
-    "BF-04": "Centre-Est Region",
-    "BF-05": "Centre-Nord Region",
-    "BF-06": "Centre-Ouest Region",
-    "BF-07": "Centre-Sud Region",
     "BF-08": "Est Region, Burkina Faso",
-    "BF-09": "Hauts-Bassins Region",
-    "BF-10": "Nord Region, Burkina Faso",
-    "BF-11": "Plateau-Central Region",
-    "BF-12": "Sahel Region",
-    "BF-13": "Sud-Ouest Region"
+    "BF-10": "Nord Region, Burkina Faso"
   },
   "ar": {
-    "BF-01": "Boucle du Mouhoun Region",
-    "BF-02": "Cascades Region",
     "BF-03": "Centre Region, Burkina Faso",
-    "BF-04": "Centre-Est Region",
-    "BF-05": "Centre-Nord Region",
-    "BF-06": "Centre-Ouest Region",
-    "BF-07": "Centre-Sud Region",
     "BF-08": "Est Region, Burkina Faso",
-    "BF-09": "Hauts-Bassins Region",
     "BF-10": "Nord Region, Burkina Faso",
-    "BF-11": "Plateau-Central Region",
-    "BF-12": "الساحل",
-    "BF-13": "Sud-Ouest Region"
+    "BF-12": "الساحل"
   },
   "it": {
     "BF-01": "Regione di Boucle du Mouhoun",
@@ -150,18 +111,8 @@
     "BF-13": "Regione del Sud-Ovest"
   },
   "he": {
-    "BF-01": "Boucle du Mouhoun Region",
-    "BF-02": "Cascades Region",
     "BF-03": "Centre Region, Burkina Faso",
-    "BF-04": "Centre-Est Region",
-    "BF-05": "Centre-Nord Region",
-    "BF-06": "Centre-Ouest Region",
-    "BF-07": "Centre-Sud Region",
     "BF-08": "Est Region, Burkina Faso",
-    "BF-09": "Hauts-Bassins Region",
-    "BF-10": "Nord Region, Burkina Faso",
-    "BF-11": "Plateau-Central Region",
-    "BF-12": "Sahel Region",
-    "BF-13": "Sud-Ouest Region"
+    "BF-10": "Nord Region, Burkina Faso"
   }
 }

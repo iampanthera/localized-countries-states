@@ -11,36 +11,28 @@
     "AT-9": "Вена"
   },
   "de": {
-    "AT-1": "Burgenland",
-    "AT-2": "Kärnten",
     "AT-3": "Niederösterreich",
     "AT-4": "Oberösterreich",
     "AT-5": "Land Salzburg",
     "AT-6": "Steiermark",
     "AT-7": "Tirol",
-    "AT-8": "Vorarlberg",
     "AT-9": "Wien"
   },
   "fr": {
-    "AT-1": "Burgenland",
     "AT-2": "Carinthie",
     "AT-3": "Basse-Autriche",
     "AT-4": "Haute-Autriche",
     "AT-5": "Salzbourg",
     "AT-6": "Styrie",
-    "AT-7": "Tyrol",
-    "AT-8": "Vorarlberg",
     "AT-9": "Vienne"
   },
   "es": {
-    "AT-1": "Burgenland",
     "AT-2": "Carintia",
     "AT-3": "Baja Austria",
     "AT-4": "Alta Austria",
     "AT-5": "Salzburgo",
     "AT-6": "Estiria",
     "AT-7": "Tirol",
-    "AT-8": "Vorarlberg",
     "AT-9": "Viena"
   },
   "zh": {
@@ -52,39 +44,6 @@
     "AT-7": "蒂罗尔州",
     "AT-8": "福拉尔贝格州",
     "AT-9": "維也納"
-  },
-  "hi": {
-    "AT-1": "Burgenland",
-    "AT-2": "Kärnten",
-    "AT-3": "Lower Austria",
-    "AT-4": "Upper Austria",
-    "AT-5": "Salzburg",
-    "AT-6": "Styria",
-    "AT-7": "Tyrol",
-    "AT-8": "Vorarlberg",
-    "AT-9": "Vienna"
-  },
-  "pt": {
-    "AT-1": "Burgenland",
-    "AT-2": "Kärnten",
-    "AT-3": "Lower Austria",
-    "AT-4": "Upper Austria",
-    "AT-5": "Salzburg",
-    "AT-6": "Styria",
-    "AT-7": "Tyrol",
-    "AT-8": "Vorarlberg",
-    "AT-9": "Vienna"
-  },
-  "ja": {
-    "AT-1": "Burgenland",
-    "AT-2": "Kärnten",
-    "AT-3": "Lower Austria",
-    "AT-4": "Upper Austria",
-    "AT-5": "Salzburg",
-    "AT-6": "Styria",
-    "AT-7": "Tyrol",
-    "AT-8": "Vorarlberg",
-    "AT-9": "Vienna"
   },
   "ar": {
     "AT-1": "بورغنلاند",
@@ -98,25 +57,11 @@
     "AT-9": "فيينا"
   },
   "it": {
-    "AT-1": "Burgenland",
     "AT-2": "Carinzia",
     "AT-3": "Bassa Austria",
     "AT-4": "Alta Austria",
     "AT-5": "Salisburghese",
     "AT-6": "Stiria",
-    "AT-7": "Tirolo",
-    "AT-8": "Vorarlberg",
-    "AT-9": "Vienna"
-  },
-  "he": {
-    "AT-1": "Burgenland",
-    "AT-2": "Kärnten",
-    "AT-3": "Lower Austria",
-    "AT-4": "Upper Austria",
-    "AT-5": "Salzburg",
-    "AT-6": "Styria",
-    "AT-7": "Tyrol",
-    "AT-8": "Vorarlberg",
-    "AT-9": "Vienna"
+    "AT-7": "Tirolo"
   }
 }

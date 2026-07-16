@@ -13,19 +13,14 @@
   "de": {
     "GW-BA": "Bafatá",
     "GW-BL": "Bolama",
-    "GW-BM": "Biombo Region",
-    "GW-BS": "Bissau",
     "GW-CA": "Cacheu",
     "GW-GA": "Gabú",
-    "GW-OI": "Oio",
-    "GW-QU": "Quinara Region",
-    "GW-TO": "Tombali Region"
+    "GW-OI": "Oio"
   },
   "fr": {
     "GW-BA": "Bafatá",
     "GW-BL": "Bolama-Bijagos",
     "GW-BM": "Biombo",
-    "GW-BS": "Bissau",
     "GW-CA": "Cacheu",
     "GW-GA": "Gabu",
     "GW-OI": "Oio",
@@ -54,70 +49,17 @@
     "GW-QU": "基納拉區",
     "GW-TO": "通巴利區"
   },
-  "hi": {
-    "GW-BA": "Bafatá Region",
-    "GW-BL": "Bolama Region",
-    "GW-BM": "Biombo Region",
-    "GW-BS": "Bissau",
-    "GW-CA": "Cacheu Region",
-    "GW-GA": "Gabú Region",
-    "GW-OI": "Oio Region",
-    "GW-QU": "Quinara Region",
-    "GW-TO": "Tombali Region"
-  },
-  "pt": {
-    "GW-BA": "Bafatá Region",
-    "GW-BL": "Bolama Region",
-    "GW-BM": "Biombo Region",
-    "GW-BS": "Bissau",
-    "GW-CA": "Cacheu Region",
-    "GW-GA": "Gabú Region",
-    "GW-OI": "Oio Region",
-    "GW-QU": "Quinara Region",
-    "GW-TO": "Tombali Region"
-  },
-  "ja": {
-    "GW-BA": "Bafatá Region",
-    "GW-BL": "Bolama Region",
-    "GW-BM": "Biombo Region",
-    "GW-BS": "Bissau",
-    "GW-CA": "Cacheu Region",
-    "GW-GA": "Gabú Region",
-    "GW-OI": "Oio Region",
-    "GW-QU": "Quinara Region",
-    "GW-TO": "Tombali Region"
-  },
   "ar": {
-    "GW-BA": "Bafatá Region",
-    "GW-BL": "Bolama Region",
-    "GW-BM": "Biombo Region",
-    "GW-BS": "بيساو",
-    "GW-CA": "Cacheu Region",
-    "GW-GA": "Gabú Region",
-    "GW-OI": "Oio Region",
-    "GW-QU": "Quinara Region",
-    "GW-TO": "Tombali Region"
+    "GW-BS": "بيساو"
   },
   "it": {
     "GW-BA": "Regione di Bafatá",
     "GW-BL": "Regione di Bolama",
     "GW-BM": "Regione di Biombo",
-    "GW-BS": "Bissau",
     "GW-CA": "Regione di Cacheu",
     "GW-GA": "Regione di Gabú",
     "GW-OI": "Regione di Oio",
     "GW-QU": "Regione di Quinara",
     "GW-TO": "Regione di Tombali"
-  },
-  "he": {
-    "GW-BA": "Bafatá Region",
-    "GW-BL": "Bolama Region",
-    "GW-BM": "Biombo Region",
-    "GW-BS": "Bissau",
-    "GW-CA": "Cacheu Region",
-    "GW-GA": "Gabú Region",
-    "GW-OI": "Oio Region",
-    "GW-QU": "Quinara Region",
-    "GW-TO": "Tombali Region"
   }
 }

@@ -480,6 +480,7 @@ const report = {
   baseNameCollisionsResolved: [], // base names reverted to ISO canonical to break collisions
   suffixesStripped: { total: 0, byCountry: {} }, // renames visible in the data/states diff
   suffixStripSkipped: [], // {country, code, name, reason: override|exempt|generic-remainder|qualifier-remainder|collision}
+  englishCopiesDropped: 0, // localized entries identical to the English name (untranslated upstream copies)
   localizedEntriesDropped: [], // localized entries dropped (collided within their language)
 };
 const bump = (m) =>
@@ -557,10 +558,16 @@ for (const cc of iso31661.map((c) => c.alpha2).sort()) {
     if (names) {
       let any = false;
       for (const lang of LOCALIZED_LANGS) {
-        if (names[lang]) {
-          localized[lang][fullCode] = names[lang];
-          any = true;
+        // A "localization" identical to the English name is upstream contamination
+        // (whole layers are untranslated English copies: hi/pt/ja/he, partially ar).
+        // Dropping it lets the code fall back to the (suffix-stripped) base name.
+        if (!names[lang]) continue;
+        if (names[lang] === names.en) {
+          report.englishCopiesDropped++;
+          continue;
         }
+        localized[lang][fullCode] = names[lang];
+        any = true;
       }
       if (any) localizedRegions++;
     }
@@ -665,4 +672,8 @@ console.log(
   report.suffixesStripped.total,
   "| kept (override/exempt/generic/qualifier/collision):",
   report.suffixStripSkipped.length,
+);
+console.log(
+  "untranslated English copies dropped from localized layers:",
+  report.englishCopiesDropped,
 );

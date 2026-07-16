@@ -6,8 +6,7 @@
   },
   "de": {
     "BA-BIH": "Föderation Bosnien und Herzegowina",
-    "BA-BRC": "Distrikt Brčko",
-    "BA-SRP": "Republika Srpska"
+    "BA-BRC": "Distrikt Brčko"
   },
   "fr": {
     "BA-BIH": "Fédération de Bosnie-et-Herzégovine",
@@ -24,34 +23,13 @@
     "BA-BRC": "布爾奇科特區",
     "BA-SRP": "塞族共和國"
   },
-  "hi": {
-    "BA-BIH": "Federation of Bosnia and Herzegovina",
-    "BA-BRC": "Brčko District",
-    "BA-SRP": "Republika Srpska"
-  },
-  "pt": {
-    "BA-BIH": "Federation of Bosnia and Herzegovina",
-    "BA-BRC": "Brčko District",
-    "BA-SRP": "Republika Srpska"
-  },
-  "ja": {
-    "BA-BIH": "Federation of Bosnia and Herzegovina",
-    "BA-BRC": "Brčko District",
-    "BA-SRP": "Republika Srpska"
-  },
   "ar": {
     "BA-BIH": "اتحاد البوسنة والهرسك",
-    "BA-BRC": "Brčko District",
     "BA-SRP": "جمهورية صرب البوسنة"
   },
   "it": {
     "BA-BIH": "Federazione di Bosnia ed Erzegovina",
     "BA-BRC": "Distretto di Brčko",
     "BA-SRP": "Repubblica Serba di Bosnia ed Erzegovina"
-  },
-  "he": {
-    "BA-BIH": "Federation of Bosnia and Herzegovina",
-    "BA-BRC": "Brčko District",
-    "BA-SRP": "Republika Srpska"
   }
 }

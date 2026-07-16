@@ -74,66 +74,6 @@
     "TL-OE": "歐庫西-安貝諾縣",
     "TL-VI": "維克克縣"
   },
-  "hi": {
-    "TL-AL": "Aileu District",
-    "TL-AN": "Ainaro District",
-    "TL-BA": "Baucau District",
-    "TL-BO": "Bobonaro District",
-    "TL-CO": "Cova Lima District",
-    "TL-DI": "Dili District",
-    "TL-ER": "Ermera District",
-    "TL-LA": "Lautém District",
-    "TL-LI": "Liquiçá District",
-    "TL-MF": "Manufahi District",
-    "TL-MT": "Manatuto District",
-    "TL-OE": "Oecusse District",
-    "TL-VI": "Viqueque District"
-  },
-  "pt": {
-    "TL-AL": "Aileu District",
-    "TL-AN": "Ainaro District",
-    "TL-BA": "Baucau District",
-    "TL-BO": "Bobonaro District",
-    "TL-CO": "Cova Lima District",
-    "TL-DI": "Dili District",
-    "TL-ER": "Ermera District",
-    "TL-LA": "Lautém District",
-    "TL-LI": "Liquiçá District",
-    "TL-MF": "Manufahi District",
-    "TL-MT": "Manatuto District",
-    "TL-OE": "Oecusse District",
-    "TL-VI": "Viqueque District"
-  },
-  "ja": {
-    "TL-AL": "Aileu District",
-    "TL-AN": "Ainaro District",
-    "TL-BA": "Baucau District",
-    "TL-BO": "Bobonaro District",
-    "TL-CO": "Cova Lima District",
-    "TL-DI": "Dili District",
-    "TL-ER": "Ermera District",
-    "TL-LA": "Lautém District",
-    "TL-LI": "Liquiçá District",
-    "TL-MF": "Manufahi District",
-    "TL-MT": "Manatuto District",
-    "TL-OE": "Oecusse District",
-    "TL-VI": "Viqueque District"
-  },
-  "ar": {
-    "TL-AL": "Aileu District",
-    "TL-AN": "Ainaro District",
-    "TL-BA": "Baucau District",
-    "TL-BO": "Bobonaro District",
-    "TL-CO": "Cova Lima District",
-    "TL-DI": "Dili District",
-    "TL-ER": "Ermera District",
-    "TL-LA": "Lautém District",
-    "TL-LI": "Liquiçá District",
-    "TL-MF": "Manufahi District",
-    "TL-MT": "Manatuto District",
-    "TL-OE": "Oecusse District",
-    "TL-VI": "Viqueque District"
-  },
   "it": {
     "TL-AL": "Distretto di Aileu",
     "TL-AN": "Distretto di Ainaro",
@@ -148,20 +88,5 @@
     "TL-MT": "Distretto di Manatuto",
     "TL-OE": "Okussi-Ambeno",
     "TL-VI": "Distretto di Viqueque"
-  },
-  "he": {
-    "TL-AL": "Aileu District",
-    "TL-AN": "Ainaro District",
-    "TL-BA": "Baucau District",
-    "TL-BO": "Bobonaro District",
-    "TL-CO": "Cova Lima District",
-    "TL-DI": "Dili District",
-    "TL-ER": "Ermera District",
-    "TL-LA": "Lautém District",
-    "TL-LI": "Liquiçá District",
-    "TL-MF": "Manufahi District",
-    "TL-MT": "Manatuto District",
-    "TL-OE": "Oecusse District",
-    "TL-VI": "Viqueque District"
   }
 }

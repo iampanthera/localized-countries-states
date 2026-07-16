@@ -15,48 +15,26 @@
     "CA-YT": "Юкон"
   },
   "de": {
-    "CA-AB": "Alberta",
-    "CA-BC": "British Columbia",
-    "CA-MB": "Manitoba",
-    "CA-NB": "New Brunswick",
     "CA-NL": "Neufundland und Labrador",
-    "CA-NS": "Nova Scotia",
     "CA-NT": "Nordwest-Territorien",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
-    "CA-PE": "Prince Edward Island",
-    "CA-QC": "Québec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
+    "CA-QC": "Québec"
   },
   "fr": {
-    "CA-AB": "Alberta",
     "CA-BC": "Colombie-Britannique",
-    "CA-MB": "Manitoba",
     "CA-NB": "Nouveau-Brunswick",
     "CA-NL": "Terre-Neuve-et-Labrador",
     "CA-NS": "Nouvelle-Écosse",
     "CA-NT": "Territoires du Nord-Ouest",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
     "CA-PE": "Île-du-Prince-Édouard",
-    "CA-QC": "Québec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
+    "CA-QC": "Québec"
   },
   "es": {
-    "CA-AB": "Alberta",
     "CA-BC": "Columbia Británica",
-    "CA-MB": "Manitoba",
     "CA-NB": "Nuevo Brunswick",
     "CA-NL": "Terranova y Labrador",
     "CA-NS": "Nueva Escocia",
     "CA-NT": "Territorios del Noroeste",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
     "CA-PE": "Isla del Príncipe Eduardo",
-    "CA-QC": "Quebec",
-    "CA-SK": "Saskatchewan",
     "CA-YT": "Yukón"
   },
   "zh": {
@@ -74,51 +52,6 @@
     "CA-SK": "薩斯喀徹溫",
     "CA-YT": "育空"
   },
-  "hi": {
-    "CA-AB": "Alberta",
-    "CA-BC": "British Columbia",
-    "CA-MB": "Manitoba",
-    "CA-NB": "New Brunswick",
-    "CA-NL": "Newfoundland and Labrador",
-    "CA-NS": "Nova Scotia",
-    "CA-NT": "Northwest Territories",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
-    "CA-PE": "Prince Edward Island",
-    "CA-QC": "Quebec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
-  },
-  "pt": {
-    "CA-AB": "Alberta",
-    "CA-BC": "British Columbia",
-    "CA-MB": "Manitoba",
-    "CA-NB": "New Brunswick",
-    "CA-NL": "Newfoundland and Labrador",
-    "CA-NS": "Nova Scotia",
-    "CA-NT": "Northwest Territories",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
-    "CA-PE": "Prince Edward Island",
-    "CA-QC": "Quebec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
-  },
-  "ja": {
-    "CA-AB": "Alberta",
-    "CA-BC": "British Columbia",
-    "CA-MB": "Manitoba",
-    "CA-NB": "New Brunswick",
-    "CA-NL": "Newfoundland and Labrador",
-    "CA-NS": "Nova Scotia",
-    "CA-NT": "Northwest Territories",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
-    "CA-PE": "Prince Edward Island",
-    "CA-QC": "Quebec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
-  },
   "ar": {
     "CA-AB": "ألبرتا",
     "CA-BC": "كولومبيا البريطانية",
@@ -135,33 +68,12 @@
     "CA-YT": "يوكون"
   },
   "it": {
-    "CA-AB": "Alberta",
     "CA-BC": "Columbia Britannica",
-    "CA-MB": "Manitoba",
     "CA-NB": "Nuovo Brunswick",
     "CA-NL": "Terranova e Labrador",
     "CA-NS": "Nuova Scozia",
     "CA-NT": "Territori del Nord-Ovest",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
     "CA-PE": "Isola del Principe Edoardo",
-    "CA-QC": "Québec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
-  },
-  "he": {
-    "CA-AB": "Alberta",
-    "CA-BC": "British Columbia",
-    "CA-MB": "Manitoba",
-    "CA-NB": "New Brunswick",
-    "CA-NL": "Newfoundland and Labrador",
-    "CA-NS": "Nova Scotia",
-    "CA-NT": "Northwest Territories",
-    "CA-NU": "Nunavut",
-    "CA-ON": "Ontario",
-    "CA-PE": "Prince Edward Island",
-    "CA-QC": "Quebec",
-    "CA-SK": "Saskatchewan",
-    "CA-YT": "Yukon"
+    "CA-QC": "Québec"
   }
 }

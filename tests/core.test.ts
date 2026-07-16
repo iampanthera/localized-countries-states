@@ -262,6 +262,18 @@ describe("country-localizer", () => {
       expect(getStateName("CZ", "CZ-31")).toBe("South Bohemian Region");
       expect(getStateName("BE", "BE-VLG")).toBe("Flemish Region");
     });
+
+    it("drops untranslated English copies from localized layers", () => {
+      // upstream ships English strings in ja/pt/hi/he layers; they must fall
+      // back to the stripped base, not serve stale "Aomori Prefecture"
+      expect(getStateName("JP", "JP-02", "ja")).toBe("Aomori");
+      expect(getStateName("JP", "JP-02", "pt")).toBe("Aomori");
+      expect(getStateName("JP", "JP-02", "hi")).toBe("Aomori");
+      // genuine translations survive
+      expect(getStateName("JP", "JP-02", "fr")).toBe("Préfecture d'Aomori");
+      expect(getStateName("JP", "JP-02", "de")).toBe("Präfektur Aomori");
+      expect(getStateName("JP", "JP-02", "ru")).toBe("Аомори");
+    });
   });
 
   it("returns empty array for countries without state data", () => {

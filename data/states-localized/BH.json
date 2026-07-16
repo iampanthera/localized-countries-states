@@ -1,13 +1,10 @@
 {
   "ru": {
     "BH-13": "Столичная",
-    "BH-15": "Мухаррак",
-    "BH-17": "Northern Governorate"
+    "BH-15": "Мухаррак"
   },
   "de": {
-    "BH-13": "Capital Governorate, Bahrain",
-    "BH-15": "Muharraq Governorate",
-    "BH-17": "Northern Governorate"
+    "BH-13": "Capital Governorate, Bahrain"
   },
   "fr": {
     "BH-13": "Gouvernorat de la capitale",
@@ -25,19 +22,13 @@
     "BH-17": "北方省"
   },
   "hi": {
-    "BH-13": "Capital Governorate, Bahrain",
-    "BH-15": "Muharraq Governorate",
-    "BH-17": "Northern Governorate"
+    "BH-13": "Capital Governorate, Bahrain"
   },
   "pt": {
-    "BH-13": "Capital Governorate, Bahrain",
-    "BH-15": "Muharraq Governorate",
-    "BH-17": "Northern Governorate"
+    "BH-13": "Capital Governorate, Bahrain"
   },
   "ja": {
-    "BH-13": "Capital Governorate, Bahrain",
-    "BH-15": "Muharraq Governorate",
-    "BH-17": "Northern Governorate"
+    "BH-13": "Capital Governorate, Bahrain"
   },
   "ar": {
     "BH-13": "محافظة العاصمة",
@@ -50,8 +41,6 @@
     "BH-17": "Governatorato Settentrionale"
   },
   "he": {
-    "BH-13": "Capital Governorate, Bahrain",
-    "BH-15": "Muharraq Governorate",
-    "BH-17": "Northern Governorate"
+    "BH-13": "Capital Governorate, Bahrain"
   }
 }

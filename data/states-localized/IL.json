@@ -39,30 +39,6 @@
     "IL-TA": "特拉维夫区",
     "IL-Z": "北部区"
   },
-  "hi": {
-    "IL-D": "Southern District",
-    "IL-HA": "Haifa District",
-    "IL-JM": "Jerusalem District",
-    "IL-M": "Central District",
-    "IL-TA": "Tel Aviv District",
-    "IL-Z": "Northern District"
-  },
-  "pt": {
-    "IL-D": "Southern District",
-    "IL-HA": "Haifa District",
-    "IL-JM": "Jerusalem District",
-    "IL-M": "Central District",
-    "IL-TA": "Tel Aviv District",
-    "IL-Z": "Northern District"
-  },
-  "ja": {
-    "IL-D": "Southern District",
-    "IL-HA": "Haifa District",
-    "IL-JM": "Jerusalem District",
-    "IL-M": "Central District",
-    "IL-TA": "Tel Aviv District",
-    "IL-Z": "Northern District"
-  },
   "ar": {
     "IL-D": "المنطقة الجنوبية",
     "IL-HA": "منطقة حيفا",
@@ -78,13 +54,5 @@
     "IL-M": "Distretto Centrale",
     "IL-TA": "Distretto di Tel Aviv",
     "IL-Z": "Distretto Settentrionale"
-  },
-  "he": {
-    "IL-D": "Southern District",
-    "IL-HA": "Haifa District",
-    "IL-JM": "Jerusalem District",
-    "IL-M": "Central District",
-    "IL-TA": "Tel Aviv District",
-    "IL-Z": "Northern District"
   }
 }

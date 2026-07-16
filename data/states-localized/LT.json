@@ -59,42 +59,6 @@
     "LT-UT": "烏田納縣",
     "LT-VL": "維爾紐斯縣"
   },
-  "hi": {
-    "LT-AL": "Alytus County",
-    "LT-KL": "Klaipėda County",
-    "LT-KU": "Kaunas County",
-    "LT-MR": "Marijampolė County",
-    "LT-PN": "Panevėžys County",
-    "LT-SA": "Šiauliai County",
-    "LT-TA": "Tauragė County",
-    "LT-TE": "Telšiai County",
-    "LT-UT": "Utena County",
-    "LT-VL": "Vilnius County"
-  },
-  "pt": {
-    "LT-AL": "Alytus County",
-    "LT-KL": "Klaipėda County",
-    "LT-KU": "Kaunas County",
-    "LT-MR": "Marijampolė County",
-    "LT-PN": "Panevėžys County",
-    "LT-SA": "Šiauliai County",
-    "LT-TA": "Tauragė County",
-    "LT-TE": "Telšiai County",
-    "LT-UT": "Utena County",
-    "LT-VL": "Vilnius County"
-  },
-  "ja": {
-    "LT-AL": "Alytus County",
-    "LT-KL": "Klaipėda County",
-    "LT-KU": "Kaunas County",
-    "LT-MR": "Marijampolė County",
-    "LT-PN": "Panevėžys County",
-    "LT-SA": "Šiauliai County",
-    "LT-TA": "Tauragė County",
-    "LT-TE": "Telšiai County",
-    "LT-UT": "Utena County",
-    "LT-VL": "Vilnius County"
-  },
   "ar": {
     "LT-AL": "مقاطعة أليتس",
     "LT-KL": "مقاطعة كلايبيدا",
@@ -118,17 +82,5 @@
     "LT-TE": "Contea di Telšiai",
     "LT-UT": "Contea di Utena",
     "LT-VL": "Contea di Vilnius"
-  },
-  "he": {
-    "LT-AL": "Alytus County",
-    "LT-KL": "Klaipėda County",
-    "LT-KU": "Kaunas County",
-    "LT-MR": "Marijampolė County",
-    "LT-PN": "Panevėžys County",
-    "LT-SA": "Šiauliai County",
-    "LT-TA": "Tauragė County",
-    "LT-TE": "Telšiai County",
-    "LT-UT": "Utena County",
-    "LT-VL": "Vilnius County"
   }
 }

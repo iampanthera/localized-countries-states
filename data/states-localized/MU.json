@@ -23,21 +23,17 @@
     "MU-PA": "Pamplemousses",
     "MU-PL": "Port Louis",
     "MU-PW": "Plaines Wilhems",
-    "MU-RO": "Rodrigues",
     "MU-RR": "Riviere du Rempart",
     "MU-SA": "Savanne"
   },
   "fr": {
-    "MU-AG": "Agaléga",
     "MU-BL": "Piton de la Petite Rivière Noire",
     "MU-CC": "Saint-Brandon",
     "MU-FL": "Flacq",
     "MU-GP": "Grand Port",
     "MU-MO": "Moka",
     "MU-PA": "Pamplemousses",
-    "MU-PL": "Port Louis District",
     "MU-PW": "Plaines Wilhems",
-    "MU-RO": "Rodrigues",
     "MU-RR": "Rivière du Rempart",
     "MU-SA": "Savanne"
   },
@@ -51,7 +47,6 @@
     "MU-PA": "Distrito de Pamplemousses",
     "MU-PL": "Distrito de Port Louis",
     "MU-PW": "Distrito de Plaines Wilhems",
-    "MU-RO": "Rodrigues",
     "MU-RR": "Distrito de Rivière du Rempart",
     "MU-SA": "Distrito de Savanne"
   },
@@ -68,61 +63,8 @@
     "MU-RR": "朗帕河區",
     "MU-SA": "薩凡納區"
   },
-  "hi": {
-    "MU-AG": "Agaléga",
-    "MU-BL": "Rivière Noire District",
-    "MU-CC": "St. Brandon",
-    "MU-FL": "Flacq District",
-    "MU-GP": "Grand Port District",
-    "MU-MO": "Moka District",
-    "MU-PA": "Pamplemousses District",
-    "MU-PL": "Port Louis District",
-    "MU-PW": "Plaines Wilhems District",
-    "MU-RO": "Rodrigues",
-    "MU-RR": "Rivière du Rempart District",
-    "MU-SA": "Savanne District"
-  },
-  "pt": {
-    "MU-AG": "Agaléga",
-    "MU-BL": "Rivière Noire District",
-    "MU-CC": "St. Brandon",
-    "MU-FL": "Flacq District",
-    "MU-GP": "Grand Port District",
-    "MU-MO": "Moka District",
-    "MU-PA": "Pamplemousses District",
-    "MU-PL": "Port Louis District",
-    "MU-PW": "Plaines Wilhems District",
-    "MU-RO": "Rodrigues",
-    "MU-RR": "Rivière du Rempart District",
-    "MU-SA": "Savanne District"
-  },
-  "ja": {
-    "MU-AG": "Agaléga",
-    "MU-BL": "Rivière Noire District",
-    "MU-CC": "St. Brandon",
-    "MU-FL": "Flacq District",
-    "MU-GP": "Grand Port District",
-    "MU-MO": "Moka District",
-    "MU-PA": "Pamplemousses District",
-    "MU-PL": "Port Louis District",
-    "MU-PW": "Plaines Wilhems District",
-    "MU-RO": "Rodrigues",
-    "MU-RR": "Rivière du Rempart District",
-    "MU-SA": "Savanne District"
-  },
   "ar": {
-    "MU-AG": "Agaléga",
-    "MU-BL": "النهر الأسود",
-    "MU-CC": "St. Brandon",
-    "MU-FL": "Flacq District",
-    "MU-GP": "Grand Port District",
-    "MU-MO": "Moka District",
-    "MU-PA": "Pamplemousses District",
-    "MU-PL": "Port Louis District",
-    "MU-PW": "Plaines Wilhems District",
-    "MU-RO": "Rodrigues",
-    "MU-RR": "Rivière du Rempart District",
-    "MU-SA": "Savanne District"
+    "MU-BL": "النهر الأسود"
   },
   "it": {
     "MU-AG": "Agalega",
@@ -134,22 +76,7 @@
     "MU-PA": "Pamplemousses",
     "MU-PL": "Distretto di Port Louis",
     "MU-PW": "Plaines Wilhems",
-    "MU-RO": "Rodrigues",
     "MU-RR": "Rivière du Rempart",
     "MU-SA": "Savanne"
-  },
-  "he": {
-    "MU-AG": "Agaléga",
-    "MU-BL": "Rivière Noire District",
-    "MU-CC": "St. Brandon",
-    "MU-FL": "Flacq District",
-    "MU-GP": "Grand Port District",
-    "MU-MO": "Moka District",
-    "MU-PA": "Pamplemousses District",
-    "MU-PL": "Port Louis District",
-    "MU-PW": "Plaines Wilhems District",
-    "MU-RO": "Rodrigues",
-    "MU-RR": "Rivière du Rempart District",
-    "MU-SA": "Savanne District"
   }
 }

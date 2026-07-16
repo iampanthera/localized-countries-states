@@ -12,7 +12,6 @@
     "ZW-MW": "Западный Машоналенд"
   },
   "de": {
-    "ZW-BU": "Bulawayo",
     "ZW-HA": "Harare",
     "ZW-MA": "Provinz Manicaland",
     "ZW-MC": "Provinz Mashonaland Central",
@@ -24,7 +23,6 @@
     "ZW-MW": "Provinz Mashonaland West"
   },
   "fr": {
-    "ZW-BU": "Bulawayo",
     "ZW-HA": "Harare",
     "ZW-MA": "Manicaland",
     "ZW-MC": "Mashonaland central",
@@ -36,7 +34,6 @@
     "ZW-MW": "Mashonaland occidental"
   },
   "es": {
-    "ZW-BU": "Bulawayo",
     "ZW-HA": "Harare",
     "ZW-MA": "Manicalandia",
     "ZW-MC": "Mashonalandia Central",
@@ -59,56 +56,11 @@
     "ZW-MV": "馬斯溫戈省",
     "ZW-MW": "西馬紹納蘭省"
   },
-  "hi": {
-    "ZW-BU": "Bulawayo",
-    "ZW-HA": "Harare Province",
-    "ZW-MA": "Manicaland Province",
-    "ZW-MC": "Mashonaland Central Province",
-    "ZW-ME": "Mashonaland East Province",
-    "ZW-MI": "Midlands Province",
-    "ZW-MN": "Matabeleland North Province",
-    "ZW-MS": "Matabeleland South Province",
-    "ZW-MV": "Masvingo Province",
-    "ZW-MW": "Mashonaland West Province"
-  },
-  "pt": {
-    "ZW-BU": "Bulawayo",
-    "ZW-HA": "Harare Province",
-    "ZW-MA": "Manicaland Province",
-    "ZW-MC": "Mashonaland Central Province",
-    "ZW-ME": "Mashonaland East Province",
-    "ZW-MI": "Midlands Province",
-    "ZW-MN": "Matabeleland North Province",
-    "ZW-MS": "Matabeleland South Province",
-    "ZW-MV": "Masvingo Province",
-    "ZW-MW": "Mashonaland West Province"
-  },
-  "ja": {
-    "ZW-BU": "Bulawayo",
-    "ZW-HA": "Harare Province",
-    "ZW-MA": "Manicaland Province",
-    "ZW-MC": "Mashonaland Central Province",
-    "ZW-ME": "Mashonaland East Province",
-    "ZW-MI": "Midlands Province",
-    "ZW-MN": "Matabeleland North Province",
-    "ZW-MS": "Matabeleland South Province",
-    "ZW-MV": "Masvingo Province",
-    "ZW-MW": "Mashonaland West Province"
-  },
   "ar": {
-    "ZW-BU": "Bulawayo",
     "ZW-HA": "هراري",
-    "ZW-MA": "Manicaland Province",
-    "ZW-MC": "Mashonaland Central Province",
-    "ZW-ME": "Mashonaland East Province",
-    "ZW-MI": "Midlands Province",
-    "ZW-MN": "Matabeleland North Province",
-    "ZW-MS": "Matabeleland South Province",
-    "ZW-MV": "منطقة ماسفينغو",
-    "ZW-MW": "Mashonaland West Province"
+    "ZW-MV": "منطقة ماسفينغو"
   },
   "it": {
-    "ZW-BU": "Bulawayo",
     "ZW-HA": "Harare",
     "ZW-MA": "Provincia del Manicaland",
     "ZW-MC": "Provincia del Mashonaland Centrale",
@@ -118,17 +70,5 @@
     "ZW-MS": "Provincia del Matabeleland Meridionale",
     "ZW-MV": "Provincia di Masvingo",
     "ZW-MW": "Provincia del Mashonaland Occidentale"
-  },
-  "he": {
-    "ZW-BU": "Bulawayo",
-    "ZW-HA": "Harare Province",
-    "ZW-MA": "Manicaland Province",
-    "ZW-MC": "Mashonaland Central Province",
-    "ZW-ME": "Mashonaland East Province",
-    "ZW-MI": "Midlands Province",
-    "ZW-MN": "Matabeleland North Province",
-    "ZW-MS": "Matabeleland South Province",
-    "ZW-MV": "Masvingo Province",
-    "ZW-MW": "Mashonaland West Province"
   }
 }

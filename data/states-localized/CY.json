@@ -34,30 +34,6 @@
   "zh": {
     "CY-06": "凯里尼亚区"
   },
-  "hi": {
-    "CY-01": "Nicosia District",
-    "CY-02": "Limassol District",
-    "CY-03": "Larnaca District",
-    "CY-04": "Famagusta District",
-    "CY-05": "Paphos District",
-    "CY-06": "Kyrenia District"
-  },
-  "pt": {
-    "CY-01": "Nicosia District",
-    "CY-02": "Limassol District",
-    "CY-03": "Larnaca District",
-    "CY-04": "Famagusta District",
-    "CY-05": "Paphos District",
-    "CY-06": "Kyrenia District"
-  },
-  "ja": {
-    "CY-01": "Nicosia District",
-    "CY-02": "Limassol District",
-    "CY-03": "Larnaca District",
-    "CY-04": "Famagusta District",
-    "CY-05": "Paphos District",
-    "CY-06": "Kyrenia District"
-  },
   "ar": {
     "CY-01": "منطقة نيقوسيا",
     "CY-02": "منطقة ليماسول",
@@ -73,13 +49,5 @@
     "CY-04": "Distretto di Famagosta",
     "CY-05": "Distretto di Pafo",
     "CY-06": "Distretto di Kyrenia"
-  },
-  "he": {
-    "CY-01": "Nicosia District",
-    "CY-02": "Limassol District",
-    "CY-03": "Larnaca District",
-    "CY-04": "Famagusta District",
-    "CY-05": "Paphos District",
-    "CY-06": "Kyrenia District"
   }
 }

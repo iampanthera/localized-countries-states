@@ -24,7 +24,6 @@
     "LY-ZA": "Эз-Завия"
   },
   "de": {
-    "LY-BA": "Benghazi",
     "LY-BU": "Munizip al-Butnan",
     "LY-DR": "Munizip Darna",
     "LY-GT": "Munizip Ghat",
@@ -48,7 +47,6 @@
     "LY-ZA": "Munizip az-Zawiya"
   },
   "fr": {
-    "LY-BA": "Benghazi",
     "LY-BU": "Al Boutnan",
     "LY-DR": "Darnah",
     "LY-GT": "Ghat",
@@ -120,76 +118,13 @@
     "LY-ZA": "扎維耶省"
   },
   "hi": {
-    "LY-BA": "Benghazi",
-    "LY-BU": "Butnan District",
-    "LY-DR": "Derna District",
-    "LY-GT": "Ghat District",
-    "LY-JA": "Jabal al Akhdar",
-    "LY-JG": "Jabal al Gharbi District",
-    "LY-JI": "Jafara",
-    "LY-JU": "Jufra District",
-    "LY-KF": "Kufra District",
-    "LY-MB": "Murqub District",
-    "LY-MI": "Misrata District",
-    "LY-MJ": "Marj District",
-    "LY-MQ": "Murzuq District",
-    "LY-NL": "Nalut District",
-    "LY-NQ": "Nuqat al Khams",
-    "LY-SB": "Sabha District",
-    "LY-SR": "Sirte District",
-    "LY-TB": "Tripoli District, Libya",
-    "LY-WA": "Al Wahat District",
-    "LY-WD": "Wadi al Hayaa District",
-    "LY-WS": "Wadi al Shatii District",
-    "LY-ZA": "Zawiya District"
+    "LY-TB": "Tripoli District, Libya"
   },
   "pt": {
-    "LY-BA": "Benghazi",
-    "LY-BU": "Butnan District",
-    "LY-DR": "Derna District",
-    "LY-GT": "Ghat District",
-    "LY-JA": "Jabal al Akhdar",
-    "LY-JG": "Jabal al Gharbi District",
-    "LY-JI": "Jafara",
-    "LY-JU": "Jufra District",
-    "LY-KF": "Kufra District",
-    "LY-MB": "Murqub District",
-    "LY-MI": "Misrata District",
-    "LY-MJ": "Marj District",
-    "LY-MQ": "Murzuq District",
-    "LY-NL": "Nalut District",
-    "LY-NQ": "Nuqat al Khams",
-    "LY-SB": "Sabha District",
-    "LY-SR": "Sirte District",
-    "LY-TB": "Tripoli District, Libya",
-    "LY-WA": "Al Wahat District",
-    "LY-WD": "Wadi al Hayaa District",
-    "LY-WS": "Wadi al Shatii District",
-    "LY-ZA": "Zawiya District"
+    "LY-TB": "Tripoli District, Libya"
   },
   "ja": {
-    "LY-BA": "Benghazi",
-    "LY-BU": "Butnan District",
-    "LY-DR": "Derna District",
-    "LY-GT": "Ghat District",
-    "LY-JA": "Jabal al Akhdar",
-    "LY-JG": "Jabal al Gharbi District",
-    "LY-JI": "Jafara",
-    "LY-JU": "Jufra District",
-    "LY-KF": "Kufra District",
-    "LY-MB": "Murqub District",
-    "LY-MI": "Misrata District",
-    "LY-MJ": "Marj District",
-    "LY-MQ": "Murzuq District",
-    "LY-NL": "Nalut District",
-    "LY-NQ": "Nuqat al Khams",
-    "LY-SB": "Sabha District",
-    "LY-SR": "Sirte District",
-    "LY-TB": "Tripoli District, Libya",
-    "LY-WA": "Al Wahat District",
-    "LY-WD": "Wadi al Hayaa District",
-    "LY-WS": "Wadi al Shatii District",
-    "LY-ZA": "Zawiya District"
+    "LY-TB": "Tripoli District, Libya"
   },
   "ar": {
     "LY-BA": "شعبية بنغازي",
@@ -240,27 +175,6 @@
     "LY-ZA": "Municipalità di Zauia"
   },
   "he": {
-    "LY-BA": "Benghazi",
-    "LY-BU": "Butnan District",
-    "LY-DR": "Derna District",
-    "LY-GT": "Ghat District",
-    "LY-JA": "Jabal al Akhdar",
-    "LY-JG": "Jabal al Gharbi District",
-    "LY-JI": "Jafara",
-    "LY-JU": "Jufra District",
-    "LY-KF": "Kufra District",
-    "LY-MB": "Murqub District",
-    "LY-MI": "Misrata District",
-    "LY-MJ": "Marj District",
-    "LY-MQ": "Murzuq District",
-    "LY-NL": "Nalut District",
-    "LY-NQ": "Nuqat al Khams",
-    "LY-SB": "Sabha District",
-    "LY-SR": "Sirte District",
-    "LY-TB": "Tripoli District, Libya",
-    "LY-WA": "Al Wahat District",
-    "LY-WD": "Wadi al Hayaa District",
-    "LY-WS": "Wadi al Shatii District",
-    "LY-ZA": "Zawiya District"
+    "LY-TB": "Tripoli District, Libya"
   }
 }

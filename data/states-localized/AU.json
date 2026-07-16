@@ -10,33 +10,21 @@
     "AU-WA": "Западная Австралия"
   },
   "de": {
-    "AU-ACT": "Australian Capital Territory",
-    "AU-NSW": "New South Wales",
-    "AU-NT": "Northern Territory",
-    "AU-QLD": "Queensland",
-    "AU-SA": "South Australia",
-    "AU-TAS": "Tasmanien",
-    "AU-VIC": "Victoria",
-    "AU-WA": "Western Australia"
+    "AU-TAS": "Tasmanien"
   },
   "fr": {
     "AU-ACT": "Territoire de la capitale australienne",
     "AU-NSW": "Nouvelle-Galles du Sud",
     "AU-NT": "Territoire du Nord",
-    "AU-QLD": "Queensland",
     "AU-SA": "Australie-Méridionale",
     "AU-TAS": "Tasmanie",
-    "AU-VIC": "Victoria",
     "AU-WA": "Australie-Occidentale"
   },
   "es": {
     "AU-ACT": "Territorio de la Capital Australiana",
     "AU-NSW": "Nueva Gales del Sur",
     "AU-NT": "Territorio del Norte",
-    "AU-QLD": "Queensland",
     "AU-SA": "Australia Meridional",
-    "AU-TAS": "Tasmania",
-    "AU-VIC": "Victoria",
     "AU-WA": "Australia Occidental"
   },
   "zh": {
@@ -49,38 +37,7 @@
     "AU-VIC": "維多利亞州",
     "AU-WA": "西澳大利亚州"
   },
-  "hi": {
-    "AU-ACT": "Australian Capital Territory",
-    "AU-NSW": "New South Wales",
-    "AU-NT": "Northern Territory",
-    "AU-QLD": "Queensland",
-    "AU-SA": "South Australia",
-    "AU-TAS": "Tasmania",
-    "AU-VIC": "Victoria",
-    "AU-WA": "Western Australia"
-  },
-  "pt": {
-    "AU-ACT": "Australian Capital Territory",
-    "AU-NSW": "New South Wales",
-    "AU-NT": "Northern Territory",
-    "AU-QLD": "Queensland",
-    "AU-SA": "South Australia",
-    "AU-TAS": "Tasmania",
-    "AU-VIC": "Victoria",
-    "AU-WA": "Western Australia"
-  },
-  "ja": {
-    "AU-ACT": "Australian Capital Territory",
-    "AU-NSW": "New South Wales",
-    "AU-NT": "Northern Territory",
-    "AU-QLD": "Queensland",
-    "AU-SA": "South Australia",
-    "AU-TAS": "Tasmania",
-    "AU-VIC": "Victoria",
-    "AU-WA": "Western Australia"
-  },
   "ar": {
-    "AU-ACT": "Australian Capital Territory",
     "AU-NSW": "نيوساوث ويلز",
     "AU-NT": "إقليم شمالي",
     "AU-QLD": "كوينزلاند",
@@ -93,20 +50,7 @@
     "AU-ACT": "Territorio della Capitale Australiana",
     "AU-NSW": "Nuovo Galles del Sud",
     "AU-NT": "Territorio del Nord",
-    "AU-QLD": "Queensland",
     "AU-SA": "Australia Meridionale",
-    "AU-TAS": "Tasmania",
-    "AU-VIC": "Victoria",
     "AU-WA": "Australia Occidentale"
-  },
-  "he": {
-    "AU-ACT": "Australian Capital Territory",
-    "AU-NSW": "New South Wales",
-    "AU-NT": "Northern Territory",
-    "AU-QLD": "Queensland",
-    "AU-SA": "South Australia",
-    "AU-TAS": "Tasmania",
-    "AU-VIC": "Victoria",
-    "AU-WA": "Western Australia"
   }
 }

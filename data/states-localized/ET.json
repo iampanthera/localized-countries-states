@@ -17,7 +17,6 @@
     "ET-AF": "Afar",
     "ET-AM": "Amhara",
     "ET-BE": "Benishangul-Gumuz",
-    "ET-DD": "Dire Dawa",
     "ET-GA": "Gambela",
     "ET-HA": "Harar",
     "ET-OR": "Oromia",
@@ -30,7 +29,6 @@
     "ET-AF": "Afar",
     "ET-AM": "Amhara",
     "ET-BE": "Benishangul-Gumuz",
-    "ET-DD": "Dire Dawa",
     "ET-GA": "Gambela",
     "ET-HA": "Région Harar",
     "ET-OR": "Oromia",
@@ -43,12 +41,10 @@
     "ET-AF": "Afar",
     "ET-AM": "Región de Amhara",
     "ET-BE": "Benishangul-Gumaz",
-    "ET-DD": "Dire Dawa",
     "ET-GA": "Gambela",
     "ET-HA": "Región Harar",
     "ET-OR": "Oromía",
     "ET-SN": "Naciones",
-    "ET-SO": "Somali Region",
     "ET-TI": "Tigray"
   },
   "zh": {
@@ -65,47 +61,16 @@
     "ET-TI": "提格里州"
   },
   "hi": {
-    "ET-AA": "Addis Ababa",
-    "ET-AF": "Afar Region",
-    "ET-AM": "Amhara Region",
-    "ET-BE": "Benishangul-Gumuz Region",
-    "ET-DD": "Dire Dawa",
-    "ET-GA": "Gambela Region",
-    "ET-HA": "Harari Region",
-    "ET-OR": "Oromia Region",
-    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region",
-    "ET-SO": "Somali Region",
-    "ET-TI": "Tigray Region"
+    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region"
   },
   "pt": {
-    "ET-AA": "Addis Ababa",
-    "ET-AF": "Afar Region",
-    "ET-AM": "Amhara Region",
-    "ET-BE": "Benishangul-Gumuz Region",
-    "ET-DD": "Dire Dawa",
-    "ET-GA": "Gambela Region",
-    "ET-HA": "Harari Region",
-    "ET-OR": "Oromia Region",
-    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region",
-    "ET-SO": "Somali Region",
-    "ET-TI": "Tigray Region"
+    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region"
   },
   "ja": {
-    "ET-AA": "Addis Ababa",
-    "ET-AF": "Afar Region",
-    "ET-AM": "Amhara Region",
-    "ET-BE": "Benishangul-Gumuz Region",
-    "ET-DD": "Dire Dawa",
-    "ET-GA": "Gambela Region",
-    "ET-HA": "Harari Region",
-    "ET-OR": "Oromia Region",
-    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region",
-    "ET-SO": "Somali Region",
-    "ET-TI": "Tigray Region"
+    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region"
   },
   "ar": {
     "ET-AA": "أديس أبابا",
-    "ET-AF": "Afar Region",
     "ET-AM": "أمهرة",
     "ET-BE": "بنيشنقول-قماز",
     "ET-DD": "ديرة داوا",
@@ -130,16 +95,6 @@
     "ET-TI": "Regione dei Tigrè"
   },
   "he": {
-    "ET-AA": "Addis Ababa",
-    "ET-AF": "Afar Region",
-    "ET-AM": "Amhara Region",
-    "ET-BE": "Benishangul-Gumuz Region",
-    "ET-DD": "Dire Dawa",
-    "ET-GA": "Gambela Region",
-    "ET-HA": "Harari Region",
-    "ET-OR": "Oromia Region",
-    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region",
-    "ET-SO": "Somali Region",
-    "ET-TI": "Tigray Region"
+    "ET-SN": "Southern Nations, Nationalities, and Peoples' Region"
   }
 }

@@ -9,93 +9,32 @@
     "QA-ZA": "Эд-Дайиан"
   },
   "de": {
-    "QA-DA": "Doha",
-    "QA-KH": "Al Khor",
     "QA-MS": "Asch-Schamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
     "QA-WA": "Al-Wakra",
     "QA-ZA": "Ad-Daʿayan"
   },
   "fr": {
     "QA-DA": "Ad Dawhah",
     "QA-KH": "Al Khawr",
-    "QA-MS": "Ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
+    "QA-MS": "Ash Shamal"
   },
   "es": {
-    "QA-DA": "Doha",
-    "QA-KH": "Jor",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
+    "QA-KH": "Jor"
   },
   "zh": {
     "QA-DA": "多哈",
-    "QA-KH": "Al Khor",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "沃克拉",
-    "QA-ZA": "Al Daayen"
-  },
-  "hi": {
-    "QA-DA": "Doha",
-    "QA-KH": "Al Khor",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
-  },
-  "pt": {
-    "QA-DA": "Doha",
-    "QA-KH": "Al Khor",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
-  },
-  "ja": {
-    "QA-DA": "Doha",
-    "QA-KH": "Al Khor",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
+    "QA-WA": "沃克拉"
   },
   "ar": {
     "QA-DA": "بلدية الدوحة",
     "QA-KH": "الخور والدخيرة",
     "QA-MS": "بلدية الشمال",
-    "QA-RA": "Ar Rayyān",
     "QA-US": "بلدية أم صلال",
     "QA-WA": "الوكرة",
     "QA-ZA": "بلدية الضعاين"
   },
   "it": {
     "QA-DA": "Ad Dawhah",
-    "QA-KH": "Al Khawr",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
-  },
-  "he": {
-    "QA-DA": "Doha",
-    "QA-KH": "Al Khor",
-    "QA-MS": "Madinat ash Shamal",
-    "QA-RA": "Ar Rayyān",
-    "QA-US": "Umm Salal",
-    "QA-WA": "Al Wakrah",
-    "QA-ZA": "Al Daayen"
+    "QA-KH": "Al Khawr"
   }
 }

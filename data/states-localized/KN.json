@@ -79,69 +79,8 @@
     "KN-13": "聖托馬斯米德艾蘭區",
     "KN-15": "特立尼提帕美托角區"
   },
-  "hi": {
-    "KN-01": "Christ Church Nichola Town Parish",
-    "KN-02": "Saint Anne Sandy Point Parish",
-    "KN-03": "Saint George Basseterre Parish",
-    "KN-04": "Saint George Gingerland Parish",
-    "KN-05": "Saint James Windward Parish",
-    "KN-06": "Saint John Capisterre Parish",
-    "KN-07": "Saint John Figtree Parish",
-    "KN-08": "Saint Mary Cayon Parish",
-    "KN-09": "Saint Paul Capisterre Parish",
-    "KN-10": "Saint Paul Charlestown Parish",
-    "KN-11": "Saint Peter Basseterre Parish",
-    "KN-12": "Saint Thomas Lowland Parish",
-    "KN-13": "Saint Thomas Middle Island Parish",
-    "KN-15": "Trinity Palmetto Point Parish"
-  },
-  "pt": {
-    "KN-01": "Christ Church Nichola Town Parish",
-    "KN-02": "Saint Anne Sandy Point Parish",
-    "KN-03": "Saint George Basseterre Parish",
-    "KN-04": "Saint George Gingerland Parish",
-    "KN-05": "Saint James Windward Parish",
-    "KN-06": "Saint John Capisterre Parish",
-    "KN-07": "Saint John Figtree Parish",
-    "KN-08": "Saint Mary Cayon Parish",
-    "KN-09": "Saint Paul Capisterre Parish",
-    "KN-10": "Saint Paul Charlestown Parish",
-    "KN-11": "Saint Peter Basseterre Parish",
-    "KN-12": "Saint Thomas Lowland Parish",
-    "KN-13": "Saint Thomas Middle Island Parish",
-    "KN-15": "Trinity Palmetto Point Parish"
-  },
-  "ja": {
-    "KN-01": "Christ Church Nichola Town Parish",
-    "KN-02": "Saint Anne Sandy Point Parish",
-    "KN-03": "Saint George Basseterre Parish",
-    "KN-04": "Saint George Gingerland Parish",
-    "KN-05": "Saint James Windward Parish",
-    "KN-06": "Saint John Capisterre Parish",
-    "KN-07": "Saint John Figtree Parish",
-    "KN-08": "Saint Mary Cayon Parish",
-    "KN-09": "Saint Paul Capisterre Parish",
-    "KN-10": "Saint Paul Charlestown Parish",
-    "KN-11": "Saint Peter Basseterre Parish",
-    "KN-12": "Saint Thomas Lowland Parish",
-    "KN-13": "Saint Thomas Middle Island Parish",
-    "KN-15": "Trinity Palmetto Point Parish"
-  },
   "ar": {
-    "KN-01": "Christ Church Nichola Town Parish",
-    "KN-02": "Saint Anne Sandy Point Parish",
-    "KN-03": "Saint George Basseterre Parish",
-    "KN-04": "جينجرلاند",
-    "KN-05": "Saint James Windward Parish",
-    "KN-06": "Saint John Capisterre Parish",
-    "KN-07": "Saint John Figtree Parish",
-    "KN-08": "Saint Mary Cayon Parish",
-    "KN-09": "Saint Paul Capisterre Parish",
-    "KN-10": "Saint Paul Charlestown Parish",
-    "KN-11": "Saint Peter Basseterre Parish",
-    "KN-12": "Saint Thomas Lowland Parish",
-    "KN-13": "Saint Thomas Middle Island Parish",
-    "KN-15": "Trinity Palmetto Point Parish"
+    "KN-04": "جينجرلاند"
   },
   "it": {
     "KN-01": "Parrocchia di Christ Church Nichola Town",
@@ -158,21 +97,5 @@
     "KN-12": "Parrocchia di Saint Thomas Lowland",
     "KN-13": "Parrocchia di Saint Thomas Middle Island",
     "KN-15": "Parrocchia di Trinity Palmetto Point"
-  },
-  "he": {
-    "KN-01": "Christ Church Nichola Town Parish",
-    "KN-02": "Saint Anne Sandy Point Parish",
-    "KN-03": "Saint George Basseterre Parish",
-    "KN-04": "Saint George Gingerland Parish",
-    "KN-05": "Saint James Windward Parish",
-    "KN-06": "Saint John Capisterre Parish",
-    "KN-07": "Saint John Figtree Parish",
-    "KN-08": "Saint Mary Cayon Parish",
-    "KN-09": "Saint Paul Capisterre Parish",
-    "KN-10": "Saint Paul Charlestown Parish",
-    "KN-11": "Saint Peter Basseterre Parish",
-    "KN-12": "Saint Thomas Lowland Parish",
-    "KN-13": "Saint Thomas Middle Island Parish",
-    "KN-15": "Trinity Palmetto Point Parish"
   }
 }

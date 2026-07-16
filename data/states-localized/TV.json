@@ -6,38 +6,13 @@
     "TV-NKL": "Нукулаэлаэ",
     "TV-NMA": "Нанумеа",
     "TV-NMG": "Нануманга",
-    "TV-NUI": "Nui",
     "TV-VAI": "Ваитупу"
   },
   "de": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea-Atoll",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
+    "TV-NMA": "Nanumea-Atoll"
   },
   "fr": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumaga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
-  },
-  "es": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
+    "TV-NMG": "Nanumaga"
   },
   "zh": {
     "TV-FUN": "富纳富提",
@@ -46,67 +21,12 @@
     "TV-NKL": "努庫萊萊環礁",
     "TV-NMA": "納努梅阿環礁",
     "TV-NMG": "纳努曼加岛",
-    "TV-NUI": "Nui",
     "TV-VAI": "婓伊托波"
   },
-  "hi": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
-  },
-  "pt": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
-  },
-  "ja": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
-  },
   "ar": {
-    "TV-FUN": "فونافوتي",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
+    "TV-FUN": "فونافوتي"
   },
   "it": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumaga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
-  },
-  "he": {
-    "TV-FUN": "Funafuti",
-    "TV-NIT": "Niutao",
-    "TV-NKF": "Nukufetau",
-    "TV-NKL": "Nukulaelae",
-    "TV-NMA": "Nanumea",
-    "TV-NMG": "Nanumanga",
-    "TV-NUI": "Nui",
-    "TV-VAI": "Vaitupu"
+    "TV-NMG": "Nanumaga"
   }
 }

@@ -1,134 +1,57 @@
 {
   "ru": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
     "SB-CT": "Столичная территория",
     "SB-GU": "Гуадалканал",
     "SB-IS": "Исабель",
     "SB-MK": "Макира-Улава",
     "SB-ML": "Малаита",
     "SB-RB": "Реннелл и Беллона",
-    "SB-TE": "Темоту",
-    "SB-WE": "Western Province"
+    "SB-TE": "Темоту"
   },
   "de": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
     "SB-CT": "Distrito Capital",
     "SB-GU": "Guadalcanal",
     "SB-IS": "Isabel",
     "SB-MK": "Makira und Ulawa",
     "SB-ML": "Malaita",
     "SB-RB": "Rennell und Bellona",
-    "SB-TE": "Temotu",
-    "SB-WE": "Western Province"
+    "SB-TE": "Temotu"
   },
   "fr": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
-    "SB-CT": "Honiara",
     "SB-GU": "Province de Guadalcanal",
     "SB-IS": "Province d'Isabel",
     "SB-MK": "Province de Makira-Ulawa",
     "SB-ML": "Province de Malaita",
     "SB-RB": "Province de Rennell et Bellona",
-    "SB-TE": "Province de Temotu",
-    "SB-WE": "Western Province"
+    "SB-TE": "Province de Temotu"
   },
   "es": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
     "SB-CT": "Distrito capital",
-    "SB-GU": "Guadalcanal Province",
     "SB-IS": "Isabel",
     "SB-MK": "Makira",
     "SB-ML": "Malaita",
     "SB-RB": "Rennell y Bellona",
-    "SB-TE": "Temotu",
-    "SB-WE": "Western Province"
+    "SB-TE": "Temotu"
   },
   "zh": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
     "SB-CT": "霍尼亚拉",
     "SB-GU": "瓜達爾卡納爾省",
     "SB-IS": "伊莎貝爾省",
     "SB-MK": "馬基拉-烏拉瓦省",
     "SB-ML": "馬萊塔省",
     "SB-RB": "拉納爾和貝羅納省",
-    "SB-TE": "泰莫圖省",
-    "SB-WE": "Western Province"
-  },
-  "hi": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
-    "SB-CT": "Honiara",
-    "SB-GU": "Guadalcanal Province",
-    "SB-IS": "Isabel Province",
-    "SB-MK": "Makira-Ulawa Province",
-    "SB-ML": "Malaita Province",
-    "SB-RB": "Rennell and Bellona Province",
-    "SB-TE": "Temotu Province",
-    "SB-WE": "Western Province"
-  },
-  "pt": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
-    "SB-CT": "Honiara",
-    "SB-GU": "Guadalcanal Province",
-    "SB-IS": "Isabel Province",
-    "SB-MK": "Makira-Ulawa Province",
-    "SB-ML": "Malaita Province",
-    "SB-RB": "Rennell and Bellona Province",
-    "SB-TE": "Temotu Province",
-    "SB-WE": "Western Province"
-  },
-  "ja": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
-    "SB-CT": "Honiara",
-    "SB-GU": "Guadalcanal Province",
-    "SB-IS": "Isabel Province",
-    "SB-MK": "Makira-Ulawa Province",
-    "SB-ML": "Malaita Province",
-    "SB-RB": "Rennell and Bellona Province",
-    "SB-TE": "Temotu Province",
-    "SB-WE": "Western Province"
+    "SB-TE": "泰莫圖省"
   },
   "ar": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
     "SB-CT": "هونيارا",
-    "SB-GU": "Guadalcanal Province",
-    "SB-IS": "Isabel Province",
-    "SB-MK": "Makira-Ulawa Province",
-    "SB-ML": "Malaita Province",
-    "SB-RB": "Rennell and Bellona Province",
-    "SB-TE": "تيموتو",
-    "SB-WE": "Western Province"
+    "SB-TE": "تيموتو"
   },
   "it": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
-    "SB-CT": "Honiara",
     "SB-GU": "Provincia di Guadalcanal",
     "SB-IS": "Provincia di Isabel",
     "SB-MK": "Provincia di Makira-Ulawa",
     "SB-ML": "Provincia di Malaita",
     "SB-RB": "Provincia di Rennell e Bellona",
-    "SB-TE": "Provincia di Temotu",
-    "SB-WE": "Western Province"
-  },
-  "he": {
-    "SB-CE": "Central Province",
-    "SB-CH": "Choiseul",
-    "SB-CT": "Honiara",
-    "SB-GU": "Guadalcanal Province",
-    "SB-IS": "Isabel Province",
-    "SB-MK": "Makira-Ulawa Province",
-    "SB-ML": "Malaita Province",
-    "SB-RB": "Rennell and Bellona Province",
-    "SB-TE": "Temotu Province",
-    "SB-WE": "Western Province"
+    "SB-TE": "Provincia di Temotu"
   }
 }

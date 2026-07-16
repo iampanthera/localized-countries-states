@@ -44,41 +44,13 @@
     "CR-P": "蓬塔雷纳斯省",
     "CR-SJ": "圣何塞省"
   },
-  "hi": {
-    "CR-A": "Alajuela Province",
-    "CR-C": "Cartago Province",
-    "CR-G": "Guanacaste Province",
-    "CR-H": "Heredia Province",
-    "CR-L": "Limón Province",
-    "CR-P": "Puntarenas Province",
-    "CR-SJ": "San José Province"
-  },
-  "pt": {
-    "CR-A": "Alajuela Province",
-    "CR-C": "Cartago Province",
-    "CR-G": "Guanacaste Province",
-    "CR-H": "Heredia Province",
-    "CR-L": "Limón Province",
-    "CR-P": "Puntarenas Province",
-    "CR-SJ": "San José Province"
-  },
-  "ja": {
-    "CR-A": "Alajuela Province",
-    "CR-C": "Cartago Province",
-    "CR-G": "Guanacaste Province",
-    "CR-H": "Heredia Province",
-    "CR-L": "Limón Province",
-    "CR-P": "Puntarenas Province",
-    "CR-SJ": "San José Province"
-  },
   "ar": {
     "CR-A": "الأخويلا",
     "CR-C": "كارتاغو",
     "CR-G": "غواناكاسته",
     "CR-H": "إيريذيا",
     "CR-L": "ليمون",
-    "CR-P": "بونتاريناس",
-    "CR-SJ": "San José Province"
+    "CR-P": "بونتاريناس"
   },
   "it": {
     "CR-A": "Provincia di Alajuela",
@@ -88,14 +60,5 @@
     "CR-L": "Provincia di Limón",
     "CR-P": "Provincia di Puntarenas",
     "CR-SJ": "Provincia di San José"
-  },
-  "he": {
-    "CR-A": "Alajuela Province",
-    "CR-C": "Cartago Province",
-    "CR-G": "Guanacaste Province",
-    "CR-H": "Heredia Province",
-    "CR-L": "Limón Province",
-    "CR-P": "Puntarenas Province",
-    "CR-SJ": "San José Province"
   }
 }

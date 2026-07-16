@@ -64,57 +64,10 @@
     "AM-TV": "塔武什省",
     "AM-VD": "瓦約茨佐爾省"
   },
-  "hi": {
-    "AM-AG": "Aragatsotn Province",
-    "AM-AR": "Ararat Province",
-    "AM-AV": "Armavir Province",
-    "AM-ER": "Yerevan",
-    "AM-GR": "Gegharkunik Province",
-    "AM-KT": "Kotayk Province",
-    "AM-LO": "Lori Province",
-    "AM-SH": "Shirak Province",
-    "AM-SU": "Syunik Province",
-    "AM-TV": "Tavush Province",
-    "AM-VD": "Vayots Dzor Province"
-  },
-  "pt": {
-    "AM-AG": "Aragatsotn Province",
-    "AM-AR": "Ararat Province",
-    "AM-AV": "Armavir Province",
-    "AM-ER": "Yerevan",
-    "AM-GR": "Gegharkunik Province",
-    "AM-KT": "Kotayk Province",
-    "AM-LO": "Lori Province",
-    "AM-SH": "Shirak Province",
-    "AM-SU": "Syunik Province",
-    "AM-TV": "Tavush Province",
-    "AM-VD": "Vayots Dzor Province"
-  },
-  "ja": {
-    "AM-AG": "Aragatsotn Province",
-    "AM-AR": "Ararat Province",
-    "AM-AV": "Armavir Province",
-    "AM-ER": "Yerevan",
-    "AM-GR": "Gegharkunik Province",
-    "AM-KT": "Kotayk Province",
-    "AM-LO": "Lori Province",
-    "AM-SH": "Shirak Province",
-    "AM-SU": "Syunik Province",
-    "AM-TV": "Tavush Province",
-    "AM-VD": "Vayots Dzor Province"
-  },
   "ar": {
     "AM-AG": "آراغاتسوتن",
     "AM-AR": "أرارات",
-    "AM-AV": "Armavir Province",
-    "AM-ER": "يريفان",
-    "AM-GR": "Gegharkunik Province",
-    "AM-KT": "Kotayk Province",
-    "AM-LO": "Lori Province",
-    "AM-SH": "Shirak Province",
-    "AM-SU": "Syunik Province",
-    "AM-TV": "Tavush Province",
-    "AM-VD": "Vayots Dzor Province"
+    "AM-ER": "يريفان"
   },
   "it": {
     "AM-AG": "Aragatsotn",
@@ -128,18 +81,5 @@
     "AM-SU": "Syunik",
     "AM-TV": "Provincia di Tavowš",
     "AM-VD": "Vayots Dzor"
-  },
-  "he": {
-    "AM-AG": "Aragatsotn Province",
-    "AM-AR": "Ararat Province",
-    "AM-AV": "Armavir Province",
-    "AM-ER": "Yerevan",
-    "AM-GR": "Gegharkunik Province",
-    "AM-KT": "Kotayk Province",
-    "AM-LO": "Lori Province",
-    "AM-SH": "Shirak Province",
-    "AM-SU": "Syunik Province",
-    "AM-TV": "Tavush Province",
-    "AM-VD": "Vayots Dzor Province"
   }
 }

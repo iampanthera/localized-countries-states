@@ -8,28 +8,17 @@
     "KW-MU": "Мубарак аль-Кабир"
   },
   "de": {
-    "KW-AH": "Al Ahmadi Governorate",
-    "KW-FA": "Al Farwaniyah Governorate",
-    "KW-HA": "Hawalli Governorate",
-    "KW-JA": "Gouvernement al-Dschahra",
-    "KW-KU": "Al Asimah Governorate",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
+    "KW-JA": "Gouvernement al-Dschahra"
   },
   "fr": {
     "KW-AH": "Al Ahmadi",
-    "KW-FA": "Al Farwaniyah Governorate",
-    "KW-HA": "Hawalli Governorate",
     "KW-JA": "Al Jahra",
-    "KW-KU": "Al Asimah",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
+    "KW-KU": "Al Asimah"
   },
   "es": {
     "KW-AH": "Ahmadí",
-    "KW-FA": "Al Farwaniyah Governorate",
     "KW-HA": "Hawalli",
-    "KW-JA": "Al Jahra Governorate",
-    "KW-KU": "Capital",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
+    "KW-KU": "Capital"
   },
   "zh": {
     "KW-AH": "艾哈迈迪省",
@@ -38,30 +27,6 @@
     "KW-JA": "傑赫拉省",
     "KW-KU": "科威特省",
     "KW-MU": "大穆巴拉克省"
-  },
-  "hi": {
-    "KW-AH": "Al Ahmadi Governorate",
-    "KW-FA": "Al Farwaniyah Governorate",
-    "KW-HA": "Hawalli Governorate",
-    "KW-JA": "Al Jahra Governorate",
-    "KW-KU": "Al Asimah Governorate",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
-  },
-  "pt": {
-    "KW-AH": "Al Ahmadi Governorate",
-    "KW-FA": "Al Farwaniyah Governorate",
-    "KW-HA": "Hawalli Governorate",
-    "KW-JA": "Al Jahra Governorate",
-    "KW-KU": "Al Asimah Governorate",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
-  },
-  "ja": {
-    "KW-AH": "Al Ahmadi Governorate",
-    "KW-FA": "Al Farwaniyah Governorate",
-    "KW-HA": "Hawalli Governorate",
-    "KW-JA": "Al Jahra Governorate",
-    "KW-KU": "Al Asimah Governorate",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
   },
   "ar": {
     "KW-AH": "محافظة الأحمدي",
@@ -78,13 +43,5 @@
     "KW-JA": "Al-Jahra",
     "KW-KU": "Governatorato della Capitale",
     "KW-MU": "Mobarak al-Kabir"
-  },
-  "he": {
-    "KW-AH": "Al Ahmadi Governorate",
-    "KW-FA": "Al Farwaniyah Governorate",
-    "KW-HA": "Hawalli Governorate",
-    "KW-JA": "Al Jahra Governorate",
-    "KW-KU": "Al Asimah Governorate",
-    "KW-MU": "Mubarak Al-Kabeer Governorate"
   }
 }

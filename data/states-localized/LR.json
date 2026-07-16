@@ -17,21 +17,7 @@
     "LR-SI": "Синоэ"
   },
   "de": {
-    "LR-BG": "Bong County",
-    "LR-BM": "Bomi County",
-    "LR-CM": "Grand Cape Mount County",
-    "LR-GB": "Grand Bassa County",
-    "LR-GG": "Grand Gedeh County",
-    "LR-GK": "Grand Kru County",
-    "LR-GP": "Gbarpolu County",
-    "LR-LO": "Lofa County",
-    "LR-MG": "Margibi County",
-    "LR-MO": "Montserrado County",
-    "LR-MY": "Maryland County",
-    "LR-NI": "Nimba County",
-    "LR-RG": "River Gee County",
-    "LR-RI": "River Cess County",
-    "LR-SI": "Sinoe County"
+    "LR-RI": "River Cess County"
   },
   "fr": {
     "LR-BG": "Comté de Bong",
@@ -64,7 +50,6 @@
     "LR-MY": "Condado de Maryland",
     "LR-NI": "Nimba",
     "LR-RG": "River Gee",
-    "LR-RI": "Rivercess County",
     "LR-SI": "Sinoe"
   },
   "zh": {
@@ -84,74 +69,6 @@
     "LR-RI": "里弗塞斯縣",
     "LR-SI": "錫諾縣"
   },
-  "hi": {
-    "LR-BG": "Bong County",
-    "LR-BM": "Bomi County",
-    "LR-CM": "Grand Cape Mount County",
-    "LR-GB": "Grand Bassa County",
-    "LR-GG": "Grand Gedeh County",
-    "LR-GK": "Grand Kru County",
-    "LR-GP": "Gbarpolu County",
-    "LR-LO": "Lofa County",
-    "LR-MG": "Margibi County",
-    "LR-MO": "Montserrado County",
-    "LR-MY": "Maryland County",
-    "LR-NI": "Nimba County",
-    "LR-RG": "River Gee County",
-    "LR-RI": "Rivercess County",
-    "LR-SI": "Sinoe County"
-  },
-  "pt": {
-    "LR-BG": "Bong County",
-    "LR-BM": "Bomi County",
-    "LR-CM": "Grand Cape Mount County",
-    "LR-GB": "Grand Bassa County",
-    "LR-GG": "Grand Gedeh County",
-    "LR-GK": "Grand Kru County",
-    "LR-GP": "Gbarpolu County",
-    "LR-LO": "Lofa County",
-    "LR-MG": "Margibi County",
-    "LR-MO": "Montserrado County",
-    "LR-MY": "Maryland County",
-    "LR-NI": "Nimba County",
-    "LR-RG": "River Gee County",
-    "LR-RI": "Rivercess County",
-    "LR-SI": "Sinoe County"
-  },
-  "ja": {
-    "LR-BG": "Bong County",
-    "LR-BM": "Bomi County",
-    "LR-CM": "Grand Cape Mount County",
-    "LR-GB": "Grand Bassa County",
-    "LR-GG": "Grand Gedeh County",
-    "LR-GK": "Grand Kru County",
-    "LR-GP": "Gbarpolu County",
-    "LR-LO": "Lofa County",
-    "LR-MG": "Margibi County",
-    "LR-MO": "Montserrado County",
-    "LR-MY": "Maryland County",
-    "LR-NI": "Nimba County",
-    "LR-RG": "River Gee County",
-    "LR-RI": "Rivercess County",
-    "LR-SI": "Sinoe County"
-  },
-  "ar": {
-    "LR-BG": "Bong County",
-    "LR-BM": "Bomi County",
-    "LR-CM": "Grand Cape Mount County",
-    "LR-GB": "Grand Bassa County",
-    "LR-GG": "Grand Gedeh County",
-    "LR-GK": "Grand Kru County",
-    "LR-GP": "Gbarpolu County",
-    "LR-LO": "Lofa County",
-    "LR-MG": "Margibi County",
-    "LR-MO": "Montserrado County",
-    "LR-MY": "Maryland County",
-    "LR-NI": "Nimba County",
-    "LR-RG": "River Gee County",
-    "LR-RI": "Rivercess County",
-    "LR-SI": "Sinoe County"
-  },
   "it": {
     "LR-BG": "Contea di Bong",
     "LR-BM": "Contea di Bomi",
@@ -168,22 +85,5 @@
     "LR-RG": "Contea di River Gee",
     "LR-RI": "Contea di River Cess",
     "LR-SI": "Contea di Sinoe"
-  },
-  "he": {
-    "LR-BG": "Bong County",
-    "LR-BM": "Bomi County",
-    "LR-CM": "Grand Cape Mount County",
-    "LR-GB": "Grand Bassa County",
-    "LR-GG": "Grand Gedeh County",
-    "LR-GK": "Grand Kru County",
-    "LR-GP": "Gbarpolu County",
-    "LR-LO": "Lofa County",
-    "LR-MG": "Margibi County",
-    "LR-MO": "Montserrado County",
-    "LR-MY": "Maryland County",
-    "LR-NI": "Nimba County",
-    "LR-RG": "River Gee County",
-    "LR-RI": "Rivercess County",
-    "LR-SI": "Sinoe County"
   }
 }

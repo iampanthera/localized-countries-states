@@ -4,11 +4,6 @@
     "GL-QE": "Кекката",
     "GL-SM": "Сермерсоок"
   },
-  "de": {
-    "GL-KU": "Kommune Kujalleq",
-    "GL-QE": "Qeqqata Kommunia",
-    "GL-SM": "Kommuneqarfik Sermersooq"
-  },
   "fr": {
     "GL-KU": "Kujalleq",
     "GL-QE": "Qeqqata",
@@ -20,38 +15,14 @@
     "GL-SM": "Sermersooq"
   },
   "zh": {
-    "GL-KU": "库雅雷哥",
-    "GL-QE": "Qeqqata Kommunia",
-    "GL-SM": "Kommuneqarfik Sermersooq"
-  },
-  "hi": {
-    "GL-KU": "Kommune Kujalleq",
-    "GL-QE": "Qeqqata Kommunia",
-    "GL-SM": "Kommuneqarfik Sermersooq"
-  },
-  "pt": {
-    "GL-KU": "Kommune Kujalleq",
-    "GL-QE": "Qeqqata Kommunia",
-    "GL-SM": "Kommuneqarfik Sermersooq"
-  },
-  "ja": {
-    "GL-KU": "Kommune Kujalleq",
-    "GL-QE": "Qeqqata Kommunia",
-    "GL-SM": "Kommuneqarfik Sermersooq"
+    "GL-KU": "库雅雷哥"
   },
   "ar": {
-    "GL-KU": "Kommune Kujalleq",
-    "GL-QE": "كيكاتا",
-    "GL-SM": "Kommuneqarfik Sermersooq"
+    "GL-QE": "كيكاتا"
   },
   "it": {
     "GL-KU": "Kujalleq",
     "GL-QE": "Qeqqata",
     "GL-SM": "Sermersooq"
-  },
-  "he": {
-    "GL-KU": "Kommune Kujalleq",
-    "GL-QE": "Qeqqata Kommunia",
-    "GL-SM": "Kommuneqarfik Sermersooq"
   }
 }

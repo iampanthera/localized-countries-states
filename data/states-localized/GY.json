@@ -11,39 +11,15 @@
     "GY-UD": "Верхний Демерара-Бербайс",
     "GY-UT": "Верхний Такуту-Верхний Эссекуибо"
   },
-  "de": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
-    "GY-EB": "East Berbice-Corentyne",
-    "GY-ES": "Essequibo Islands-West Demerara",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
-    "GY-UD": "Upper Demerara-Berbice",
-    "GY-UT": "Upper Takutu-Upper Essequibo"
-  },
   "fr": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
     "GY-EB": "Berbice Oriental-Courantyne",
     "GY-ES": "Îles d'Essequibo-Demerara Occidental",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
     "GY-UD": "Haut-Demerara-Berbice",
     "GY-UT": "Haut-Takutu-Haut-Essequibo"
   },
   "es": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
     "GY-EB": "Berbice Oriental-Corentyne",
     "GY-ES": "Islas Esequibo-Demerara Occidental",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
     "GY-UD": "Alto Demerara-Berbice",
     "GY-UT": "Alto Tacutu-Alto Esequibo"
   },
@@ -59,76 +35,10 @@
     "GY-UD": "上德梅拉拉-伯比斯區",
     "GY-UT": "上塔库图-上埃塞奎博"
   },
-  "hi": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
-    "GY-EB": "East Berbice-Corentyne",
-    "GY-ES": "Essequibo Islands-West Demerara",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
-    "GY-UD": "Upper Demerara-Berbice",
-    "GY-UT": "Upper Takutu-Upper Essequibo"
-  },
-  "pt": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
-    "GY-EB": "East Berbice-Corentyne",
-    "GY-ES": "Essequibo Islands-West Demerara",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
-    "GY-UD": "Upper Demerara-Berbice",
-    "GY-UT": "Upper Takutu-Upper Essequibo"
-  },
-  "ja": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
-    "GY-EB": "East Berbice-Corentyne",
-    "GY-ES": "Essequibo Islands-West Demerara",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
-    "GY-UD": "Upper Demerara-Berbice",
-    "GY-UT": "Upper Takutu-Upper Essequibo"
-  },
-  "ar": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
-    "GY-EB": "East Berbice-Corentyne",
-    "GY-ES": "Essequibo Islands-West Demerara",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
-    "GY-UD": "Upper Demerara-Berbice",
-    "GY-UT": "Upper Takutu-Upper Essequibo"
-  },
   "it": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
     "GY-EB": "Berbice Orientale-Corentyne",
     "GY-ES": "Isole Essequibo-Demerara Occidentale",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
     "GY-UD": "Alto Demerara-Berbice",
     "GY-UT": "Alto Takutu-Alto Essequibo"
-  },
-  "he": {
-    "GY-BA": "Barima-Waini",
-    "GY-CU": "Cuyuni-Mazaruni",
-    "GY-DE": "Demerara-Mahaica",
-    "GY-EB": "East Berbice-Corentyne",
-    "GY-ES": "Essequibo Islands-West Demerara",
-    "GY-MA": "Mahaica-Berbice",
-    "GY-PM": "Pomeroon-Supenaam",
-    "GY-PT": "Potaro-Siparuni",
-    "GY-UD": "Upper Demerara-Berbice",
-    "GY-UT": "Upper Takutu-Upper Essequibo"
   }
 }

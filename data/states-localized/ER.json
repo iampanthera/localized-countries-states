@@ -39,37 +39,9 @@
     "ER-MA": "中部區",
     "ER-SK": "北紅海區"
   },
-  "hi": {
-    "ER-AN": "Anseba Region",
-    "ER-DK": "Southern Red Sea Region",
-    "ER-DU": "Debub Region",
-    "ER-GB": "Gash-Barka Region",
-    "ER-MA": "Maekel Region",
-    "ER-SK": "Northern Red Sea Region"
-  },
-  "pt": {
-    "ER-AN": "Anseba Region",
-    "ER-DK": "Southern Red Sea Region",
-    "ER-DU": "Debub Region",
-    "ER-GB": "Gash-Barka Region",
-    "ER-MA": "Maekel Region",
-    "ER-SK": "Northern Red Sea Region"
-  },
-  "ja": {
-    "ER-AN": "Anseba Region",
-    "ER-DK": "Southern Red Sea Region",
-    "ER-DU": "Debub Region",
-    "ER-GB": "Gash-Barka Region",
-    "ER-MA": "Maekel Region",
-    "ER-SK": "Northern Red Sea Region"
-  },
   "ar": {
     "ER-AN": "إقليم أنسبا",
-    "ER-DK": "Southern Red Sea Region",
-    "ER-DU": "Debub Region",
-    "ER-GB": "Gash-Barka Region",
-    "ER-MA": "المنطقة المركزية",
-    "ER-SK": "Northern Red Sea Region"
+    "ER-MA": "المنطقة المركزية"
   },
   "it": {
     "ER-AN": "Regione dell'Anseba",
@@ -78,13 +50,5 @@
     "ER-GB": "Regione di Gasc-Barca",
     "ER-MA": "Regione Centrale",
     "ER-SK": "Regione del Mar Rosso Settentrionale"
-  },
-  "he": {
-    "ER-AN": "Anseba Region",
-    "ER-DK": "Southern Red Sea Region",
-    "ER-DU": "Debub Region",
-    "ER-GB": "Gash-Barka Region",
-    "ER-MA": "Maekel Region",
-    "ER-SK": "Northern Red Sea Region"
   }
 }

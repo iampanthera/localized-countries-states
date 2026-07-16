@@ -15,9 +15,7 @@
     "AG-05": "Saint Mary Parish, Antigua and Barbuda",
     "AG-06": "Saint Paul Parish, Antigua and Barbuda",
     "AG-07": "Saint Peter Parish, Antigua and Barbuda",
-    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda"
   },
   "fr": {
     "AG-03": "Saint-George",
@@ -25,9 +23,7 @@
     "AG-05": "Saint-Mary",
     "AG-06": "Saint-Paul",
     "AG-07": "Saint-Peter",
-    "AG-08": "Saint-Philip",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint-Philip"
   },
   "es": {
     "AG-03": "Parroquia de Saint George",
@@ -36,7 +32,6 @@
     "AG-06": "Parroquia de Saint Paul",
     "AG-07": "Parroquia de Saint Peter",
     "AG-08": "Parroquia de Saint Philip",
-    "AG-10": "Barbuda",
     "AG-11": "Isla Redonda"
   },
   "zh": {
@@ -55,9 +50,7 @@
     "AG-05": "Saint Mary Parish, Antigua and Barbuda",
     "AG-06": "Saint Paul Parish, Antigua and Barbuda",
     "AG-07": "Saint Peter Parish, Antigua and Barbuda",
-    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda"
   },
   "pt": {
     "AG-03": "Saint George Parish, Antigua and Barbuda",
@@ -65,9 +58,7 @@
     "AG-05": "Saint Mary Parish, Antigua and Barbuda",
     "AG-06": "Saint Paul Parish, Antigua and Barbuda",
     "AG-07": "Saint Peter Parish, Antigua and Barbuda",
-    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda"
   },
   "ja": {
     "AG-03": "Saint George Parish, Antigua and Barbuda",
@@ -75,9 +66,7 @@
     "AG-05": "Saint Mary Parish, Antigua and Barbuda",
     "AG-06": "Saint Paul Parish, Antigua and Barbuda",
     "AG-07": "Saint Peter Parish, Antigua and Barbuda",
-    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda"
   },
   "ar": {
     "AG-03": "Saint George Parish, Antigua and Barbuda",
@@ -85,9 +74,7 @@
     "AG-05": "Saint Mary Parish, Antigua and Barbuda",
     "AG-06": "Saint Paul Parish, Antigua and Barbuda",
     "AG-07": "Saint Peter Parish, Antigua and Barbuda",
-    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda"
   },
   "it": {
     "AG-03": "Saint George",
@@ -95,9 +82,7 @@
     "AG-05": "Saint Mary",
     "AG-06": "Saint Paul",
     "AG-07": "Saint Peter",
-    "AG-08": "Saint Philip",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip"
   },
   "he": {
     "AG-03": "Saint George Parish, Antigua and Barbuda",
@@ -105,8 +90,6 @@
     "AG-05": "Saint Mary Parish, Antigua and Barbuda",
     "AG-06": "Saint Paul Parish, Antigua and Barbuda",
     "AG-07": "Saint Peter Parish, Antigua and Barbuda",
-    "AG-08": "Saint Philip Parish, Antigua and Barbuda",
-    "AG-10": "Barbuda",
-    "AG-11": "Redonda"
+    "AG-08": "Saint Philip Parish, Antigua and Barbuda"
   }
 }

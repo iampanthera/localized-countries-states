@@ -6,25 +6,16 @@
     "FJ-R": "Ротума",
     "FJ-W": "Западный округ"
   },
-  "de": {
-    "FJ-C": "Central Division",
-    "FJ-E": "Eastern Division",
-    "FJ-N": "Northern Division",
-    "FJ-R": "Rotuma",
-    "FJ-W": "Western Division"
-  },
   "fr": {
     "FJ-C": "Division centrale",
     "FJ-E": "Division orientale",
     "FJ-N": "Division septentrionale",
-    "FJ-R": "Rotuma",
     "FJ-W": "Division occidentale"
   },
   "es": {
     "FJ-C": "División Central",
     "FJ-E": "División Este",
     "FJ-N": "División Norte",
-    "FJ-R": "Rotuma",
     "FJ-W": "División Oeste"
   },
   "zh": {
@@ -38,42 +29,36 @@
     "FJ-C": "Central Division, Fiji",
     "FJ-E": "Eastern Division, Fiji",
     "FJ-N": "Northern Division, Fiji",
-    "FJ-R": "Rotuma",
     "FJ-W": "Western Division, Fiji"
   },
   "pt": {
     "FJ-C": "Central Division, Fiji",
     "FJ-E": "Eastern Division, Fiji",
     "FJ-N": "Northern Division, Fiji",
-    "FJ-R": "Rotuma",
     "FJ-W": "Western Division, Fiji"
   },
   "ja": {
     "FJ-C": "Central Division, Fiji",
     "FJ-E": "Eastern Division, Fiji",
     "FJ-N": "Northern Division, Fiji",
-    "FJ-R": "Rotuma",
     "FJ-W": "Western Division, Fiji"
   },
   "ar": {
     "FJ-C": "Central Division, Fiji",
     "FJ-E": "Eastern Division, Fiji",
     "FJ-N": "Northern Division, Fiji",
-    "FJ-R": "Rotuma",
     "FJ-W": "Western Division, Fiji"
   },
   "it": {
     "FJ-C": "Divisione Centrale",
     "FJ-E": "Divisione Orientale",
     "FJ-N": "Divisione Nord",
-    "FJ-R": "Rotuma",
     "FJ-W": "Divisione Occidentale"
   },
   "he": {
     "FJ-C": "Central Division, Fiji",
     "FJ-E": "Eastern Division, Fiji",
     "FJ-N": "Northern Division, Fiji",
-    "FJ-R": "Rotuma",
     "FJ-W": "Western Division, Fiji"
   }
 }

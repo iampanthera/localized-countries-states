@@ -11,37 +11,13 @@
     "SM-09": "Серравалле"
   },
   "de": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
+    "SM-07": "San Marino"
   },
   "fr": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "Saint-Marin",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
+    "SM-07": "Saint-Marin"
   },
   "es": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
+    "SM-07": "San Marino"
   },
   "zh": {
     "SM-01": "阿夸维瓦",
@@ -54,70 +30,11 @@
     "SM-08": "蒙泰吉阿迪诺",
     "SM-09": "塞拉瓦莱"
   },
-  "hi": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "City of San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
-  },
-  "pt": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "City of San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
-  },
-  "ja": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "City of San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
-  },
   "ar": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
     "SM-07": "سان مارينو",
-    "SM-08": "Montegiardino",
     "SM-09": "سيرافاللي"
   },
   "it": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
-  },
-  "he": {
-    "SM-01": "Acquaviva",
-    "SM-02": "Chiesanuova",
-    "SM-03": "Domagnano",
-    "SM-04": "Faetano",
-    "SM-05": "Fiorentino",
-    "SM-06": "Borgo Maggiore",
-    "SM-07": "City of San Marino",
-    "SM-08": "Montegiardino",
-    "SM-09": "Serravalle"
+    "SM-07": "San Marino"
   }
 }

@@ -53,7 +53,6 @@
     "CZ-53": "Región de Pardubice",
     "CZ-63": "Región de Vysočina",
     "CZ-64": "Región de Moravia Meridional",
-    "CZ-712": "Olomouc District",
     "CZ-80": "Región de Moravia-Silesia"
   },
   "zh": {
@@ -67,63 +66,10 @@
     "CZ-53": "帕爾杜比采州",
     "CZ-63": "維索基納州",
     "CZ-64": "南摩拉維亞州",
-    "CZ-712": "Olomouc District",
     "CZ-80": "摩拉維亞-西里西亞州"
   },
-  "hi": {
-    "CZ-20": "Central Bohemian Region",
-    "CZ-31": "South Bohemian Region",
-    "CZ-32": "Plzeň Region",
-    "CZ-41": "Karlovy Vary Region",
-    "CZ-42": "Ústí nad Labem Region",
-    "CZ-51": "Liberec Region",
-    "CZ-52": "Hradec Králové Region",
-    "CZ-53": "Pardubice Region",
-    "CZ-63": "Vysočina Region",
-    "CZ-64": "South Moravian Region",
-    "CZ-712": "Olomouc District",
-    "CZ-80": "Moravian-Silesian Region"
-  },
-  "pt": {
-    "CZ-20": "Central Bohemian Region",
-    "CZ-31": "South Bohemian Region",
-    "CZ-32": "Plzeň Region",
-    "CZ-41": "Karlovy Vary Region",
-    "CZ-42": "Ústí nad Labem Region",
-    "CZ-51": "Liberec Region",
-    "CZ-52": "Hradec Králové Region",
-    "CZ-53": "Pardubice Region",
-    "CZ-63": "Vysočina Region",
-    "CZ-64": "South Moravian Region",
-    "CZ-712": "Olomouc District",
-    "CZ-80": "Moravian-Silesian Region"
-  },
-  "ja": {
-    "CZ-20": "Central Bohemian Region",
-    "CZ-31": "South Bohemian Region",
-    "CZ-32": "Plzeň Region",
-    "CZ-41": "Karlovy Vary Region",
-    "CZ-42": "Ústí nad Labem Region",
-    "CZ-51": "Liberec Region",
-    "CZ-52": "Hradec Králové Region",
-    "CZ-53": "Pardubice Region",
-    "CZ-63": "Vysočina Region",
-    "CZ-64": "South Moravian Region",
-    "CZ-712": "Olomouc District",
-    "CZ-80": "Moravian-Silesian Region"
-  },
   "ar": {
-    "CZ-20": "Central Bohemian Region",
-    "CZ-31": "South Bohemian Region",
-    "CZ-32": "Plzeň Region",
-    "CZ-41": "Karlovy Vary Region",
-    "CZ-42": "Ústí nad Labem Region",
-    "CZ-51": "Liberec Region",
-    "CZ-52": "Hradec Králové Region",
-    "CZ-53": "Pardubice Region",
-    "CZ-63": "Vysočina Region",
     "CZ-64": "محافظة مورافيا الجنوبية",
-    "CZ-712": "Olomouc District",
     "CZ-72": "زلين",
     "CZ-80": "محافظة مورافيا-سيليزيا"
   },
@@ -140,19 +86,5 @@
     "CZ-64": "Moravia meridionale",
     "CZ-712": "Distretto di Olomouc",
     "CZ-80": "Regione di Moravia-Slesia"
-  },
-  "he": {
-    "CZ-20": "Central Bohemian Region",
-    "CZ-31": "South Bohemian Region",
-    "CZ-32": "Plzeň Region",
-    "CZ-41": "Karlovy Vary Region",
-    "CZ-42": "Ústí nad Labem Region",
-    "CZ-51": "Liberec Region",
-    "CZ-52": "Hradec Králové Region",
-    "CZ-53": "Pardubice Region",
-    "CZ-63": "Vysočina Region",
-    "CZ-64": "South Moravian Region",
-    "CZ-712": "Olomouc District",
-    "CZ-80": "Moravian-Silesian Region"
   }
 }

@@ -6,15 +6,11 @@
     "MR-04": "Горголь",
     "MR-05": "Бракна",
     "MR-06": "Трарза",
-    "MR-07": "Adrar",
     "MR-08": "Дахлет-Нуадибу",
     "MR-09": "Тагант",
     "MR-10": "Кудимага",
     "MR-11": "Тирис-Земмур",
-    "MR-12": "Иншири",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "Иншири"
   },
   "de": {
     "MR-01": "Hodh Ech Chargui",
@@ -23,15 +19,11 @@
     "MR-04": "Gorgol",
     "MR-05": "Brakna",
     "MR-06": "Trarza",
-    "MR-07": "Adrar",
     "MR-08": "Dakhlet Nouadhibou",
     "MR-09": "Tagant",
     "MR-10": "Guidimaka",
     "MR-11": "Tiris Zemmour",
-    "MR-12": "Inchiri",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "Inchiri"
   },
   "fr": {
     "MR-01": "Hodh Ech Chargui",
@@ -40,15 +32,11 @@
     "MR-04": "Gorgol",
     "MR-05": "Brakna",
     "MR-06": "Trarza",
-    "MR-07": "Adrar",
     "MR-08": "Dakhlet Nouadhibou",
     "MR-09": "Tagant",
     "MR-10": "Guidimakha",
     "MR-11": "Tiris Zemmour",
-    "MR-12": "Inchiri",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "Inchiri"
   },
   "es": {
     "MR-01": "Hod Oriental",
@@ -57,15 +45,11 @@
     "MR-04": "Gorgol",
     "MR-05": "Brakna",
     "MR-06": "Trarza",
-    "MR-07": "Adrar",
     "MR-08": "Dajlet Nuadibú",
     "MR-09": "Tagant",
     "MR-10": "Guidimaka",
     "MR-11": "Tiris Zemmur",
-    "MR-12": "Inchiri",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "Inchiri"
   },
   "zh": {
     "MR-01": "東胡德省",
@@ -74,66 +58,11 @@
     "MR-04": "戈爾戈勒省",
     "MR-05": "卜拉克納省",
     "MR-06": "特拉扎省",
-    "MR-07": "Adrar",
     "MR-08": "努瓦迪布灣省",
     "MR-09": "塔甘特省",
     "MR-10": "吉迪馬卡省",
     "MR-11": "提里斯-宰穆爾省",
-    "MR-12": "因希里省",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
-  },
-  "hi": {
-    "MR-01": "Hodh Ech Chargui Region",
-    "MR-02": "Hodh El Gharbi Region",
-    "MR-03": "Assaba Region",
-    "MR-04": "Gorgol Region",
-    "MR-05": "Brakna Region",
-    "MR-06": "Trarza Region",
-    "MR-07": "Adrar",
-    "MR-08": "Dakhlet Nouadhibou Region",
-    "MR-09": "Tagant Region",
-    "MR-10": "Guidimaka Region",
-    "MR-11": "Tiris Zemmour Region",
-    "MR-12": "Inchiri Region",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
-  },
-  "pt": {
-    "MR-01": "Hodh Ech Chargui Region",
-    "MR-02": "Hodh El Gharbi Region",
-    "MR-03": "Assaba Region",
-    "MR-04": "Gorgol Region",
-    "MR-05": "Brakna Region",
-    "MR-06": "Trarza Region",
-    "MR-07": "Adrar",
-    "MR-08": "Dakhlet Nouadhibou Region",
-    "MR-09": "Tagant Region",
-    "MR-10": "Guidimaka Region",
-    "MR-11": "Tiris Zemmour Region",
-    "MR-12": "Inchiri Region",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
-  },
-  "ja": {
-    "MR-01": "Hodh Ech Chargui Region",
-    "MR-02": "Hodh El Gharbi Region",
-    "MR-03": "Assaba Region",
-    "MR-04": "Gorgol Region",
-    "MR-05": "Brakna Region",
-    "MR-06": "Trarza Region",
-    "MR-07": "Adrar",
-    "MR-08": "Dakhlet Nouadhibou Region",
-    "MR-09": "Tagant Region",
-    "MR-10": "Guidimaka Region",
-    "MR-11": "Tiris Zemmour Region",
-    "MR-12": "Inchiri Region",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "因希里省"
   },
   "ar": {
     "MR-01": "ولاية الحوض الشرقي",
@@ -142,15 +71,11 @@
     "MR-04": "ولاية كوركول",
     "MR-05": "ولاية البراكنة",
     "MR-06": "ولاية الترارزة",
-    "MR-07": "Adrar",
     "MR-08": "داخلة نواذيبو",
     "MR-09": "ولاية تكانت",
     "MR-10": "ولاية غيديماغا",
     "MR-11": "ولاية تيرس زمور",
-    "MR-12": "ولاية إينشيري",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "ولاية إينشيري"
   },
   "it": {
     "MR-01": "Regione di Hodh-Charghi",
@@ -159,31 +84,10 @@
     "MR-04": "Regione di Gorgol",
     "MR-05": "Regione di Brakna",
     "MR-06": "Regione di Trarza",
-    "MR-07": "Adrar",
     "MR-08": "Regione di Dakhlet-Nouadhibou",
     "MR-09": "Regione di Tagant",
     "MR-10": "Regione di Guidimagha",
     "MR-11": "Regione di Tiris-Zemmour",
-    "MR-12": "Regione di Inchiri",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
-  },
-  "he": {
-    "MR-01": "Hodh Ech Chargui Region",
-    "MR-02": "Hodh El Gharbi Region",
-    "MR-03": "Assaba Region",
-    "MR-04": "Gorgol Region",
-    "MR-05": "Brakna Region",
-    "MR-06": "Trarza Region",
-    "MR-07": "Adrar",
-    "MR-08": "Dakhlet Nouadhibou Region",
-    "MR-09": "Tagant Region",
-    "MR-10": "Guidimaka Region",
-    "MR-11": "Tiris Zemmour Region",
-    "MR-12": "Inchiri Region",
-    "MR-13": "Nouakchott Ouest",
-    "MR-14": "Nouakchott Nord",
-    "MR-15": "Nouakchott Sud"
+    "MR-12": "Regione di Inchiri"
   }
 }

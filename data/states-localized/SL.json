@@ -1,68 +1,17 @@
 {
   "ru": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
     "SL-W": "Западная область"
   },
   "de": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
     "SL-W": "Western"
   },
-  "fr": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
-    "SL-W": "Western Area"
-  },
   "es": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
     "SL-W": "Área Occidental"
   },
   "zh": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
     "SL-W": "西部區"
   },
-  "hi": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
-    "SL-W": "Western Area"
-  },
-  "pt": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
-    "SL-W": "Western Area"
-  },
-  "ja": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
-    "SL-W": "Western Area"
-  },
-  "ar": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
-    "SL-W": "Western Area"
-  },
   "it": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
     "SL-W": "Area Occidentale"
-  },
-  "he": {
-    "SL-E": "Eastern Province",
-    "SL-N": "Northern Province",
-    "SL-S": "Southern Province",
-    "SL-W": "Western Area"
   }
 }

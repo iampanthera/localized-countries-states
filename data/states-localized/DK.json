@@ -34,33 +34,8 @@
     "DK-84": "首都大区",
     "DK-85": "西兰大区"
   },
-  "hi": {
-    "DK-81": "North Denmark Region",
-    "DK-82": "Central Denmark Region",
-    "DK-83": "Region of Southern Denmark",
-    "DK-84": "Capital Region of Denmark",
-    "DK-85": "Region Zealand"
-  },
-  "pt": {
-    "DK-81": "North Denmark Region",
-    "DK-82": "Central Denmark Region",
-    "DK-83": "Region of Southern Denmark",
-    "DK-84": "Capital Region of Denmark",
-    "DK-85": "Region Zealand"
-  },
-  "ja": {
-    "DK-81": "North Denmark Region",
-    "DK-82": "Central Denmark Region",
-    "DK-83": "Region of Southern Denmark",
-    "DK-84": "Capital Region of Denmark",
-    "DK-85": "Region Zealand"
-  },
   "ar": {
-    "DK-81": "مقاطعة نوردلاند",
-    "DK-82": "Central Denmark Region",
-    "DK-83": "Region of Southern Denmark",
-    "DK-84": "Capital Region of Denmark",
-    "DK-85": "Region Zealand"
+    "DK-81": "مقاطعة نوردلاند"
   },
   "it": {
     "DK-81": "Jutland settentrionale",
@@ -68,12 +43,5 @@
     "DK-83": "Danimarca meridionale",
     "DK-84": "Hovedstaden",
     "DK-85": "Selandia"
-  },
-  "he": {
-    "DK-81": "North Denmark Region",
-    "DK-82": "Central Denmark Region",
-    "DK-83": "Region of Southern Denmark",
-    "DK-84": "Capital Region of Denmark",
-    "DK-85": "Region Zealand"
   }
 }

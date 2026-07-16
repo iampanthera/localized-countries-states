@@ -6,7 +6,6 @@
   },
   "de": {
     "BE-BRU": "Region Brüssel-Hauptstadt",
-    "BE-VLG": "Flemish Region",
     "BE-WAL": "Wallonische Region"
   },
   "fr": {
@@ -24,21 +23,6 @@
     "BE-VLG": "弗拉芒大區",
     "BE-WAL": "瓦隆"
   },
-  "hi": {
-    "BE-BRU": "Brussels",
-    "BE-VLG": "Flemish Region",
-    "BE-WAL": "Wallonia"
-  },
-  "pt": {
-    "BE-BRU": "Brussels",
-    "BE-VLG": "Flemish Region",
-    "BE-WAL": "Wallonia"
-  },
-  "ja": {
-    "BE-BRU": "Brussels",
-    "BE-VLG": "Flemish Region",
-    "BE-WAL": "Wallonia"
-  },
   "ar": {
     "BE-BRU": "إقليم بروكسل العاصمة",
     "BE-VLG": "الإقليم الفلامندي",
@@ -46,12 +30,6 @@
   },
   "it": {
     "BE-BRU": "Regione di Bruxelles-Capitale",
-    "BE-VLG": "Flemish Region",
     "BE-WAL": "Vallonia"
-  },
-  "he": {
-    "BE-BRU": "Brussels",
-    "BE-VLG": "Flemish Region",
-    "BE-WAL": "Wallonia"
   }
 }

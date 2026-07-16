@@ -13,8 +13,7 @@
     "MM-14": "Чин",
     "MM-15": "Мон",
     "MM-16": "Ракхайн",
-    "MM-17": "Шан",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "Шан"
   },
   "de": {
     "MM-01": "Sagaing-Division",
@@ -30,8 +29,7 @@
     "MM-14": "Chin-Staat",
     "MM-15": "Mon-Staat",
     "MM-16": "Rakhaing-Staat",
-    "MM-17": "Shan-Staat",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "Shan-Staat"
   },
   "fr": {
     "MM-01": "Région de Sagaing",
@@ -47,16 +45,13 @@
     "MM-14": "État Chin",
     "MM-15": "État Môn",
     "MM-16": "État d'Arakan",
-    "MM-17": "État Shan",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "État Shan"
   },
   "es": {
     "MM-01": "División de Sagaing",
     "MM-02": "Bago",
     "MM-03": "Magway",
-    "MM-04": "Mandalay Region",
     "MM-05": "Tanintharyi",
-    "MM-06": "Yangon Region",
     "MM-07": "Ayeyarwady",
     "MM-11": "Estado Kachin",
     "MM-12": "Kayah",
@@ -64,8 +59,7 @@
     "MM-14": "Chin",
     "MM-15": "Estado Mon",
     "MM-16": "Rakhine",
-    "MM-17": "Shan",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "Shan"
   },
   "zh": {
     "MM-01": "實皆省",
@@ -81,76 +75,13 @@
     "MM-14": "欽邦",
     "MM-15": "孟邦",
     "MM-16": "若開邦",
-    "MM-17": "掸邦",
-    "MM-18": "Nay Pyi Taw"
-  },
-  "hi": {
-    "MM-01": "Sagaing Region",
-    "MM-02": "Bago Region",
-    "MM-03": "Magway Region",
-    "MM-04": "Mandalay Region",
-    "MM-05": "Tanintharyi Region",
-    "MM-06": "Yangon Region",
-    "MM-07": "Ayeyarwady Region",
-    "MM-11": "Kachin State",
-    "MM-12": "Kayah State",
-    "MM-13": "Kayin State",
-    "MM-14": "Chin State",
-    "MM-15": "Mon State",
-    "MM-16": "Rakhine State",
-    "MM-17": "Shan State",
-    "MM-18": "Nay Pyi Taw"
-  },
-  "pt": {
-    "MM-01": "Sagaing Region",
-    "MM-02": "Bago Region",
-    "MM-03": "Magway Region",
-    "MM-04": "Mandalay Region",
-    "MM-05": "Tanintharyi Region",
-    "MM-06": "Yangon Region",
-    "MM-07": "Ayeyarwady Region",
-    "MM-11": "Kachin State",
-    "MM-12": "Kayah State",
-    "MM-13": "Kayin State",
-    "MM-14": "Chin State",
-    "MM-15": "Mon State",
-    "MM-16": "Rakhine State",
-    "MM-17": "Shan State",
-    "MM-18": "Nay Pyi Taw"
-  },
-  "ja": {
-    "MM-01": "Sagaing Region",
-    "MM-02": "Bago Region",
-    "MM-03": "Magway Region",
-    "MM-04": "Mandalay Region",
-    "MM-05": "Tanintharyi Region",
-    "MM-06": "Yangon Region",
-    "MM-07": "Ayeyarwady Region",
-    "MM-11": "Kachin State",
-    "MM-12": "Kayah State",
-    "MM-13": "Kayin State",
-    "MM-14": "Chin State",
-    "MM-15": "Mon State",
-    "MM-16": "Rakhine State",
-    "MM-17": "Shan State",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "掸邦"
   },
   "ar": {
-    "MM-01": "Sagaing Region",
-    "MM-02": "Bago Region",
-    "MM-03": "Magway Region",
-    "MM-04": "Mandalay Region",
-    "MM-05": "Tanintharyi Region",
-    "MM-06": "Yangon Region",
-    "MM-07": "Ayeyarwady Region",
     "MM-11": "ولاية كاشين",
-    "MM-12": "Kayah State",
-    "MM-13": "Kayin State",
     "MM-14": "ولاية تشين",
-    "MM-15": "Mon State",
     "MM-16": "راخين",
-    "MM-17": "ولاية شان",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "ولاية شان"
   },
   "it": {
     "MM-01": "Regione di Sagaing",
@@ -166,24 +97,6 @@
     "MM-14": "Stato Chin",
     "MM-15": "Stato Mon",
     "MM-16": "Stato Rakhine",
-    "MM-17": "Stato Shan",
-    "MM-18": "Nay Pyi Taw"
-  },
-  "he": {
-    "MM-01": "Sagaing Region",
-    "MM-02": "Bago Region",
-    "MM-03": "Magway Region",
-    "MM-04": "Mandalay Region",
-    "MM-05": "Tanintharyi Region",
-    "MM-06": "Yangon Region",
-    "MM-07": "Ayeyarwady Region",
-    "MM-11": "Kachin State",
-    "MM-12": "Kayah State",
-    "MM-13": "Kayin State",
-    "MM-14": "Chin State",
-    "MM-15": "Mon State",
-    "MM-16": "Rakhine State",
-    "MM-17": "Shan State",
-    "MM-18": "Nay Pyi Taw"
+    "MM-17": "Stato Shan"
   }
 }

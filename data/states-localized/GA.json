@@ -54,50 +54,6 @@
     "GA-8": "濱海奧果韋省",
     "GA-9": "沃勒-恩特姆省"
   },
-  "hi": {
-    "GA-1": "Estuaire Province",
-    "GA-2": "Haut-Ogooué Province",
-    "GA-3": "Moyen-Ogooué Province",
-    "GA-4": "Ngounié Province",
-    "GA-5": "Nyanga Province",
-    "GA-6": "Ogooué-Ivindo Province",
-    "GA-7": "Ogooué-Lolo Province",
-    "GA-8": "Ogooué-Maritime Province",
-    "GA-9": "Woleu-Ntem Province"
-  },
-  "pt": {
-    "GA-1": "Estuaire Province",
-    "GA-2": "Haut-Ogooué Province",
-    "GA-3": "Moyen-Ogooué Province",
-    "GA-4": "Ngounié Province",
-    "GA-5": "Nyanga Province",
-    "GA-6": "Ogooué-Ivindo Province",
-    "GA-7": "Ogooué-Lolo Province",
-    "GA-8": "Ogooué-Maritime Province",
-    "GA-9": "Woleu-Ntem Province"
-  },
-  "ja": {
-    "GA-1": "Estuaire Province",
-    "GA-2": "Haut-Ogooué Province",
-    "GA-3": "Moyen-Ogooué Province",
-    "GA-4": "Ngounié Province",
-    "GA-5": "Nyanga Province",
-    "GA-6": "Ogooué-Ivindo Province",
-    "GA-7": "Ogooué-Lolo Province",
-    "GA-8": "Ogooué-Maritime Province",
-    "GA-9": "Woleu-Ntem Province"
-  },
-  "ar": {
-    "GA-1": "Estuaire Province",
-    "GA-2": "Haut-Ogooué Province",
-    "GA-3": "Moyen-Ogooué Province",
-    "GA-4": "Ngounié Province",
-    "GA-5": "Nyanga Province",
-    "GA-6": "Ogooué-Ivindo Province",
-    "GA-7": "Ogooué-Lolo Province",
-    "GA-8": "Ogooué-Maritime Province",
-    "GA-9": "Woleu-Ntem Province"
-  },
   "it": {
     "GA-1": "Estuaire",
     "GA-2": "Haut-Ogooué",
@@ -108,16 +64,5 @@
     "GA-7": "Ogooué-Lolo",
     "GA-8": "Provincia di Ogooué-Maritime",
     "GA-9": "Woleu-Ntem"
-  },
-  "he": {
-    "GA-1": "Estuaire Province",
-    "GA-2": "Haut-Ogooué Province",
-    "GA-3": "Moyen-Ogooué Province",
-    "GA-4": "Ngounié Province",
-    "GA-5": "Nyanga Province",
-    "GA-6": "Ogooué-Ivindo Province",
-    "GA-7": "Ogooué-Lolo Province",
-    "GA-8": "Ogooué-Maritime Province",
-    "GA-9": "Woleu-Ntem Province"
   }
 }

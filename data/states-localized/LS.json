@@ -59,51 +59,11 @@
     "LS-J": "莫霍特隆區",
     "LS-K": "塔巴-采卡區"
   },
-  "hi": {
-    "LS-A": "Maseru District",
-    "LS-B": "Butha-Buthe District",
-    "LS-C": "Leribe District",
-    "LS-D": "Berea District",
-    "LS-E": "Mafeteng District",
-    "LS-F": "Mohale's Hoek District",
-    "LS-G": "Quthing District",
-    "LS-H": "Qacha's Nek District",
-    "LS-J": "Mokhotlong District",
-    "LS-K": "Thaba-Tseka District"
-  },
-  "pt": {
-    "LS-A": "Maseru District",
-    "LS-B": "Butha-Buthe District",
-    "LS-C": "Leribe District",
-    "LS-D": "Berea District",
-    "LS-E": "Mafeteng District",
-    "LS-F": "Mohale's Hoek District",
-    "LS-G": "Quthing District",
-    "LS-H": "Qacha's Nek District",
-    "LS-J": "Mokhotlong District",
-    "LS-K": "Thaba-Tseka District"
-  },
-  "ja": {
-    "LS-A": "Maseru District",
-    "LS-B": "Butha-Buthe District",
-    "LS-C": "Leribe District",
-    "LS-D": "Berea District",
-    "LS-E": "Mafeteng District",
-    "LS-F": "Mohale's Hoek District",
-    "LS-G": "Quthing District",
-    "LS-H": "Qacha's Nek District",
-    "LS-J": "Mokhotlong District",
-    "LS-K": "Thaba-Tseka District"
-  },
   "ar": {
-    "LS-A": "Maseru District",
     "LS-B": "مقاطعة بوثا-بوث",
     "LS-C": "مقاطعة لريب",
-    "LS-D": "Berea District",
     "LS-E": "مقاطعة مافتنغ",
     "LS-F": "مقاطعة موهيلز هوك",
-    "LS-G": "Quthing District",
-    "LS-H": "Qacha's Nek District",
     "LS-J": "مقاطعة موخوتلنغ",
     "LS-K": "مقاطعة ثابا-تسيكا"
   },
@@ -118,17 +78,5 @@
     "LS-H": "Distretto di Qacha's Nek",
     "LS-J": "Distretto di Mokhotlong",
     "LS-K": "Distretto di Thaba-Tseka"
-  },
-  "he": {
-    "LS-A": "Maseru District",
-    "LS-B": "Butha-Buthe District",
-    "LS-C": "Leribe District",
-    "LS-D": "Berea District",
-    "LS-E": "Mafeteng District",
-    "LS-F": "Mohale's Hoek District",
-    "LS-G": "Quthing District",
-    "LS-H": "Qacha's Nek District",
-    "LS-J": "Mokhotlong District",
-    "LS-K": "Thaba-Tseka District"
   }
 }

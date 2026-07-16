@@ -6,10 +6,7 @@
     "BN-TU": "Тутонг"
   },
   "de": {
-    "BN-BE": "Belait District",
-    "BN-BM": "Brunei-Muara District",
-    "BN-TE": "Temburong",
-    "BN-TU": "Tutong District"
+    "BN-TE": "Temburong"
   },
   "fr": {
     "BN-BE": "Belait",
@@ -29,40 +26,10 @@
     "BN-TE": "淡布隆县",
     "BN-TU": "都东县"
   },
-  "hi": {
-    "BN-BE": "Belait District",
-    "BN-BM": "Brunei-Muara District",
-    "BN-TE": "Temburong District",
-    "BN-TU": "Tutong District"
-  },
-  "pt": {
-    "BN-BE": "Belait District",
-    "BN-BM": "Brunei-Muara District",
-    "BN-TE": "Temburong District",
-    "BN-TU": "Tutong District"
-  },
-  "ja": {
-    "BN-BE": "Belait District",
-    "BN-BM": "Brunei-Muara District",
-    "BN-TE": "Temburong District",
-    "BN-TU": "Tutong District"
-  },
-  "ar": {
-    "BN-BE": "Belait District",
-    "BN-BM": "Brunei-Muara District",
-    "BN-TE": "Temburong District",
-    "BN-TU": "Tutong District"
-  },
   "it": {
     "BN-BE": "Distretto di Belait",
     "BN-BM": "Distretto di Brunei-Muara",
     "BN-TE": "Distretto di Temburong",
     "BN-TU": "Distretto di Tutong"
-  },
-  "he": {
-    "BN-BE": "Belait District",
-    "BN-BM": "Brunei-Muara District",
-    "BN-TE": "Temburong District",
-    "BN-TU": "Tutong District"
   }
 }

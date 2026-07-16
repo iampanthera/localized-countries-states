@@ -1,7 +1,6 @@
 {
   "ru": {
     "CM-AD": "Адамава",
-    "CM-CE": "Centre",
     "CM-EN": "Крайнесеверный регион",
     "CM-ES": "Восточный регион",
     "CM-LT": "Прибрежный регион",
@@ -13,7 +12,6 @@
   },
   "de": {
     "CM-AD": "Adamaoua",
-    "CM-CE": "Centre",
     "CM-EN": "Extrême-Nord",
     "CM-ES": "Est",
     "CM-LT": "Littoral",
@@ -25,7 +23,6 @@
   },
   "fr": {
     "CM-AD": "Région de l'Adamaoua",
-    "CM-CE": "Centre",
     "CM-EN": "Région de l'Extrême-Nord",
     "CM-ES": "Région de l'Est",
     "CM-LT": "Région du Littoral",
@@ -37,7 +34,6 @@
   },
   "es": {
     "CM-AD": "Región Adamawa",
-    "CM-CE": "Centre",
     "CM-EN": "Región del Extremo Norte",
     "CM-ES": "Región del Este",
     "CM-LT": "Región del Litoral",
@@ -49,7 +45,6 @@
   },
   "zh": {
     "CM-AD": "阿达马瓦区",
-    "CM-CE": "Centre",
     "CM-EN": "極北區",
     "CM-ES": "东部区",
     "CM-LT": "濱海區",
@@ -60,56 +55,19 @@
     "CM-SW": "西南区"
   },
   "hi": {
-    "CM-AD": "Adamawa Region",
-    "CM-CE": "Centre",
-    "CM-EN": "Far North Region",
-    "CM-ES": "East Region",
-    "CM-LT": "Littoral Region",
-    "CM-NO": "North Region, Cameroon",
-    "CM-NW": "Northwest Region",
-    "CM-OU": "West Region",
-    "CM-SU": "South Region",
-    "CM-SW": "Southwest Region"
+    "CM-NO": "North Region, Cameroon"
   },
   "pt": {
-    "CM-AD": "Adamawa Region",
-    "CM-CE": "Centre",
-    "CM-EN": "Far North Region",
-    "CM-ES": "East Region",
-    "CM-LT": "Littoral Region",
-    "CM-NO": "North Region, Cameroon",
-    "CM-NW": "Northwest Region",
-    "CM-OU": "West Region",
-    "CM-SU": "South Region",
-    "CM-SW": "Southwest Region"
+    "CM-NO": "North Region, Cameroon"
   },
   "ja": {
-    "CM-AD": "Adamawa Region",
-    "CM-CE": "Centre",
-    "CM-EN": "Far North Region",
-    "CM-ES": "East Region",
-    "CM-LT": "Littoral Region",
-    "CM-NO": "North Region, Cameroon",
-    "CM-NW": "Northwest Region",
-    "CM-OU": "West Region",
-    "CM-SU": "South Region",
-    "CM-SW": "Southwest Region"
+    "CM-NO": "North Region, Cameroon"
   },
   "ar": {
-    "CM-AD": "Adamawa Region",
-    "CM-CE": "Centre",
-    "CM-EN": "Far North Region",
-    "CM-ES": "East Region",
-    "CM-LT": "Littoral Region",
-    "CM-NO": "المنطقة الشمالية، الكاميرون",
-    "CM-NW": "Northwest Region",
-    "CM-OU": "West Region",
-    "CM-SU": "South Region",
-    "CM-SW": "Southwest Region"
+    "CM-NO": "المنطقة الشمالية، الكاميرون"
   },
   "it": {
     "CM-AD": "Regione di Adamaoua",
-    "CM-CE": "Centre",
     "CM-EN": "Regione dell'Estremo Nord",
     "CM-ES": "Regione dell'Est",
     "CM-LT": "Regione del Litorale",
@@ -120,15 +78,6 @@
     "CM-SW": "Regione del Sudovest"
   },
   "he": {
-    "CM-AD": "Adamawa Region",
-    "CM-CE": "Centre",
-    "CM-EN": "Far North Region",
-    "CM-ES": "East Region",
-    "CM-LT": "Littoral Region",
-    "CM-NO": "North Region, Cameroon",
-    "CM-NW": "Northwest Region",
-    "CM-OU": "West Region",
-    "CM-SU": "South Region",
-    "CM-SW": "Southwest Region"
+    "CM-NO": "North Region, Cameroon"
   }
 }

@@ -39,37 +39,10 @@
     "VU-TAE": "塔菲亚省",
     "VU-TOB": "托尔巴省"
   },
-  "hi": {
-    "VU-MAP": "Malampa Province",
-    "VU-PAM": "Penama Province",
-    "VU-SAM": "Sanma Province",
-    "VU-SEE": "Shefa Province",
-    "VU-TAE": "Tafea Province",
-    "VU-TOB": "Torba Province"
-  },
-  "pt": {
-    "VU-MAP": "Malampa Province",
-    "VU-PAM": "Penama Province",
-    "VU-SAM": "Sanma Province",
-    "VU-SEE": "Shefa Province",
-    "VU-TAE": "Tafea Province",
-    "VU-TOB": "Torba Province"
-  },
-  "ja": {
-    "VU-MAP": "Malampa Province",
-    "VU-PAM": "Penama Province",
-    "VU-SAM": "Sanma Province",
-    "VU-SEE": "Shefa Province",
-    "VU-TAE": "Tafea Province",
-    "VU-TOB": "Torba Province"
-  },
   "ar": {
     "VU-MAP": "مالامبا",
-    "VU-PAM": "Penama Province",
     "VU-SAM": "سانما",
-    "VU-SEE": "شييفا",
-    "VU-TAE": "Tafea Province",
-    "VU-TOB": "Torba Province"
+    "VU-SEE": "شييفا"
   },
   "it": {
     "VU-MAP": "Malampa",
@@ -78,13 +51,5 @@
     "VU-SEE": "Shefa",
     "VU-TAE": "Tafea",
     "VU-TOB": "Torba"
-  },
-  "he": {
-    "VU-MAP": "Malampa Province",
-    "VU-PAM": "Penama Province",
-    "VU-SAM": "Sanma Province",
-    "VU-SEE": "Shefa Province",
-    "VU-TAE": "Tafea Province",
-    "VU-TOB": "Torba Province"
   }
 }

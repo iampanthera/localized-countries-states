@@ -6,13 +6,11 @@
   },
   "de": {
     "SH-AC": "Ascension",
-    "SH-HL": "St. Helena",
-    "SH-TA": "Tristan da Cunha"
+    "SH-HL": "St. Helena"
   },
   "fr": {
     "SH-AC": "Île de l'Ascension",
-    "SH-HL": "Sainte-Hélène",
-    "SH-TA": "Tristan da Cunha"
+    "SH-HL": "Sainte-Hélène"
   },
   "es": {
     "SH-AC": "Isla Ascensión",
@@ -24,21 +22,6 @@
     "SH-HL": "圣赫勒拿",
     "SH-TA": "特里斯坦-达库尼亚群岛"
   },
-  "hi": {
-    "SH-AC": "Ascension Island",
-    "SH-HL": "Saint Helena",
-    "SH-TA": "Tristan da Cunha"
-  },
-  "pt": {
-    "SH-AC": "Ascension Island",
-    "SH-HL": "Saint Helena",
-    "SH-TA": "Tristan da Cunha"
-  },
-  "ja": {
-    "SH-AC": "Ascension Island",
-    "SH-HL": "Saint Helena",
-    "SH-TA": "Tristan da Cunha"
-  },
   "ar": {
     "SH-AC": "جزيرة أسينشين",
     "SH-HL": "سانت هيلينا",
@@ -46,12 +29,6 @@
   },
   "it": {
     "SH-AC": "Isola di Ascensione",
-    "SH-HL": "Sant'Elena",
-    "SH-TA": "Tristan da Cunha"
-  },
-  "he": {
-    "SH-AC": "Ascension Island",
-    "SH-HL": "Saint Helena",
-    "SH-TA": "Tristan da Cunha"
+    "SH-HL": "Sant'Elena"
   }
 }

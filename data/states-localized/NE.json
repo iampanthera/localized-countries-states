@@ -16,8 +16,7 @@
     "NE-4": "Maradi",
     "NE-5": "Tahoua",
     "NE-6": "Tillabéri",
-    "NE-7": "Zinder",
-    "NE-8": "Niamey"
+    "NE-7": "Zinder"
   },
   "fr": {
     "NE-1": "Agadez",
@@ -26,8 +25,7 @@
     "NE-4": "Maradi",
     "NE-5": "Tahoua",
     "NE-6": "Tillabéri",
-    "NE-7": "Zinder",
-    "NE-8": "Niamey"
+    "NE-7": "Zinder"
   },
   "es": {
     "NE-1": "Región de Agadez",
@@ -36,8 +34,7 @@
     "NE-4": "Región de Maradi",
     "NE-5": "Región de Tahoua",
     "NE-6": "Región de Tillabéri",
-    "NE-7": "Región de Zinder",
-    "NE-8": "Niamey"
+    "NE-7": "Región de Zinder"
   },
   "zh": {
     "NE-1": "阿加德兹大区",
@@ -48,36 +45,6 @@
     "NE-6": "蒂拉贝里大区",
     "NE-7": "津德尔大区",
     "NE-8": "尼亞美"
-  },
-  "hi": {
-    "NE-1": "Agadez Region",
-    "NE-2": "Diffa Region",
-    "NE-3": "Dosso Region",
-    "NE-4": "Maradi Region",
-    "NE-5": "Tahoua Region",
-    "NE-6": "Tillabéri Region",
-    "NE-7": "Zinder Region",
-    "NE-8": "Niamey"
-  },
-  "pt": {
-    "NE-1": "Agadez Region",
-    "NE-2": "Diffa Region",
-    "NE-3": "Dosso Region",
-    "NE-4": "Maradi Region",
-    "NE-5": "Tahoua Region",
-    "NE-6": "Tillabéri Region",
-    "NE-7": "Zinder Region",
-    "NE-8": "Niamey"
-  },
-  "ja": {
-    "NE-1": "Agadez Region",
-    "NE-2": "Diffa Region",
-    "NE-3": "Dosso Region",
-    "NE-4": "Maradi Region",
-    "NE-5": "Tahoua Region",
-    "NE-6": "Tillabéri Region",
-    "NE-7": "Zinder Region",
-    "NE-8": "Niamey"
   },
   "ar": {
     "NE-1": "منطقة أغاديس",
@@ -96,17 +63,6 @@
     "NE-4": "Regione di Maradi",
     "NE-5": "Regione di Tahoua",
     "NE-6": "Regione di Tillabéri",
-    "NE-7": "Regione di Zinder",
-    "NE-8": "Niamey"
-  },
-  "he": {
-    "NE-1": "Agadez Region",
-    "NE-2": "Diffa Region",
-    "NE-3": "Dosso Region",
-    "NE-4": "Maradi Region",
-    "NE-5": "Tahoua Region",
-    "NE-6": "Tillabéri Region",
-    "NE-7": "Zinder Region",
-    "NE-8": "Niamey"
+    "NE-7": "Regione di Zinder"
   }
 }

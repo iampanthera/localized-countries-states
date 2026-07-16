@@ -13,8 +13,6 @@
     "CU-12": "Гранма",
     "CU-13": "Сантьяго-де-Куба",
     "CU-14": "Гуантанамо",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
     "CU-99": "Хувентуд"
   },
   "de": {
@@ -30,10 +28,7 @@
     "CU-11": "Provinz Holguín",
     "CU-12": "Provinz Granma",
     "CU-13": "Provinz Santiago de Cuba",
-    "CU-14": "Provinz Guantánamo",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
-    "CU-99": "Isla de la Juventud"
+    "CU-14": "Provinz Guantánamo"
   },
   "fr": {
     "CU-01": "Province de Pinar del Río",
@@ -49,8 +44,6 @@
     "CU-12": "Province de Granma",
     "CU-13": "Province de Santiago de Cuba",
     "CU-14": "Province de Guantánamo",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
     "CU-99": "Île de la Jeunesse"
   },
   "es": {
@@ -66,10 +59,7 @@
     "CU-11": "Provincia de Holguín",
     "CU-12": "Provincia de Granma",
     "CU-13": "Provincia de Santiago de Cuba",
-    "CU-14": "Provincia de Guantánamo",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
-    "CU-99": "Isla de la Juventud"
+    "CU-14": "Provincia de Guantánamo"
   },
   "zh": {
     "CU-01": "比那尔德里奥省",
@@ -85,80 +75,17 @@
     "CU-12": "格拉玛省",
     "CU-13": "圣地亚哥省",
     "CU-14": "关塔那摩省",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
     "CU-99": "青年岛"
   },
-  "hi": {
-    "CU-01": "Pinar del Río Province",
-    "CU-03": "Havana",
-    "CU-04": "Matanzas Province",
-    "CU-05": "Villa Clara Province",
-    "CU-06": "Cienfuegos Province",
-    "CU-07": "Sancti Spíritus Province",
-    "CU-08": "Ciego de Ávila Province",
-    "CU-09": "Camagüey Province",
-    "CU-10": "Las Tunas Province",
-    "CU-11": "Holguín Province",
-    "CU-12": "Granma Province",
-    "CU-13": "Santiago de Cuba Province",
-    "CU-14": "Guantánamo Province",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
-    "CU-99": "Isla de la Juventud"
-  },
-  "pt": {
-    "CU-01": "Pinar del Río Province",
-    "CU-03": "Havana",
-    "CU-04": "Matanzas Province",
-    "CU-05": "Villa Clara Province",
-    "CU-06": "Cienfuegos Province",
-    "CU-07": "Sancti Spíritus Province",
-    "CU-08": "Ciego de Ávila Province",
-    "CU-09": "Camagüey Province",
-    "CU-10": "Las Tunas Province",
-    "CU-11": "Holguín Province",
-    "CU-12": "Granma Province",
-    "CU-13": "Santiago de Cuba Province",
-    "CU-14": "Guantánamo Province",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
-    "CU-99": "Isla de la Juventud"
-  },
-  "ja": {
-    "CU-01": "Pinar del Río Province",
-    "CU-03": "Havana",
-    "CU-04": "Matanzas Province",
-    "CU-05": "Villa Clara Province",
-    "CU-06": "Cienfuegos Province",
-    "CU-07": "Sancti Spíritus Province",
-    "CU-08": "Ciego de Ávila Province",
-    "CU-09": "Camagüey Province",
-    "CU-10": "Las Tunas Province",
-    "CU-11": "Holguín Province",
-    "CU-12": "Granma Province",
-    "CU-13": "Santiago de Cuba Province",
-    "CU-14": "Guantánamo Province",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
-    "CU-99": "Isla de la Juventud"
-  },
   "ar": {
-    "CU-01": "Pinar del Río Province",
     "CU-03": "هافانا",
     "CU-04": "ماتنزاس",
-    "CU-05": "Villa Clara Province",
     "CU-06": "سينفويغوس",
     "CU-07": "سانكتي سبيريتوس",
-    "CU-08": "Ciego de Ávila Province",
     "CU-09": "كاماغوي",
-    "CU-10": "Las Tunas Province",
-    "CU-11": "Holguín Province",
     "CU-12": "غرانما",
     "CU-13": "سانتياغو دي كوبا",
     "CU-14": "غوانتانامو",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
     "CU-99": "جزيرة الشباب"
   },
   "it": {
@@ -175,26 +102,6 @@
     "CU-12": "Provincia di Granma",
     "CU-13": "Provincia di Santiago di Cuba",
     "CU-14": "Provincia di Guantánamo",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
     "CU-99": "Isola della Gioventù"
-  },
-  "he": {
-    "CU-01": "Pinar del Río Province",
-    "CU-03": "Havana",
-    "CU-04": "Matanzas Province",
-    "CU-05": "Villa Clara Province",
-    "CU-06": "Cienfuegos Province",
-    "CU-07": "Sancti Spíritus Province",
-    "CU-08": "Ciego de Ávila Province",
-    "CU-09": "Camagüey Province",
-    "CU-10": "Las Tunas Province",
-    "CU-11": "Holguín Province",
-    "CU-12": "Granma Province",
-    "CU-13": "Santiago de Cuba Province",
-    "CU-14": "Guantánamo Province",
-    "CU-15": "Artemisa",
-    "CU-16": "Mayabeque",
-    "CU-99": "Isla de la Juventud"
   }
 }

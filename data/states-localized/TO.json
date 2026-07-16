@@ -7,73 +7,22 @@
     "TO-05": "Вавау"
   },
   "de": {
-    "TO-01": "’Eua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
-  },
-  "fr": {
-    "TO-01": "ʻEua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
+    "TO-01": "’Eua"
   },
   "es": {
     "TO-01": "'Eua",
     "TO-02": "Grupo Gálvez",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
     "TO-05": "Vava'u"
   },
   "zh": {
     "TO-01": "埃瓦島",
     "TO-02": "哈派群島",
-    "TO-03": "Niuas",
     "TO-04": "汤加塔布岛",
     "TO-05": "瓦瓦烏群島"
-  },
-  "hi": {
-    "TO-01": "ʻEua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
-  },
-  "pt": {
-    "TO-01": "ʻEua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
-  },
-  "ja": {
-    "TO-01": "ʻEua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
-  },
-  "ar": {
-    "TO-01": "ʻEua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
   },
   "it": {
     "TO-01": "'Eua",
     "TO-02": "Ha'apai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
     "TO-05": "Vava'u"
-  },
-  "he": {
-    "TO-01": "ʻEua",
-    "TO-02": "Haʻapai",
-    "TO-03": "Niuas",
-    "TO-04": "Tongatapu",
-    "TO-05": "Vavaʻu"
   }
 }

@@ -26,7 +26,6 @@
     "KP-13": "Rasŏn"
   },
   "fr": {
-    "KP-01": "Pyongyang",
     "KP-02": "Pyongan du Sud",
     "KP-03": "Pyongan du Nord",
     "KP-04": "Jagang",
@@ -64,60 +63,10 @@
     "KP-10": "两江道",
     "KP-13": "羅先特別市"
   },
-  "hi": {
-    "KP-01": "Pyongyang",
-    "KP-02": "South Pyongan Province",
-    "KP-03": "North Pyongan Province",
-    "KP-04": "Chagang Province",
-    "KP-05": "South Hwanghae Province",
-    "KP-06": "North Hwanghae Province",
-    "KP-07": "Kangwon Province",
-    "KP-08": "South Hamgyong Province",
-    "KP-09": "North Hamgyong Province",
-    "KP-10": "Ryanggang Province",
-    "KP-13": "Rason"
-  },
-  "pt": {
-    "KP-01": "Pyongyang",
-    "KP-02": "South Pyongan Province",
-    "KP-03": "North Pyongan Province",
-    "KP-04": "Chagang Province",
-    "KP-05": "South Hwanghae Province",
-    "KP-06": "North Hwanghae Province",
-    "KP-07": "Kangwon Province",
-    "KP-08": "South Hamgyong Province",
-    "KP-09": "North Hamgyong Province",
-    "KP-10": "Ryanggang Province",
-    "KP-13": "Rason"
-  },
-  "ja": {
-    "KP-01": "Pyongyang",
-    "KP-02": "South Pyongan Province",
-    "KP-03": "North Pyongan Province",
-    "KP-04": "Chagang Province",
-    "KP-05": "South Hwanghae Province",
-    "KP-06": "North Hwanghae Province",
-    "KP-07": "Kangwon Province",
-    "KP-08": "South Hamgyong Province",
-    "KP-09": "North Hamgyong Province",
-    "KP-10": "Ryanggang Province",
-    "KP-13": "Rason"
-  },
   "ar": {
-    "KP-01": "بيونغيانغ",
-    "KP-02": "South Pyongan Province",
-    "KP-03": "North Pyongan Province",
-    "KP-04": "Chagang Province",
-    "KP-05": "South Hwanghae Province",
-    "KP-06": "North Hwanghae Province",
-    "KP-07": "Kangwon Province",
-    "KP-08": "South Hamgyong Province",
-    "KP-09": "North Hamgyong Province",
-    "KP-10": "Ryanggang Province",
-    "KP-13": "Rason"
+    "KP-01": "بيونغيانغ"
   },
   "it": {
-    "KP-01": "Pyongyang",
     "KP-02": "Sud Pyongan",
     "KP-03": "Nord Pyongan",
     "KP-04": "Chagang",
@@ -128,18 +77,5 @@
     "KP-09": "Nord Hamgyong",
     "KP-10": "Ryanggang",
     "KP-13": "Rasŏn"
-  },
-  "he": {
-    "KP-01": "Pyongyang",
-    "KP-02": "South Pyongan Province",
-    "KP-03": "North Pyongan Province",
-    "KP-04": "Chagang Province",
-    "KP-05": "South Hwanghae Province",
-    "KP-06": "North Hwanghae Province",
-    "KP-07": "Kangwon Province",
-    "KP-08": "South Hamgyong Province",
-    "KP-09": "North Hamgyong Province",
-    "KP-10": "Ryanggang Province",
-    "KP-13": "Rason"
   }
 }

@@ -49,36 +49,6 @@
     "SK-TC": "特倫欽州",
     "SK-ZI": "日利納州"
   },
-  "hi": {
-    "SK-BC": "Banská Bystrica Region",
-    "SK-BL": "Bratislava Region",
-    "SK-KI": "Košice Region",
-    "SK-NI": "Nitra Region",
-    "SK-PV": "Prešov Region",
-    "SK-TA": "Trnava Region",
-    "SK-TC": "Trenčín Region",
-    "SK-ZI": "Žilina Region"
-  },
-  "pt": {
-    "SK-BC": "Banská Bystrica Region",
-    "SK-BL": "Bratislava Region",
-    "SK-KI": "Košice Region",
-    "SK-NI": "Nitra Region",
-    "SK-PV": "Prešov Region",
-    "SK-TA": "Trnava Region",
-    "SK-TC": "Trenčín Region",
-    "SK-ZI": "Žilina Region"
-  },
-  "ja": {
-    "SK-BC": "Banská Bystrica Region",
-    "SK-BL": "Bratislava Region",
-    "SK-KI": "Košice Region",
-    "SK-NI": "Nitra Region",
-    "SK-PV": "Prešov Region",
-    "SK-TA": "Trnava Region",
-    "SK-TC": "Trenčín Region",
-    "SK-ZI": "Žilina Region"
-  },
   "ar": {
     "SK-BC": "إقليم بانسكا بيستريتسا",
     "SK-BL": "إقليم براتيسلافا",
@@ -98,15 +68,5 @@
     "SK-TA": "Regione di Trnava",
     "SK-TC": "Regione di Trenčín",
     "SK-ZI": "Regione di Žilina"
-  },
-  "he": {
-    "SK-BC": "Banská Bystrica Region",
-    "SK-BL": "Bratislava Region",
-    "SK-KI": "Košice Region",
-    "SK-NI": "Nitra Region",
-    "SK-PV": "Prešov Region",
-    "SK-TA": "Trnava Region",
-    "SK-TC": "Trenčín Region",
-    "SK-ZI": "Žilina Region"
   }
 }
