@@ -31,17 +31,27 @@ describe("country-localizer", () => {
   it('getStatesOfCountry("PK") returns official ISO 3166-2 subdivisions', () => {
     const states = getStatesOfCountry("PK");
     expect(states.length).toBeGreaterThanOrEqual(4);
-    expect(states.find((s) => s.code === "PK-PB" && s.name === "Punjab")).toBeDefined();
-    expect(states.find((s) => s.code === "PK-SD" && s.name === "Sindh")).toBeDefined();
+    expect(
+      states.find((s) => s.code === "PK-PB" && s.name === "Punjab"),
+    ).toBeDefined();
+    expect(
+      states.find((s) => s.code === "PK-SD" && s.name === "Sindh"),
+    ).toBeDefined();
   });
 
   it('getStatesOfCountry("ES") uses full ISO 3166-2 codes and localizes across languages', () => {
     const en = getStatesOfCountry("ES");
     // Complete ISO 3166-2 set (autonomous communities + provinces)
     expect(en.length).toBeGreaterThanOrEqual(60);
-    expect(en.find((s) => s.code === "ES-CT" && s.name === "Catalonia")).toBeDefined();
-    expect(en.find((s) => s.code === "ES-AN" && s.name === "Andalusia")).toBeDefined();
-    expect(en.find((s) => s.code === "ES-A" && s.name === "Alicante")).toBeDefined(); // province
+    expect(
+      en.find((s) => s.code === "ES-CT" && s.name === "Catalonia"),
+    ).toBeDefined();
+    expect(
+      en.find((s) => s.code === "ES-AN" && s.name === "Andalusia"),
+    ).toBeDefined();
+    expect(
+      en.find((s) => s.code === "ES-A" && s.name === "Alicante"),
+    ).toBeDefined(); // province
     // localized overlays (keyed by language, resolved via BCP-47 fallback)
     const fr = getStatesOfCountry("ES", "fr-FR");
     expect(fr.find((s) => s.code === "ES-CT")!.name).toBe("Catalogne");
@@ -58,39 +68,39 @@ describe("country-localizer", () => {
     const states = getStatesOfCountry("US");
     expect(states.length).toBeGreaterThan(50);
     expect(
-      states.find((s) => s.code === "US-CA" && s.name === "California")
+      states.find((s) => s.code === "US-CA" && s.name === "California"),
     ).toBeDefined();
     expect(
-      states.find((s) => s.code === "US-NY" && s.name === "New York")
+      states.find((s) => s.code === "US-NY" && s.name === "New York"),
     ).toBeDefined();
     expect(
-      states.find((s) => s.code === "US-TX" && s.name === "Texas")
+      states.find((s) => s.code === "US-TX" && s.name === "Texas"),
     ).toBeDefined();
   });
 
   it('getStatesOfCountry("CA") returns Canadian provinces', () => {
     const states = getStatesOfCountry("CA");
     expect(
-      states.find((s) => s.code === "CA-ON" && s.name === "Ontario")
+      states.find((s) => s.code === "CA-ON" && s.name === "Ontario"),
     ).toBeDefined();
     expect(
-      states.find((s) => s.code === "CA-QC" && s.name === "Quebec")
+      states.find((s) => s.code === "CA-QC" && s.name === "Quebec"),
     ).toBeDefined();
     expect(
-      states.find((s) => s.code === "CA-BC" && s.name === "British Columbia")
+      states.find((s) => s.code === "CA-BC" && s.name === "British Columbia"),
     ).toBeDefined();
   });
 
   it('getStatesOfCountry("IN") returns Indian states', () => {
     const states = getStatesOfCountry("IN");
     expect(
-      states.find((s) => s.code === "IN-MH" && s.name === "Maharashtra")
+      states.find((s) => s.code === "IN-MH" && s.name === "Maharashtra"),
     ).toBeDefined();
     expect(
-      states.find((s) => s.code === "IN-DL" && s.name === "Delhi")
+      states.find((s) => s.code === "IN-DL" && s.name === "Delhi"),
     ).toBeDefined();
     expect(
-      states.find((s) => s.code === "IN-KA" && s.name === "Karnataka")
+      states.find((s) => s.code === "IN-KA" && s.name === "Karnataka"),
     ).toBeDefined();
   });
 
@@ -117,16 +127,16 @@ describe("country-localizer", () => {
     const countries = getAllCountries();
     expect(countries.length).toBeGreaterThan(190);
     expect(
-      countries.find((c) => c.code === "US" && c.name === "United States")
+      countries.find((c) => c.code === "US" && c.name === "United States"),
     ).toBeDefined();
     expect(
-      countries.find((c) => c.code === "CN" && c.name === "China")
+      countries.find((c) => c.code === "CN" && c.name === "China"),
     ).toBeDefined();
     expect(
-      countries.find((c) => c.code === "IN" && c.name === "India")
+      countries.find((c) => c.code === "IN" && c.name === "India"),
     ).toBeDefined();
     expect(
-      countries.find((c) => c.code === "BR" && c.name === "Brazil")
+      countries.find((c) => c.code === "BR" && c.name === "Brazil"),
     ).toBeDefined();
   });
 
@@ -149,7 +159,7 @@ describe("country-localizer", () => {
     expect(us.map((s) => s.name)).toEqual(usSorted.map((s) => s.name));
     // Alabama before Alaska (name order, not code order US-AK before US-AL)
     expect(us.findIndex((s) => s.name === "Alabama")).toBeLessThan(
-      us.findIndex((s) => s.name === "Alaska")
+      us.findIndex((s) => s.name === "Alaska"),
     );
 
     const es = getStatesOfCountry("ES", "es-ES");
@@ -167,6 +177,46 @@ describe("country-localizer", () => {
     const names = es.map((s) => s.name);
     const dupes = names.filter((n, i) => names.indexOf(n) !== i);
     expect(dupes).toEqual([]);
+  });
+
+  it("effective state names are unique for every country and language", () => {
+    // Mirrors LANGS in scripts/build-data.mjs; undefined exercises the base layer.
+    const locales = [
+      undefined,
+      "en-US",
+      "ru-RU",
+      "de-DE",
+      "fr-FR",
+      "es-ES",
+      "zh-CN",
+      "hi-IN",
+      "pt-PT",
+      "ja-JP",
+      "ar-SA",
+      "it-IT",
+      "he-IL",
+    ];
+    for (const { code: cc } of getAllCountries()) {
+      for (const locale of locales) {
+        const names = getStatesOfCountry(cc, locale).map((s) => s.name);
+        const dupes = names.filter((n, i) => names.indexOf(n) !== i);
+        expect(dupes.map((d) => `${cc}/${locale ?? "base"}: ${d}`)).toEqual([]);
+      }
+    }
+  });
+
+  it("disambiguates subdivisions that share an identical ISO 3166-2 name", () => {
+    expect(getStateName("TW", "TW-CYI")).toBe("Chiayi City");
+    expect(getStateName("TW", "TW-CYQ")).toBe("Chiayi County");
+    expect(getStateName("LU", "LU-L")).not.toBe(getStateName("LU", "LU-LU"));
+    // esosedi collapses these onto one name; the build falls back to ISO canonical
+    expect(getStateName("ES", "ES-O")).toBe("Asturias");
+    expect(getStateName("ES", "ES-AS")).toBe("Principado de Asturias");
+    expect(getStateName("CZ", "CZ-724")).toBe("Zlín");
+    expect(getStateName("CZ", "CZ-72")).not.toBe("Zlín");
+    // upstream language-name leak must not surface as a region name
+    expect(getStateName("UA", "UA-40", "zh")).not.toBe("Chinese");
+    expect(getStateName("UA", "UA-43", "zh")).not.toBe("Chinese");
   });
 
   it("returns empty array for countries without state data", () => {

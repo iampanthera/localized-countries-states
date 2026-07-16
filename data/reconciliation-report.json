@@ -938,5 +938,1023 @@
       "esosediCode": "",
       "name": "Soqatra"
     }
+  ],
+  "baseNameCollisionsResolved": [
+    {
+      "country": "ES",
+      "code": "ES-AS",
+      "from": "Asturias",
+      "to": "Principado de Asturias"
+    }
+  ],
+  "localizedEntriesDropped": [
+    {
+      "country": "AR",
+      "lang": "ru",
+      "code": "AR-B",
+      "droppedName": "Буэнос-Айрес"
+    },
+    {
+      "country": "AR",
+      "lang": "ru",
+      "code": "AR-C",
+      "droppedName": "Буэнос-Айрес"
+    },
+    {
+      "country": "AR",
+      "lang": "ar",
+      "code": "AR-B",
+      "droppedName": "بوينس آيرس"
+    },
+    {
+      "country": "AR",
+      "lang": "ar",
+      "code": "AR-C",
+      "droppedName": "بوينس آيرس"
+    },
+    {
+      "country": "AZ",
+      "lang": "de",
+      "code": "AZ-LA",
+      "droppedName": "Lənkəran"
+    },
+    {
+      "country": "AZ",
+      "lang": "de",
+      "code": "AZ-LAN",
+      "droppedName": "Lənkəran"
+    },
+    {
+      "country": "AZ",
+      "lang": "de",
+      "code": "AZ-SA",
+      "droppedName": "Şəki"
+    },
+    {
+      "country": "AZ",
+      "lang": "de",
+      "code": "AZ-SAK",
+      "droppedName": "Şəki"
+    },
+    {
+      "country": "AZ",
+      "lang": "de",
+      "code": "AZ-YE",
+      "droppedName": "Yevlax"
+    },
+    {
+      "country": "AZ",
+      "lang": "de",
+      "code": "AZ-YEV",
+      "droppedName": "Yevlax"
+    },
+    {
+      "country": "AZ",
+      "lang": "fr",
+      "code": "AZ-NV",
+      "droppedName": "Nakhitchevan"
+    },
+    {
+      "country": "AZ",
+      "lang": "fr",
+      "code": "AZ-NX",
+      "droppedName": "Nakhitchevan"
+    },
+    {
+      "country": "AZ",
+      "lang": "fr",
+      "code": "AZ-YE",
+      "droppedName": "Ievlakh"
+    },
+    {
+      "country": "AZ",
+      "lang": "fr",
+      "code": "AZ-YEV",
+      "droppedName": "Ievlakh"
+    },
+    {
+      "country": "AZ",
+      "lang": "es",
+      "code": "AZ-SA",
+      "droppedName": "Şəki"
+    },
+    {
+      "country": "AZ",
+      "lang": "es",
+      "code": "AZ-SAK",
+      "droppedName": "Şəki"
+    },
+    {
+      "country": "AZ",
+      "lang": "es",
+      "code": "AZ-YE",
+      "droppedName": "Yevlax"
+    },
+    {
+      "country": "AZ",
+      "lang": "es",
+      "code": "AZ-YEV",
+      "droppedName": "Yevlax"
+    },
+    {
+      "country": "BD",
+      "lang": "de",
+      "code": "BD-A",
+      "droppedName": "Barishal"
+    },
+    {
+      "country": "BD",
+      "lang": "de",
+      "code": "BD-C",
+      "droppedName": "Dhaka"
+    },
+    {
+      "country": "BD",
+      "lang": "de",
+      "code": "BD-D",
+      "droppedName": "Khulna"
+    },
+    {
+      "country": "BD",
+      "lang": "de",
+      "code": "BD-E",
+      "droppedName": "Rajshahi"
+    },
+    {
+      "country": "BD",
+      "lang": "de",
+      "code": "BD-F",
+      "droppedName": "Rangpur"
+    },
+    {
+      "country": "BD",
+      "lang": "de",
+      "code": "BD-G",
+      "droppedName": "Sylhet"
+    },
+    {
+      "country": "BD",
+      "lang": "fr",
+      "code": "BD-C",
+      "droppedName": "Dhaka"
+    },
+    {
+      "country": "BD",
+      "lang": "fr",
+      "code": "BD-D",
+      "droppedName": "Khulna"
+    },
+    {
+      "country": "BD",
+      "lang": "fr",
+      "code": "BD-E",
+      "droppedName": "Rajshahi"
+    },
+    {
+      "country": "BD",
+      "lang": "fr",
+      "code": "BD-F",
+      "droppedName": "Rangpur"
+    },
+    {
+      "country": "BD",
+      "lang": "fr",
+      "code": "BD-G",
+      "droppedName": "Sylhet"
+    },
+    {
+      "country": "BD",
+      "lang": "es",
+      "code": "BD-D",
+      "droppedName": "Khulna"
+    },
+    {
+      "country": "BD",
+      "lang": "es",
+      "code": "BD-E",
+      "droppedName": "Rajshahi"
+    },
+    {
+      "country": "BD",
+      "lang": "es",
+      "code": "BD-F",
+      "droppedName": "Rangpur"
+    },
+    {
+      "country": "BD",
+      "lang": "es",
+      "code": "BD-G",
+      "droppedName": "Sylhet"
+    },
+    {
+      "country": "CZ",
+      "lang": "de",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "fr",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "es",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "hi",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "pt",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "ja",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "it",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "CZ",
+      "lang": "he",
+      "code": "CZ-72",
+      "droppedName": "Zlín"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-39",
+      "droppedName": "Hiiumaa"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-247",
+      "droppedName": "Jõgevamaa"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-255",
+      "droppedName": "Järvamaa"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-622",
+      "droppedName": "Põlvamaa"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-624",
+      "droppedName": "Pärnumaa"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-668",
+      "droppedName": "Raplamaa"
+    },
+    {
+      "country": "EE",
+      "lang": "it",
+      "code": "EE-74",
+      "droppedName": "Saaremaa"
+    },
+    {
+      "country": "ES",
+      "lang": "de",
+      "code": "ES-NC",
+      "droppedName": "Navarra"
+    },
+    {
+      "country": "ES",
+      "lang": "hi",
+      "code": "ES-AS",
+      "droppedName": "Asturias"
+    },
+    {
+      "country": "ES",
+      "lang": "pt",
+      "code": "ES-AS",
+      "droppedName": "Asturias"
+    },
+    {
+      "country": "ES",
+      "lang": "ja",
+      "code": "ES-AS",
+      "droppedName": "Asturias"
+    },
+    {
+      "country": "ES",
+      "lang": "it",
+      "code": "ES-MD",
+      "droppedName": "Madrid"
+    },
+    {
+      "country": "ES",
+      "lang": "it",
+      "code": "ES-NC",
+      "droppedName": "Navarra"
+    },
+    {
+      "country": "ES",
+      "lang": "he",
+      "code": "ES-AS",
+      "droppedName": "Asturias"
+    },
+    {
+      "country": "GN",
+      "lang": "es",
+      "code": "GN-B",
+      "droppedName": "Boké"
+    },
+    {
+      "country": "GN",
+      "lang": "es",
+      "code": "GN-D",
+      "droppedName": "Kindia"
+    },
+    {
+      "country": "GN",
+      "lang": "es",
+      "code": "GN-F",
+      "droppedName": "Faranah"
+    },
+    {
+      "country": "GN",
+      "lang": "es",
+      "code": "GN-K",
+      "droppedName": "Kankan"
+    },
+    {
+      "country": "GN",
+      "lang": "es",
+      "code": "GN-M",
+      "droppedName": "Mamou"
+    },
+    {
+      "country": "GN",
+      "lang": "es",
+      "code": "GN-N",
+      "droppedName": "Nzérékoré"
+    },
+    {
+      "country": "GT",
+      "lang": "es",
+      "code": "GT-01",
+      "droppedName": "Santa Rosa"
+    },
+    {
+      "country": "HU",
+      "lang": "fr",
+      "code": "HU-VE",
+      "droppedName": "Veszprém"
+    },
+    {
+      "country": "HU",
+      "lang": "es",
+      "code": "HU-VE",
+      "droppedName": "Veszprém"
+    },
+    {
+      "country": "KZ",
+      "lang": "de",
+      "code": "KZ-19",
+      "droppedName": "Almaty"
+    },
+    {
+      "country": "KZ",
+      "lang": "de",
+      "code": "KZ-75",
+      "droppedName": "Almaty"
+    },
+    {
+      "country": "LA",
+      "lang": "ru",
+      "code": "LA-VI",
+      "droppedName": "Вьентьян"
+    },
+    {
+      "country": "LA",
+      "lang": "ru",
+      "code": "LA-VT",
+      "droppedName": "Вьентьян"
+    },
+    {
+      "country": "LV",
+      "lang": "it",
+      "code": "LV-041",
+      "droppedName": "Jelgava"
+    },
+    {
+      "country": "LV",
+      "lang": "it",
+      "code": "LV-JEL",
+      "droppedName": "Jelgava"
+    },
+    {
+      "country": "LV",
+      "lang": "it",
+      "code": "LV-077",
+      "droppedName": "Rēzekne"
+    },
+    {
+      "country": "LV",
+      "lang": "it",
+      "code": "LV-REZ",
+      "droppedName": "Rēzekne"
+    },
+    {
+      "country": "LV",
+      "lang": "it",
+      "code": "LV-106",
+      "droppedName": "Ventspils"
+    },
+    {
+      "country": "LV",
+      "lang": "it",
+      "code": "LV-VEN",
+      "droppedName": "Ventspils"
+    },
+    {
+      "country": "MT",
+      "lang": "ru",
+      "code": "MT-65",
+      "droppedName": "Зеббудж"
+    },
+    {
+      "country": "MT",
+      "lang": "ru",
+      "code": "MT-66",
+      "droppedName": "Зеббудж"
+    },
+    {
+      "country": "MX",
+      "lang": "ru",
+      "code": "MX-CMX",
+      "droppedName": "Мехико"
+    },
+    {
+      "country": "MX",
+      "lang": "ru",
+      "code": "MX-MEX",
+      "droppedName": "Мехико"
+    },
+    {
+      "country": "MZ",
+      "lang": "ru",
+      "code": "MZ-L",
+      "droppedName": "Мапуту"
+    },
+    {
+      "country": "MZ",
+      "lang": "ru",
+      "code": "MZ-MPM",
+      "droppedName": "Мапуту"
+    },
+    {
+      "country": "PE",
+      "lang": "ru",
+      "code": "PE-LIM",
+      "droppedName": "Лима"
+    },
+    {
+      "country": "PE",
+      "lang": "ru",
+      "code": "PE-LMA",
+      "droppedName": "Лима"
+    },
+    {
+      "country": "PE",
+      "lang": "de",
+      "code": "PE-LIM",
+      "droppedName": "Lima"
+    },
+    {
+      "country": "PE",
+      "lang": "de",
+      "code": "PE-LMA",
+      "droppedName": "Lima"
+    },
+    {
+      "country": "PG",
+      "lang": "ru",
+      "code": "PG-EBR",
+      "droppedName": "Восточная Новая Британия"
+    },
+    {
+      "country": "PG",
+      "lang": "ru",
+      "code": "PG-WBK",
+      "droppedName": "Восточная Новая Британия"
+    },
+    {
+      "country": "PG",
+      "lang": "de",
+      "code": "PG-EBR",
+      "droppedName": "East New Britain Province"
+    },
+    {
+      "country": "PG",
+      "lang": "de",
+      "code": "PG-WBK",
+      "droppedName": "East New Britain Province"
+    },
+    {
+      "country": "PG",
+      "lang": "fr",
+      "code": "PG-EBR",
+      "droppedName": "Nouvelle-Bretagne orientale"
+    },
+    {
+      "country": "PG",
+      "lang": "fr",
+      "code": "PG-WBK",
+      "droppedName": "Nouvelle-Bretagne orientale"
+    },
+    {
+      "country": "PG",
+      "lang": "es",
+      "code": "PG-EBR",
+      "droppedName": "Nueva Bretaña oriental"
+    },
+    {
+      "country": "PG",
+      "lang": "es",
+      "code": "PG-WBK",
+      "droppedName": "Nueva Bretaña oriental"
+    },
+    {
+      "country": "PG",
+      "lang": "zh",
+      "code": "PG-EBR",
+      "droppedName": "東新不列顛省"
+    },
+    {
+      "country": "PG",
+      "lang": "zh",
+      "code": "PG-WBK",
+      "droppedName": "東新不列顛省"
+    },
+    {
+      "country": "PG",
+      "lang": "it",
+      "code": "PG-EBR",
+      "droppedName": "Provincia della Nuova Britannia Est"
+    },
+    {
+      "country": "PG",
+      "lang": "it",
+      "code": "PG-WBK",
+      "droppedName": "Provincia della Nuova Britannia Est"
+    },
+    {
+      "country": "SC",
+      "lang": "fr",
+      "code": "SC-13",
+      "droppedName": "Grand'Anse"
+    },
+    {
+      "country": "SC",
+      "lang": "fr",
+      "code": "SC-14",
+      "droppedName": "Grand'Anse"
+    },
+    {
+      "country": "SC",
+      "lang": "es",
+      "code": "SC-13",
+      "droppedName": "Grand' Anse"
+    },
+    {
+      "country": "SC",
+      "lang": "es",
+      "code": "SC-14",
+      "droppedName": "Grand' Anse"
+    },
+    {
+      "country": "SY",
+      "lang": "ru",
+      "code": "SY-DI",
+      "droppedName": "Дамаск"
+    },
+    {
+      "country": "SY",
+      "lang": "ru",
+      "code": "SY-RD",
+      "droppedName": "Дамаск"
+    },
+    {
+      "country": "TW",
+      "lang": "ru",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "ru",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "ru",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "ru",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "de",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "de",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "de",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "de",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "fr",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "fr",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "fr",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "fr",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "es",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "es",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "es",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "es",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "zh",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "zh",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "zh",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "zh",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "hi",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "hi",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "hi",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "hi",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "pt",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "pt",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "pt",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "pt",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "ja",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "ja",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "ja",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "ja",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "ar",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "ar",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "ar",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "ar",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "it",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "it",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "it",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "it",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "he",
+      "code": "TW-CYI",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "he",
+      "code": "TW-CYQ",
+      "droppedName": "Chiayi"
+    },
+    {
+      "country": "TW",
+      "lang": "he",
+      "code": "TW-HSQ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "TW",
+      "lang": "he",
+      "code": "TW-HSZ",
+      "droppedName": "Hsinchu"
+    },
+    {
+      "country": "YE",
+      "lang": "ru",
+      "code": "YE-SA",
+      "droppedName": "Сана"
+    },
+    {
+      "country": "YE",
+      "lang": "ru",
+      "code": "YE-SN",
+      "droppedName": "Сана"
+    },
+    {
+      "country": "YE",
+      "lang": "de",
+      "code": "YE-SA",
+      "droppedName": "Sanaa"
+    },
+    {
+      "country": "YE",
+      "lang": "de",
+      "code": "YE-SN",
+      "droppedName": "Sanaa"
+    },
+    {
+      "country": "YE",
+      "lang": "fr",
+      "code": "YE-SA",
+      "droppedName": "Sanaa"
+    },
+    {
+      "country": "YE",
+      "lang": "fr",
+      "code": "YE-SN",
+      "droppedName": "Sanaa"
+    },
+    {
+      "country": "YE",
+      "lang": "es",
+      "code": "YE-SA",
+      "droppedName": "Saná"
+    },
+    {
+      "country": "YE",
+      "lang": "es",
+      "code": "YE-SN",
+      "droppedName": "Saná"
+    },
+    {
+      "country": "YE",
+      "lang": "zh",
+      "code": "YE-SA",
+      "droppedName": "萨那"
+    },
+    {
+      "country": "YE",
+      "lang": "zh",
+      "code": "YE-SN",
+      "droppedName": "萨那"
+    },
+    {
+      "country": "YE",
+      "lang": "hi",
+      "code": "YE-SA",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "hi",
+      "code": "YE-SN",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "pt",
+      "code": "YE-SA",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "pt",
+      "code": "YE-SN",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "ja",
+      "code": "YE-SA",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "ja",
+      "code": "YE-SN",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "ar",
+      "code": "YE-SA",
+      "droppedName": "صنعاء"
+    },
+    {
+      "country": "YE",
+      "lang": "ar",
+      "code": "YE-SN",
+      "droppedName": "صنعاء"
+    },
+    {
+      "country": "YE",
+      "lang": "it",
+      "code": "YE-SA",
+      "droppedName": "San'a'"
+    },
+    {
+      "country": "YE",
+      "lang": "it",
+      "code": "YE-SN",
+      "droppedName": "San'a'"
+    },
+    {
+      "country": "YE",
+      "lang": "he",
+      "code": "YE-SA",
+      "droppedName": "Sana'a"
+    },
+    {
+      "country": "YE",
+      "lang": "he",
+      "code": "YE-SN",
+      "droppedName": "Sana'a"
+    }
   ]
 }

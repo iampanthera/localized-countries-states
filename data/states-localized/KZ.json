@@ -19,7 +19,6 @@
   "de": {
     "KZ-11": "Aqmola",
     "KZ-15": "Aqtöbe",
-    "KZ-19": "Almaty",
     "KZ-23": "Atyrau",
     "KZ-27": "Westkasachstan",
     "KZ-31": "Schambyl",
@@ -30,8 +29,7 @@
     "KZ-55": "Pawlodar",
     "KZ-59": "Nordkasachstan",
     "KZ-63": "Ostkasachstan",
-    "KZ-71": "Astana",
-    "KZ-75": "Almaty"
+    "KZ-71": "Astana"
   },
   "fr": {
     "KZ-11": "Oblys d'Aqmola",

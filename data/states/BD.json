@@ -32,7 +32,7 @@
   "BD-31": "Lakshmipur",
   "BD-32": "Lalmonirhat",
   "BD-33": "Manikganj",
-  "BD-34": "Mymensingh",
+  "BD-34": "Mymensingh District",
   "BD-35": "Munshiganj",
   "BD-36": "Madaripur",
   "BD-37": "Magura",
@@ -70,5 +70,5 @@
   "BD-E": "Rajshahi Division",
   "BD-F": "Rangpur Division",
   "BD-G": "Sylhet Division",
-  "BD-H": "Mymensingh"
+  "BD-H": "Mymensingh Division"
 }

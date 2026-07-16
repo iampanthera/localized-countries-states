@@ -16,10 +16,8 @@
     "YE-MR": "Эль-Махра",
     "YE-MW": "Махвит",
     "YE-RA": "Райма",
-    "YE-SA": "Сана",
     "YE-SD": "Саада",
     "YE-SH": "Шабва",
-    "YE-SN": "Сана",
     "YE-TA": "Таиз"
   },
   "de": {
@@ -39,10 +37,8 @@
     "YE-MR": "Gouvernement al-Mahra",
     "YE-MW": "Gouvernement al-Mahwit",
     "YE-RA": "Gouvernement Raima",
-    "YE-SA": "Sanaa",
     "YE-SD": "Gouvernement Sa'da",
     "YE-SH": "Gouvernement Schabwa",
-    "YE-SN": "Sanaa",
     "YE-TA": "Gouvernement Ta'izz"
   },
   "fr": {
@@ -62,10 +58,8 @@
     "YE-MR": "Mahra",
     "YE-MW": "Gouvernorat d'Al Mahwit",
     "YE-RA": "Gouvernorat de Raima",
-    "YE-SA": "Sanaa",
     "YE-SD": "Gouvernorat de Sa'dah",
     "YE-SH": "Shabwah",
-    "YE-SN": "Sanaa",
     "YE-TA": "Gouvernorat de Ta'izz"
   },
   "es": {
@@ -85,10 +79,8 @@
     "YE-MR": "Gobernación de Al Mahrah",
     "YE-MW": "Gobernación de Al Mahwit",
     "YE-RA": "Gobernación de Raymah",
-    "YE-SA": "Saná",
     "YE-SD": "Gobernación de Sa'dah",
     "YE-SH": "Gobernación de Shabwah",
-    "YE-SN": "Saná",
     "YE-TA": "Gobernación de Ta'izz"
   },
   "zh": {
@@ -108,10 +100,8 @@
     "YE-MR": "马哈拉省",
     "YE-MW": "迈赫维特省",
     "YE-RA": "赖马省",
-    "YE-SA": "萨那",
     "YE-SD": "萨达省",
     "YE-SH": "舍卜沃省",
-    "YE-SN": "萨那",
     "YE-TA": "塔伊茲省"
   },
   "hi": {
@@ -131,10 +121,8 @@
     "YE-MR": "Al Mahrah Governorate",
     "YE-MW": "Al Mahwit Governorate",
     "YE-RA": "Raymah Governorate",
-    "YE-SA": "Sana'a",
     "YE-SD": "Saada Governorate",
     "YE-SH": "Shabwah Governorate",
-    "YE-SN": "Sana'a",
     "YE-TA": "Ta'izz Governorate"
   },
   "pt": {
@@ -154,10 +142,8 @@
     "YE-MR": "Al Mahrah Governorate",
     "YE-MW": "Al Mahwit Governorate",
     "YE-RA": "Raymah Governorate",
-    "YE-SA": "Sana'a",
     "YE-SD": "Saada Governorate",
     "YE-SH": "Shabwah Governorate",
-    "YE-SN": "Sana'a",
     "YE-TA": "Ta'izz Governorate"
   },
   "ja": {
@@ -177,10 +163,8 @@
     "YE-MR": "Al Mahrah Governorate",
     "YE-MW": "Al Mahwit Governorate",
     "YE-RA": "Raymah Governorate",
-    "YE-SA": "Sana'a",
     "YE-SD": "Saada Governorate",
     "YE-SH": "Shabwah Governorate",
-    "YE-SN": "Sana'a",
     "YE-TA": "Ta'izz Governorate"
   },
   "ar": {
@@ -200,10 +184,8 @@
     "YE-MR": "المهرة",
     "YE-MW": "المحويت",
     "YE-RA": "محافظة ريمة",
-    "YE-SA": "صنعاء",
     "YE-SD": "صعدة",
     "YE-SH": "شبوة",
-    "YE-SN": "صنعاء",
     "YE-TA": "تعز"
   },
   "it": {
@@ -223,10 +205,8 @@
     "YE-MR": "Governatorato di al-Mahra",
     "YE-MW": "Governatorato di al-Mahwit",
     "YE-RA": "Governatorato di Rayma",
-    "YE-SA": "San'a'",
     "YE-SD": "Governatorato di Sa'da",
     "YE-SH": "Governatorato di Shabwa",
-    "YE-SN": "San'a'",
     "YE-TA": "Governatorato di Ta'izz"
   },
   "he": {
@@ -246,10 +226,8 @@
     "YE-MR": "Al Mahrah Governorate",
     "YE-MW": "Al Mahwit Governorate",
     "YE-RA": "Raymah Governorate",
-    "YE-SA": "Sana'a",
     "YE-SD": "Saada Governorate",
     "YE-SH": "Shabwah Governorate",
-    "YE-SN": "Sana'a",
     "YE-TA": "Ta'izz Governorate"
   }
 }

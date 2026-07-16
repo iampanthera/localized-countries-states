@@ -395,7 +395,6 @@
     "LV-022": "Cēsis Municipality",
     "LV-026": "Dobele",
     "LV-033": "Gulbene Municipality",
-    "LV-041": "Jelgava",
     "LV-042": "Jēkabpils",
     "LV-047": "Krāslava Municipality",
     "LV-050": "Kuldīga Municipality",
@@ -408,7 +407,6 @@
     "LV-067": "Ogre Municipality",
     "LV-068": "Olaine Municipality",
     "LV-073": "Preiļi",
-    "LV-077": "Rēzekne",
     "LV-080": "Ropaži",
     "LV-087": "Salaspils Municipality",
     "LV-088": "Saldus",
@@ -419,15 +417,11 @@
     "LV-099": "Tukums",
     "LV-101": "Valka Municipality",
     "LV-102": "Varakļāni",
-    "LV-106": "Ventspils",
     "LV-113": "Valmiera",
     "LV-DGV": "Daugavpils",
-    "LV-JEL": "Jelgava",
     "LV-JUR": "Jūrmala",
     "LV-LPX": "Liepāja",
-    "LV-REZ": "Rēzekne",
-    "LV-RIX": "Riga",
-    "LV-VEN": "Ventspils"
+    "LV-RIX": "Riga"
   },
   "he": {
     "LV-002": "Aizkraukle Municipality",

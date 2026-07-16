@@ -35,7 +35,6 @@
     "ES-MD": "Autonome Gemeinschaft Madrid",
     "ES-ML": "Melilla",
     "ES-MU": "Murcia",
-    "ES-NC": "Navarra",
     "ES-PV": "Autonome Gemeinschaft Baskenland",
     "ES-VC": "Valencianische Gemeinschaft"
   },
@@ -101,7 +100,6 @@
   "hi": {
     "ES-AN": "Andalusia",
     "ES-AR": "Aragon",
-    "ES-AS": "Asturias",
     "ES-CB": "Cantabria",
     "ES-CE": "Ceuta",
     "ES-CL": "Castile and León",
@@ -121,7 +119,6 @@
   "pt": {
     "ES-AN": "Andalusia",
     "ES-AR": "Aragon",
-    "ES-AS": "Asturias",
     "ES-CB": "Cantabria",
     "ES-CE": "Ceuta",
     "ES-CL": "Castile and León",
@@ -141,7 +138,6 @@
   "ja": {
     "ES-AN": "Andalusia",
     "ES-AR": "Aragon",
-    "ES-AS": "Asturias",
     "ES-CB": "Cantabria",
     "ES-CE": "Ceuta",
     "ES-CL": "Castile and León",
@@ -191,17 +187,14 @@
     "ES-EX": "Estremadura",
     "ES-GA": "Galizia",
     "ES-LO": "La Rioja",
-    "ES-MD": "Madrid",
     "ES-ML": "Melilla",
     "ES-MU": "Murcia",
-    "ES-NC": "Navarra",
     "ES-PV": "Paesi Baschi",
     "ES-VC": "Comunità valenzana"
   },
   "he": {
     "ES-AN": "Andalusia",
     "ES-AR": "Aragon",
-    "ES-AS": "Asturias",
     "ES-CB": "Cantabria",
     "ES-CE": "Ceuta",
     "ES-CL": "Castile and León",

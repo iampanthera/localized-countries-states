@@ -2,7 +2,6 @@
   "ru": {
     "PG-CPK": "Симбу",
     "PG-CPM": "Central Province",
-    "PG-EBR": "Восточная Новая Британия",
     "PG-EHG": "Истерн-Хайлендс",
     "PG-EPW": "Энга",
     "PG-ESW": "Восточный Сепик",
@@ -19,14 +18,12 @@
     "PG-NSB": "Bougainville",
     "PG-SAN": "Сандаун",
     "PG-SHM": "Саутерн-Хайлендс",
-    "PG-WBK": "Восточная Новая Британия",
     "PG-WHM": "Уэстерн-Хайлендс",
     "PG-WPD": "Western Province"
   },
   "de": {
     "PG-CPK": "Chimbu Province",
     "PG-CPM": "Central Province",
-    "PG-EBR": "East New Britain Province",
     "PG-EHG": "Eastern Highlands Province",
     "PG-EPW": "Enga Province",
     "PG-ESW": "East Sepik Province",
@@ -43,14 +40,12 @@
     "PG-NSB": "Bougainville",
     "PG-SAN": "Sandaun Province",
     "PG-SHM": "Southern Highlands Province",
-    "PG-WBK": "East New Britain Province",
     "PG-WHM": "Western Highlands Province",
     "PG-WPD": "Western Province"
   },
   "fr": {
     "PG-CPK": "Simbu",
     "PG-CPM": "Central Province",
-    "PG-EBR": "Nouvelle-Bretagne orientale",
     "PG-EHG": "Hautes-Terres orientales",
     "PG-EPW": "Enga",
     "PG-ESW": "Sepik oriental",
@@ -67,14 +62,12 @@
     "PG-NSB": "Bougainville",
     "PG-SAN": "Sandaun",
     "PG-SHM": "Hautes-Terres méridionales",
-    "PG-WBK": "Nouvelle-Bretagne orientale",
     "PG-WHM": "Hautes-Terres occidentales",
     "PG-WPD": "Western Province"
   },
   "es": {
     "PG-CPK": "Simbu",
     "PG-CPM": "Central Province",
-    "PG-EBR": "Nueva Bretaña oriental",
     "PG-EHG": "Tierras Altas Orientales",
     "PG-EPW": "Enga",
     "PG-ESW": "Sepik Oriental",
@@ -91,14 +84,12 @@
     "PG-NSB": "Bougainville",
     "PG-SAN": "Sandaun",
     "PG-SHM": "Tierras Altas del Sur",
-    "PG-WBK": "Nueva Bretaña oriental",
     "PG-WHM": "Tierras Altas Occidentales",
     "PG-WPD": "Western Province"
   },
   "zh": {
     "PG-CPK": "欽布省",
     "PG-CPM": "Central Province",
-    "PG-EBR": "東新不列顛省",
     "PG-EHG": "東高地省",
     "PG-EPW": "恩加省",
     "PG-ESW": "东塞皮克省",
@@ -115,7 +106,6 @@
     "PG-NSB": "Bougainville",
     "PG-SAN": "桑道恩省",
     "PG-SHM": "南高地省",
-    "PG-WBK": "東新不列顛省",
     "PG-WHM": "西高地省",
     "PG-WPD": "Western Province"
   },
@@ -218,7 +208,6 @@
   "it": {
     "PG-CPK": "Provincia di Chimbu",
     "PG-CPM": "Central Province",
-    "PG-EBR": "Provincia della Nuova Britannia Est",
     "PG-EHG": "Provincia degli Altopiani Orientali",
     "PG-EPW": "Provincia di Enga",
     "PG-ESW": "Provincia di Sepik Est",
@@ -235,7 +224,6 @@
     "PG-NSB": "Bougainville",
     "PG-SAN": "Provincia di Sandaun",
     "PG-SHM": "Provincia degli Altopiani del Sud",
-    "PG-WBK": "Provincia della Nuova Britannia Est",
     "PG-WHM": "Provincia degli Altopiani Occidentali",
     "PG-WPD": "Western Province"
   },

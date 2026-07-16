@@ -26,7 +26,6 @@
     "CZ-63": "Kraj Vysočina",
     "CZ-64": "Jihomoravský kraj",
     "CZ-712": "Okres Olomouc",
-    "CZ-72": "Zlín",
     "CZ-80": "Moravskoslezský kraj"
   },
   "fr": {
@@ -41,7 +40,6 @@
     "CZ-63": "Région de Vysočina",
     "CZ-64": "Moravie-du-Sud",
     "CZ-712": "District d'Olomouc",
-    "CZ-72": "Zlín",
     "CZ-80": "Région de Moravie-Silésie"
   },
   "es": {
@@ -56,7 +54,6 @@
     "CZ-63": "Región de Vysočina",
     "CZ-64": "Región de Moravia Meridional",
     "CZ-712": "Olomouc District",
-    "CZ-72": "Zlín",
     "CZ-80": "Región de Moravia-Silesia"
   },
   "zh": {
@@ -71,7 +68,6 @@
     "CZ-63": "維索基納州",
     "CZ-64": "南摩拉維亞州",
     "CZ-712": "Olomouc District",
-    "CZ-72": "Chinese",
     "CZ-80": "摩拉維亞-西里西亞州"
   },
   "hi": {
@@ -86,7 +82,6 @@
     "CZ-63": "Vysočina Region",
     "CZ-64": "South Moravian Region",
     "CZ-712": "Olomouc District",
-    "CZ-72": "Zlín",
     "CZ-80": "Moravian-Silesian Region"
   },
   "pt": {
@@ -101,7 +96,6 @@
     "CZ-63": "Vysočina Region",
     "CZ-64": "South Moravian Region",
     "CZ-712": "Olomouc District",
-    "CZ-72": "Zlín",
     "CZ-80": "Moravian-Silesian Region"
   },
   "ja": {
@@ -116,7 +110,6 @@
     "CZ-63": "Vysočina Region",
     "CZ-64": "South Moravian Region",
     "CZ-712": "Olomouc District",
-    "CZ-72": "Zlín",
     "CZ-80": "Moravian-Silesian Region"
   },
   "ar": {
@@ -146,7 +139,6 @@
     "CZ-63": "Regione di Vysočina",
     "CZ-64": "Moravia meridionale",
     "CZ-712": "Distretto di Olomouc",
-    "CZ-72": "Zlín",
     "CZ-80": "Regione di Moravia-Slesia"
   },
   "he": {
@@ -161,7 +153,6 @@
     "CZ-63": "Vysočina Region",
     "CZ-64": "South Moravian Region",
     "CZ-712": "Olomouc District",
-    "CZ-72": "Zlín",
     "CZ-80": "Moravian-Silesian Region"
   }
 }
