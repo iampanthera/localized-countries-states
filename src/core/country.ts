@@ -1,103 +1,35 @@
-import { defaultLocale } from "../config.js";
-import {
-  getLocalizedName,
-  normalizeLocale,
-  isLocaleSupported,
-} from "./localizer.js";
-import {
-  COUNTRIES as countriesData,
-  COUNTRIES_LOCALIZED as localizedCountriesData,
-} from "../../data/bundle.js";
+import type { Country } from "./types.js";
+import { resolveLocale, resolveCountryName, collatorFor } from "./resolve.js";
+import { COUNTRIES, COUNTRIES_LOCALIZED } from "#data";
 
-export function getAllCountries(locale?: string) {
-  const useLocale = locale ? normalizeLocale(locale) : defaultLocale;
-  const collator = new Intl.Collator(useLocale);
-
-  return Object.entries(countriesData)
-    .map(([code, { name }]) => {
-      let localizedName = "";
-
-      if (
-        localizedCountriesData[useLocale] &&
-        localizedCountriesData[useLocale][code]
-      ) {
-        localizedName = localizedCountriesData[useLocale][code];
-      } else if (useLocale.includes("-")) {
-        const language = useLocale.split("-")[0];
-        if (
-          localizedCountriesData[language] &&
-          localizedCountriesData[language][code]
-        ) {
-          localizedName = localizedCountriesData[language][code];
-        }
-      }
-
-      if (!localizedName) {
-        localizedName = getLocalizedName(code, useLocale, "region");
-      }
-
-      return {
-        code,
-        name: localizedName || name,
-      };
-    })
+/** All ISO 3166-1 countries, sorted by localized name. */
+export function getAllCountries(locale?: string): Country[] {
+  const loc = resolveLocale(locale);
+  const collator = collatorFor(loc);
+  return Object.keys(COUNTRIES)
+    .map((code) => ({ code, name: resolveCountryName(code, loc) as string }))
     .sort((a, b) => collator.compare(a.name, b.name));
 }
 
-export function getCountryName(code: string, locale?: string): string {
-  const useLocale = locale ? normalizeLocale(locale) : defaultLocale;
-  const country = countriesData[code];
-
-  if (!country) return "";
-
-  let localizedName = "";
-
-  if (
-    localizedCountriesData[useLocale] &&
-    localizedCountriesData[useLocale][code]
-  ) {
-    localizedName = localizedCountriesData[useLocale][code];
-  } else if (useLocale.includes("-")) {
-    const language = useLocale.split("-")[0];
-    if (
-      localizedCountriesData[language] &&
-      localizedCountriesData[language][code]
-    ) {
-      localizedName = localizedCountriesData[language][code];
-    }
-  }
-
-  if (!localizedName) {
-    localizedName = getLocalizedName(code, useLocale, "region");
-  }
-
-  return localizedName || country.name;
+export function getCountry(code: string, locale?: string): Country | undefined {
+  const cc = code?.toUpperCase();
+  if (!cc) return undefined;
+  const name = resolveCountryName(cc, resolveLocale(locale));
+  return name === undefined ? undefined : { code: cc, name };
 }
 
-/**
- * Check if a locale is supported
- */
-export function isCountryLocaleSupported(locale: string): boolean {
-  return isLocaleSupported(locale);
+export function getCountryName(code: string, locale?: string): string | undefined {
+  return getCountry(code, locale)?.name;
 }
 
-/**
- * Get all available locales for country names
- */
+/** Languages the bundled country data is localized in (e.g. ["ru", "de", ...]). */
 export function getAvailableCountryLocales(): string[] {
-  return Object.keys(localizedCountriesData);
+  return Object.keys(COUNTRIES_LOCALIZED);
 }
 
-/**
- * Check if localized country names are available for a locale
- */
+/** Whether bundled localized country names exist for the given locale. */
 export function hasLocalizedCountries(locale?: string): boolean {
-  if (!locale) return false;
-
-  const normalizedLocale = normalizeLocale(locale);
-  return !!(
-    localizedCountriesData[normalizedLocale] ||
-    (normalizedLocale.includes("-") &&
-      localizedCountriesData[normalizedLocale.split("-")[0]])
-  );
+  const loc = resolveLocale(locale);
+  if (!loc) return false;
+  return !!(COUNTRIES_LOCALIZED[loc.normalized] || COUNTRIES_LOCALIZED[loc.language]);
 }

@@ -12,6 +12,7 @@ export default {
     ],
   },
   moduleNameMapper: {
+    "^#data$": "<rootDir>/data/bundle.js",
     "^(\\.{1,2}/.*)\\.js$": "$1",
   },
 };

@@ -47,10 +47,7 @@ export function normalizeLocale(locale: string): string {
 
   let result = parsed.language.toLowerCase();
   if (parsed.script) {
-    result += `-${
-      parsed.script.charAt(0).toUpperCase() +
-      parsed.script.slice(1).toLowerCase()
-    }`;
+    result += `-${parsed.script.charAt(0).toUpperCase() + parsed.script.slice(1).toLowerCase()}`;
   }
   if (parsed.region) {
     result += `-${parsed.region.toUpperCase()}`;
@@ -90,7 +87,7 @@ export function getFallbackLocales(locale: string): string[] {
  */
 export function createLocalizer(
   locale: string,
-  type: "region" | "language" | "script" = "region"
+  type: "region" | "language" | "script" = "region",
 ): Intl.DisplayNames | null {
   try {
     return new Intl.DisplayNames([locale], { type });
@@ -113,7 +110,7 @@ export function createLocalizer(
 export function getLocalizedName(
   code: string,
   locale: string,
-  type: "region" | "language" | "script" = "region"
+  type: "region" | "language" | "script" = "region",
 ): string {
   const localizer = createLocalizer(locale, type);
   if (!localizer) return "";

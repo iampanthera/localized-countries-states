@@ -3,7 +3,9 @@
   "compilerOptions": {
     "types": ["node", "jest"],
     "noEmit": true,
+    "allowJs": true,
     "rootDir": ".."
   },
-  "include": ["."]
+  "include": ["."],
+  "exclude": ["../node_modules", "../dist"]
 }

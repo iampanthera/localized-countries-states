@@ -1,0 +1,6 @@
+dist/
+data/
+coverage/
+scripts/vendor/
+scripts/reconciliation-report.json
+package-lock.json
