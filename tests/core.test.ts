@@ -219,6 +219,51 @@ describe("country-localizer", () => {
     expect(getStateName("UA", "UA-43", "zh")).not.toBe("Chinese");
   });
 
+  describe("admin-type suffix stripping", () => {
+    it("strips trailing administrative-type suffixes", () => {
+      expect(getStateName("JP", "JP-02")).toBe("Aomori");
+      expect(getStateName("JP", "JP-26")).toBe("Kyoto");
+      expect(getStateName("TR", "TR-06")).toBe("Ankara");
+      expect(getStateName("RU", "RU-AMU")).toBe("Amur");
+      expect(getStateName("NG", "NG-LA")).toBe("Lagos");
+      expect(getStateName("MM", "MM-17")).toBe("Shan");
+    });
+
+    it("keeps the suffix when stripping would collide with a sibling", () => {
+      expect(getStateName("RU", "RU-MOW")).toBe("Moscow");
+      expect(getStateName("RU", "RU-MOS")).toBe("Moscow Oblast");
+      expect(getStateName("AR", "AR-C")).toBe("Buenos Aires");
+      expect(getStateName("AR", "AR-B")).toBe("Buenos Aires Province");
+      expect(getStateName("BG", "BG-23")).toBe("Sofia Province");
+      expect(getStateName("UZ", "UZ-TO")).toBe("Tashkent Province");
+      // both members of a mutual-collision pair survive
+      expect(getStateName("LA", "LA-VI")).toBe("Vientiane Province");
+      expect(getStateName("LA", "LA-VT")).toBe("Vientiane Prefecture");
+    });
+
+    it("never strips City/Territory/Krai/Republic", () => {
+      expect(getStateName("MX", "MX-CMX")).toBe("Mexico City");
+      expect(getStateName("AU", "AU-NT")).toBe("Northern Territory");
+      expect(getStateName("RU", "RU-KDA")).toBe("Krasnodar Krai");
+      expect(getStateName("RU", "RU-KO")).toBe("Komi Republic");
+    });
+
+    it("keeps generic/directional and compound-designation names intact", () => {
+      expect(getStateName("LK", "LK-4")).toBe("Northern Province");
+      expect(getStateName("IS", "IS-1")).toBe("Capital Region");
+      expect(getStateName("ZA", "ZA-FS")).toBe("Free State");
+      expect(getStateName("SD", "SD-NO")).toBe("Northern State");
+      expect(getStateName("CM", "CM-EN")).toBe("Far North Region");
+      expect(getStateName("TJ", "TJ-GB")).toBe(
+        "Gorno-Badakhshan Autonomous Province",
+      );
+      expect(getStateName("RU", "RU-YEV")).toBe("Jewish Autonomous Oblast");
+      // curated exemptions: adjectival remainders can't stand alone
+      expect(getStateName("CZ", "CZ-31")).toBe("South Bohemian Region");
+      expect(getStateName("BE", "BE-VLG")).toBe("Flemish Region");
+    });
+  });
+
   it("returns empty array for countries without state data", () => {
     const states = getStatesOfCountry("XX");
     expect(states).toEqual([]);

@@ -1,14 +1,14 @@
 {
-  "BJ-AK": "Atakora Department",
-  "BJ-AL": "Alibori Department",
-  "BJ-AQ": "Atlantique Department",
-  "BJ-BO": "Borgou Department",
-  "BJ-CO": "Collines Department",
-  "BJ-DO": "Donga Department",
-  "BJ-KO": "Kouffo Department",
+  "BJ-AK": "Atakora",
+  "BJ-AL": "Alibori",
+  "BJ-AQ": "Atlantique",
+  "BJ-BO": "Borgou",
+  "BJ-CO": "Collines",
+  "BJ-DO": "Donga",
+  "BJ-KO": "Kouffo",
   "BJ-LI": "Littoral Department",
-  "BJ-MO": "Mono Department",
-  "BJ-OU": "Ouémé Department",
-  "BJ-PL": "Plateau Department",
-  "BJ-ZO": "Zou Department"
+  "BJ-MO": "Mono",
+  "BJ-OU": "Ouémé",
+  "BJ-PL": "Plateau",
+  "BJ-ZO": "Zou"
 }

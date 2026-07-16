@@ -1,15 +1,15 @@
 {
-  "SA-01": "Riyadh Province",
-  "SA-02": "Makkah Region",
-  "SA-03": "Al Madinah Region",
+  "SA-01": "Riyadh",
+  "SA-02": "Makkah",
+  "SA-03": "Al Madinah",
   "SA-04": "Eastern Province",
-  "SA-05": "Al-Qassim Region",
-  "SA-06": "Ha'il Region",
-  "SA-07": "Tabuk Region",
-  "SA-08": "Northern Borders Region",
-  "SA-09": "Jizan Region",
-  "SA-10": "Najran Region",
-  "SA-11": "Al Bahah Region",
-  "SA-12": "Al Jawf Region",
-  "SA-14": "'Asir Region"
+  "SA-05": "Al-Qassim",
+  "SA-06": "Ha'il",
+  "SA-07": "Tabuk",
+  "SA-08": "Northern Borders",
+  "SA-09": "Jizan",
+  "SA-10": "Najran",
+  "SA-11": "Al Bahah",
+  "SA-12": "Al Jawf",
+  "SA-14": "'Asir"
 }

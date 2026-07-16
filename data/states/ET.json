@@ -1,15 +1,15 @@
 {
   "ET-AA": "Addis Ababa",
-  "ET-AF": "Afar Region",
-  "ET-AM": "Amhara Region",
-  "ET-BE": "Benishangul-Gumuz Region",
+  "ET-AF": "Afar",
+  "ET-AM": "Amhara",
+  "ET-BE": "Benishangul-Gumuz",
   "ET-DD": "Dire Dawa",
-  "ET-GA": "Gambela Region",
-  "ET-HA": "Harari Region",
-  "ET-OR": "Oromia Region",
+  "ET-GA": "Gambela",
+  "ET-HA": "Harari",
+  "ET-OR": "Oromia",
   "ET-SI": "Sīdama",
   "ET-SN": "Southern Nations",
-  "ET-SO": "Somali Region",
+  "ET-SO": "Somali",
   "ET-SW": "YeDebub M‘irab Ītyop’iya Hizboch",
-  "ET-TI": "Tigray Region"
+  "ET-TI": "Tigray"
 }

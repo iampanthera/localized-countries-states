@@ -1,16 +1,16 @@
 {
-  "NA-CA": "Zambezi Region",
-  "NA-ER": "Erongo Region",
-  "NA-HA": "Hardap Region",
-  "NA-KA": "ǁKaras Region",
+  "NA-CA": "Zambezi",
+  "NA-ER": "Erongo",
+  "NA-HA": "Hardap",
+  "NA-KA": "ǁKaras",
   "NA-KE": "Kavango East",
-  "NA-KH": "Khomas Region",
-  "NA-KU": "Kunene Region",
+  "NA-KH": "Khomas",
+  "NA-KU": "Kunene",
   "NA-KW": "Kavango West",
-  "NA-OD": "Otjozondjupa Region",
-  "NA-OH": "Omaheke Region",
-  "NA-ON": "Oshana Region",
-  "NA-OS": "Omusati Region",
-  "NA-OT": "Oshikoto Region",
-  "NA-OW": "Ohangwena Region"
+  "NA-OD": "Otjozondjupa",
+  "NA-OH": "Omaheke",
+  "NA-ON": "Oshana",
+  "NA-OS": "Omusati",
+  "NA-OT": "Oshikoto",
+  "NA-OW": "Ohangwena"
 }

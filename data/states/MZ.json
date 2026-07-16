@@ -1,13 +1,13 @@
 {
-  "MZ-A": "Niassa Province",
-  "MZ-B": "Manica Province",
-  "MZ-G": "Gaza Province",
-  "MZ-I": "Inhambane Province",
+  "MZ-A": "Niassa",
+  "MZ-B": "Manica",
+  "MZ-G": "Gaza",
+  "MZ-I": "Inhambane",
   "MZ-L": "Maputo Province",
   "MZ-MPM": "Maputo",
-  "MZ-N": "Nampula Province",
-  "MZ-P": "Cabo Delgado Province",
-  "MZ-Q": "Zambezia Province",
-  "MZ-S": "Sofala Province",
-  "MZ-T": "Tete Province"
+  "MZ-N": "Nampula",
+  "MZ-P": "Cabo Delgado",
+  "MZ-Q": "Zambezia",
+  "MZ-S": "Sofala",
+  "MZ-T": "Tete"
 }
